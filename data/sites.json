@@ -25,63 +25,13 @@
     "name": "חדשות 04"
   },
   "103fm.maariv.co.il": {
-    "articles_seen": 137,
+    "articles_seen": 1,
     "domain": "103fm.maariv.co.il",
     "found_via_queries": [
-      "ראשי",
-      "ישראל",
-      "פוליטיקה",
-      "ממשלה",
-      "בחירות",
-      "בג\"ץ",
-      "משפט",
-      "משטרה",
-      "ביטחון",
-      "צה\"ל",
-      "לבנון",
-      "גבול הצפון",
-      "פיקוד העורף",
-      "חרדי",
-      "ציבור חרדי",
-      "דתיים",
-      "דתי לאומי",
-      "יהדות",
-      "גיוס חרדים",
-      "שבת",
-      "חגים",
-      "חסידות",
-      "בני ברק",
-      "הנגב",
-      "יהודה ושומרון",
-      "המזרח התיכון",
-      "ירדן",
-      "יוקר המחיה",
-      "ריבית",
-      "תעסוקה",
-      "בינה מלאכותית",
-      "בריאות",
-      "רפואה",
-      "קורונה",
-      "תזונה",
-      "תרבות",
-      "קולנוע",
-      "טלוויזיה",
-      "מוזיקה",
-      "ספרים",
-      "תיאטרון",
-      "תיירות",
-      "טיולים",
-      "אופנה",
-      "ספורט",
-      "כדורגל",
-      "הפועל",
-      "נבחרת ישראל",
-      "ערבים בישראל",
-      "נשים",
-      "תחקיר"
+      "ראשי"
     ],
     "homepage": "https://103fm.maariv.co.il",
-    "name": "103fm.maariv.co.il"
+    "name": "103FM"
   },
   "1045fm.maariv.co.il": {
     "articles_seen": 10,
@@ -640,7 +590,7 @@
       "ראשי"
     ],
     "homepage": "https://www.bhol.co.il",
-    "name": "בחדרי חרדים"
+    "name": "bhol.co.il"
   },
   "bizportal.co.il": {
     "articles_seen": 1,
@@ -752,7 +702,7 @@
       "ראשי"
     ],
     "homepage": "https://www.calcalist.co.il",
-    "name": "calcalist"
+    "name": "calcalist.co.il"
   },
   "cars.walla.co.il": {
     "articles_seen": 24,
@@ -1319,49 +1269,13 @@
     "name": "פרוגי"
   },
   "funder.co.il": {
-    "articles_seen": 218,
+    "articles_seen": 1,
     "domain": "funder.co.il",
     "found_via_queries": [
-      "חדשות",
-      "דיווחים",
-      "פוליטיקה",
-      "משפט",
-      "תחבורה",
-      "ביטחון",
-      "שבת",
-      "תל אביב",
-      "הנגב",
-      "גוש דן",
-      "השרון",
-      "ארצות הברית",
-      "ארה\"ב",
-      "אירופה",
-      "רוסיה",
-      "אוקראינה",
-      "סין",
-      "כלכלה",
-      "בורסה",
-      "נדל\"ן",
-      "דיור",
-      "יוקר המחיה",
-      "בנקים",
-      "ריבית",
-      "הייטק",
-      "מסים",
-      "תעסוקה",
-      "אנרגיה",
-      "טכנולוגיה",
-      "סייבר",
-      "בינה מלאכותית",
-      "חלל",
-      "סביבה",
-      "בריאות",
-      "בתי חולים",
-      "בריאות הנפש",
-      "מאמרים"
+      "ראשי"
     ],
     "homepage": "https://www.funder.co.il",
-    "name": "פאנדר"
+    "name": "funder.co.il"
   },
   "g-rafa.co.il": {
     "articles_seen": 47,
@@ -1626,7 +1540,7 @@
       "ראשי"
     ],
     "homepage": "https://www.haaretz.co.il",
-    "name": "haaretz.co.il"
+    "name": "הארץ"
   },
   "habama.co.il": {
     "articles_seen": 54,
@@ -3278,7 +3192,7 @@
     "name": "מרכז העניינים"
   },
   "maariv.co.il": {
-    "articles_seen": 2,
+    "articles_seen": 1,
     "domain": "maariv.co.il",
     "found_via_queries": [
       "ראשי"
@@ -3347,7 +3261,7 @@
       "ראשי"
     ],
     "homepage": "https://www.mako.co.il",
-    "name": "mako.co.il"
+    "name": "mako"
   },
   "makorrishon.co.il": {
     "articles_seen": 787,
@@ -4220,7 +4134,7 @@
       "ראשי"
     ],
     "homepage": "https://pplus.ynet.co.il",
-    "name": "פנאי פלוס"
+    "name": "pplus.ynet.co.il"
   },
   "president.gov.il": {
     "articles_seen": 9,
@@ -5386,7 +5300,7 @@
       "ראשי"
     ],
     "homepage": "https://www.ynet.co.il",
-    "name": "YNET"
+    "name": "ynet.co.il"
   },
   "yogonet.com": {
     "articles_seen": 1,
