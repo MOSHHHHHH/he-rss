@@ -35,7 +35,7 @@ from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote_plus, urljoin, urlparse
+from urllib.parse import parse_qsl, quote_plus, unquote, urljoin, urlparse
 
 import feedparser
 import requests
@@ -83,7 +83,9 @@ COMMON_FEED_PATHS = [
 
 SKIP_DOMAINS = ("google.com", "news.google.com", "googleusercontent.com")
 MULTI_PART_SLD = {"co", "org", "gov", "ac", "net", "muni", "k12"}
-TRUSTED_FEED_HOSTS = ("feedburner.com", "feedblitz.com")
+# אתרי צד שלישי (אגרגטורים, חנויות, רשתות) שלא נבדקים כפידים בעצמם
+SKIP_HOSTS = re.compile(r"(feedspot|feeder\.co|feedly|google\.|apple\.com|microsoft\.com|"
+                        r"wikipedia|facebook|twitter|(^|\.)x\.com|youtube|instagram|(^|\.)t\.me|linkedin)", re.I)
 
 RSSISH = re.compile(r"(rss|/feed|atom|\.xml|feeds?\b)", re.I)
 INDEX_HINT = re.compile(r"(rss|feed)", re.I)
@@ -133,10 +135,32 @@ def base_domain(host):
 
 
 def same_site(url, domain):
-    host = urlparse(url).netloc
-    if base_domain(host) == base_domain(domain):
+    return base_domain(urlparse(url).netloc) == base_domain(domain)
+
+
+def owns(parsed, domain):
+    """פיד מדומיין אחר נחשב שייך לאתר אם הקישור הראשי שלו, או לפחות מחצית מקישורי הכתבות, מצביעים לאתר."""
+    target = base_domain(domain)
+    ch = parsed.feed.get("link") or ""
+    if ch and base_domain(urlparse(ch).netloc) == target:
         return True
-    return any(norm_domain(host).endswith(h) for h in TRUSTED_FEED_HOSTS)
+    links = [e.get("link", "") for e in parsed.entries[:10] if e.get("link")]
+    if not links:
+        return False
+    hits = sum(1 for l in links if base_domain(urlparse(l).netloc) == target)
+    return hits * 2 >= len(links)
+
+
+def unwrap(url):
+    """כתובת פיד שעטופה בפרמטר של קישור צד שלישי (…?url=https%3A%2F%2Fsite%2Frss.xml או q=site:https…)."""
+    out = [url]
+    for _, v in parse_qsl(urlparse(url).query):
+        v = unquote(v)
+        if v.lower().startswith("site:"):
+            v = v[5:]
+        if v.lower().startswith("http"):
+            out.append(v)
+    return out
 
 
 # --------------------------------------------------------------------------
@@ -301,7 +325,7 @@ def is_html(r):
     return "html" in ctype or b"<html" in r.content[:3000].lower()
 
 
-def check_feed(r):
+def check_feed(r, domain=None):
     """אם התגובה היא פיד תקין עם פריטים - מחזיר מידע עליו, אחרת None."""
     if r is None or r.status_code != 200:
         return None
@@ -313,15 +337,22 @@ def check_feed(r):
     parsed = feedparser.parse(r.content)
     if not parsed.entries:
         return None
-    return {
+    info = {
         "url": r.url,
         "title": (parsed.feed.get("title") or "").strip(),
         "entries": len(parsed.entries),
         "verified": True,
     }
+    if domain and not same_site(r.url, domain):
+        if not owns(parsed, domain):
+            log(f"   פיד מדומיין אחר שאינו שייך לאתר, נדחה: {r.url}")
+            return None
+        info["cross_domain"] = True
+        log(f"   פיד מדומיין אחר, אומת לפי תוכן כשייך לאתר: {r.url}")
+    return info
 
 
-def feed_links_from_html(html, page_url):
+def feed_links_from_html(html, page_url, focus=None):
     """קישורים מועמדים לפיד/לדף RSS: קודם <link rel=alternate>, אחר כך קישורים שנראים כמו RSS."""
     soup = BeautifulSoup(html, "html.parser")
     primary, secondary = [], []
@@ -338,11 +369,15 @@ def feed_links_from_html(html, page_url):
             secondary.append(urljoin(page_url, href))
     secondary.sort(key=lambda u: 0 if re.search(r"rss", urlparse(u).path, re.I) else 1)
     out, seen = [], set()
-    for u in primary + secondary:
-        if u in seen or not u.startswith("http") or BAD_LINK.search(u):
-            continue
-        seen.add(u)
-        out.append(u)
+    for raw in primary + secondary:
+        for u in unwrap(raw):
+            if u in seen or not u.startswith("http") or BAD_LINK.search(u):
+                continue
+            if focus:  # דף צד שלישי: רק קישורים שמזכירים את הדומיין של האתר, לפני החיתוך
+                if base_domain(focus) not in unquote(u).lower() or not RSSISH.search(urlparse(u).path + "?" + urlparse(u).query):
+                    continue
+            seen.add(u)
+            out.append(u)
     return out[:MAX_LINKS_PER_PAGE]
 
 
@@ -351,14 +386,15 @@ def resolve(f, url, domain, seen, depth=1, homelen=None):
     if url in seen or f.blocked:
         return []
     seen.add(url)
-    if not same_site(url, domain):
-        log(f"   מדלג (דומיין זר): {url}")
+    foreign = not same_site(url, domain)
+    if foreign and SKIP_HOSTS.search(urlparse(url).netloc):
+        log(f"   מדלג (אתר צד שלישי): {url}")
         return []
     r = f.get(url)
-    info = check_feed(r)
+    info = check_feed(r, domain)
     if info:
         return [info]
-    if r is None or r.status_code != 200 or not is_html(r):
+    if foreign or r is None or r.status_code != 200 or not is_html(r):
         return []
     f.html_lengths[len(r.content)] += 1
     if not INDEX_HINT.search(urlparse(url).path):
@@ -413,7 +449,7 @@ def attempt2(site, f, seen):
         r = f.get(alt)
     if r is None or r.status_code != 200:
         return []
-    direct = check_feed(r)
+    direct = check_feed(r, site["domain"])
     if direct:
         return [direct]
     homelen = len(r.content)
@@ -478,10 +514,13 @@ def attempt3(site, f, seen):
             if was_blocked and same_site(link, site["domain"]) and RSSISH.search(link) and not unverified:
                 unverified = link
             continue
-        direct = check_feed(r)
-        if direct and same_site(direct["url"], site["domain"]):
+        direct = check_feed(r, site["domain"])
+        if direct:
             return [direct]
-        for cand in feed_links_from_html(r.text, r.url):
+        third_party = not same_site(r.url, site["domain"])
+        if third_party:
+            log("   דף צד שלישי - מחפש בו רק קישורים שמזכירים את הדומיין של האתר")
+        for cand in feed_links_from_html(r.text, r.url, focus=site["domain"] if third_party else None):
             found = resolve(f, cand, site["domain"], seen, depth=1)
             if found:
                 return found
