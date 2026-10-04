@@ -227,6 +227,9 @@ def discover_sites():
             if base_label not in site["found_via_queries"]:
                 site["found_via_queries"].append(base_label)
         log(f"      -> {len(items)} כתבות, {new_here} אתרים חדשים, סה\"כ {len(sites)} אתרים")
+        if MAX_SITES and len(sites) >= MAX_SITES:
+            log(f"=== הגענו ל-MAX_SITES={MAX_SITES} אתרים, מפסיקים את שלב 1 ===")
+            break
     return sites
 
 
