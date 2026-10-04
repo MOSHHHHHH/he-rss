@@ -1,1 +1,63 @@
+name: Build Hebrew news RSS list
 
+on:
+  workflow_dispatch:
+    inputs:
+      retry_not_found:
+        description: "לנסות שוב אתרים שלא נמצא להם פיד בעבר"
+        type: boolean
+        default: false
+      force_recheck:
+        description: "לבדוק מחדש הכול (גם אתרים עם פיד קיים)"
+        type: boolean
+        default: false
+      max_sites:
+        description: "הגבלת מספר אתרים לבדיקה (0 = ללא הגבלה)"
+        type: string
+        default: "0"
+  schedule:
+    - cron: "0 3 1 * *"   # פעם בחודש, ב-1 לחודש
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-feed-list
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build feed list
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          RETRY_NOT_FOUND: ${{ inputs.retry_not_found && '1' || '0' }}
+          FORCE_RECHECK: ${{ inputs.force_recheck && '1' || '0' }}
+          MAX_SITES: ${{ inputs.max_sites || '0' }}
+        run: python -u scripts/build_feed_list.py
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "אין שינויים לשמירה"
+          else
+            git commit -m "Update Hebrew news feeds list"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
