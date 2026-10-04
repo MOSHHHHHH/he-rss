@@ -1,0 +1,194 @@
+{
+  "13tv.co.il": {
+    "checked_at": "2026-10-04T08:33:23+00:00",
+    "status": "not_found"
+  },
+  "bhol.co.il": {
+    "checked_at": "2026-10-04T08:32:48+00:00",
+    "status": "not_found"
+  },
+  "bizportal.co.il": {
+    "checked_at": "2026-10-04T08:33:03+00:00",
+    "status": "not_found"
+  },
+  "c14.co.il": {
+    "checked_at": "2026-10-04T08:32:59+00:00",
+    "status": "not_found"
+  },
+  "calcalist.co.il": {
+    "checked_at": "2026-10-04T08:31:48+00:00",
+    "status": "not_found"
+  },
+  "davar1.co.il": {
+    "checked_at": "2026-10-04T08:33:26+00:00",
+    "status": "not_found"
+  },
+  "emess.co.il": {
+    "checked_at": "2026-10-04T08:33:23+00:00",
+    "entries": 50,
+    "method": "attempt1",
+    "status": "found",
+    "title": "אמס MS",
+    "url": "https://www.emess.co.il/feed"
+  },
+  "funder.co.il": {
+    "checked_at": "2026-10-04T08:33:45+00:00",
+    "status": "not_found"
+  },
+  "globes.co.il": {
+    "checked_at": "2026-10-04T08:32:55+00:00",
+    "entries": 15,
+    "method": "attempt2",
+    "status": "found",
+    "title": "שוק ההון והשקעות - גלובס",
+    "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585"
+  },
+  "gov.il": {
+    "checked_at": "2026-10-04T08:33:48+00:00",
+    "status": "not_found"
+  },
+  "haaretz.co.il": {
+    "checked_at": "2026-10-04T08:30:41+00:00",
+    "status": "not_found"
+  },
+  "hm-news.co.il": {
+    "checked_at": "2026-10-04T08:34:07+00:00",
+    "entries": 10,
+    "method": "attempt1",
+    "status": "found",
+    "title": "המחדש",
+    "url": "https://hm-news.co.il/feed/"
+  },
+  "i24news.tv": {
+    "checked_at": "2026-10-04T08:33:07+00:00",
+    "status": "not_found"
+  },
+  "ice.co.il": {
+    "checked_at": "2026-10-04T08:32:11+00:00",
+    "entries": 20,
+    "method": "attempt1",
+    "status": "found",
+    "title": "אייס - ICE",
+    "url": "https://www.ice.co.il/rss"
+  },
+  "idf.il": {
+    "checked_at": "2026-10-04T08:34:06+00:00",
+    "status": "not_found"
+  },
+  "il.investing.com": {
+    "checked_at": "2026-10-04T08:33:55+00:00",
+    "status": "not_found"
+  },
+  "inn.co.il": {
+    "checked_at": "2026-10-04T08:33:20+00:00",
+    "entries": 20,
+    "method": "attempt2",
+    "status": "found",
+    "title": "כתבות ערוץ 7",
+    "url": "https://www.inn.co.il/Rss.aspx?act=.1"
+  },
+  "israeldefense.co.il": {
+    "checked_at": "2026-10-04T08:34:34+00:00",
+    "status": "not_found"
+  },
+  "israelhayom.co.il": {
+    "checked_at": "2026-10-04T08:30:25+00:00",
+    "status": "not_found"
+  },
+  "jdn.co.il": {
+    "checked_at": "2026-10-04T08:33:43+00:00",
+    "entries": 8,
+    "method": "attempt1",
+    "status": "found",
+    "title": "JDN",
+    "url": "https://www.jdn.co.il/feed/"
+  },
+  "kan.org.il": {
+    "checked_at": "2026-10-04T08:32:10+00:00",
+    "entries": 33,
+    "method": "attempt2",
+    "status": "found",
+    "title": "",
+    "url": "https://www.kan.org.il/api/newsflash/v2/Newsflash"
+  },
+  "kikar.co.il": {
+    "checked_at": "2026-10-04T08:31:33+00:00",
+    "entries": 49,
+    "method": "attempt2",
+    "status": "found",
+    "title": "כיכר השבת",
+    "url": "https://a.kikar.co.il/v1/rss/articles/latest/rss2"
+  },
+  "kipa.co.il": {
+    "checked_at": "2026-10-04T08:33:44+00:00",
+    "entries": 50,
+    "method": "attempt1",
+    "status": "found",
+    "title": "כיפה - אתר החדשות המוביל במגזר הדתי",
+    "url": "https://www.kipa.co.il/feed/"
+  },
+  "maariv.co.il": {
+    "checked_at": "2026-10-04T08:30:44+00:00",
+    "entries": 20,
+    "method": "attempt1",
+    "status": "found",
+    "title": "maariv.co.il - חדשות מהארץ והעולם",
+    "url": "https://www.maariv.co.il/rss/feed"
+  },
+  "mako.co.il": {
+    "checked_at": "2026-10-04T08:30:53+00:00",
+    "status": "not_found"
+  },
+  "makorrishon.co.il": {
+    "checked_at": "2026-10-04T08:32:13+00:00",
+    "status": "not_found"
+  },
+  "passportnews.co.il": {
+    "checked_at": "2026-10-04T08:34:16+00:00",
+    "status": "not_found"
+  },
+  "sport1.maariv.co.il": {
+    "checked_at": "2026-10-04T08:32:43+00:00",
+    "status": "not_found"
+  },
+  "sport5.co.il": {
+    "checked_at": "2026-10-04T08:31:46+00:00",
+    "status": "not_found"
+  },
+  "sports.walla.co.il": {
+    "checked_at": "2026-10-04T08:33:42+00:00",
+    "status": "not_found"
+  },
+  "srugim.co.il": {
+    "checked_at": "2026-10-04T08:32:57+00:00",
+    "entries": 50,
+    "method": "attempt1",
+    "status": "found",
+    "title": "חדשות סרוגים",
+    "url": "https://www.srugim.co.il/feed"
+  },
+  "themarker.com": {
+    "checked_at": "2026-10-04T08:32:19+00:00",
+    "status": "not_found"
+  },
+  "tmi.maariv.co.il": {
+    "checked_at": "2026-10-04T08:34:13+00:00",
+    "status": "not_found"
+  },
+  "vietnam.vn": {
+    "checked_at": "2026-10-04T08:30:21+00:00",
+    "status": "not_found"
+  },
+  "walla.co.il": {
+    "checked_at": "2026-10-04T08:31:58+00:00",
+    "status": "not_found"
+  },
+  "ynet.co.il": {
+    "checked_at": "2026-10-04T08:30:36+00:00",
+    "status": "not_found"
+  },
+  "zman.co.il": {
+    "checked_at": "2026-10-04T08:32:45+00:00",
+    "status": "not_found"
+  }
+}
