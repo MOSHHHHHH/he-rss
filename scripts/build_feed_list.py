@@ -68,6 +68,8 @@ WHEN_VARIANTS = os.environ.get("WHEN_VARIANTS", "when:1d,when:7d,when:30d,").spl
 
 MAX_FEEDS_PER_SITE = 10      # פיד ראשי + עד 9 נוספים (מדף אינדקס RSS)
 MAX_LINKS_PER_PAGE = 15      # כמה קישורים מועמדים בודקים מכל דף
+MAX_EXTRA_CHECKS = 8         # אחרי שנמצא פיד: כמה קישורים נוספים מאותה רשימה בודקים (בלי חיפושים חדשים)
+MAX_UNVERIFIED = 5           # כמה כתובות לא מאומתות שומרים לאתר שחוסם
 SERPER_CONCURRENCY = 4
 
 GN_PARAMS = "hl=iw&gl=IL&ceid=IL:he"
@@ -90,7 +92,8 @@ SKIP_HOSTS = re.compile(r"(feedspot|feeder\.co|feedly|google\.|apple\.com|micros
 RSSISH = re.compile(r"(rss|/feed|atom|\.xml|feeds?\b)", re.I)
 INDEX_HINT = re.compile(r"(rss|feed)", re.I)
 BAD_LINK = re.compile(r"(comments?[/.]|/comments|utm_|facebook\.com|twitter\.com|whatsapp|t\.me/)", re.I)
-FEED_START = (b"<?xml", b"<rss", b"<feed", b"<rdf")
+CHALLENGE = re.compile(r"(captcha|just a moment|cf-chl|challenge-platform|incapsula|access denied|"
+                       r"are you a robot|enable javascript|perimeterx|datadome|px-captcha)", re.I)
 
 BROWSER_HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -281,6 +284,7 @@ class Fetcher:
         self.ever_blocked = False
         self.html_lengths = Counter()
         self.html_hits = []  # (url, length) של דפי HTML שנראים כדף RSS
+        self.denied = set()  # כתובות שהשרת חסם (403/429/503)
 
     def get(self, url, timeout=20):
         wait = REQUEST_DELAY - (time.time() - self._last)
@@ -295,7 +299,20 @@ class Fetcher:
             return None
         self._last = time.time()
         log(f"      -> {r.status_code} ({len(r.content)} bytes)")
-        self._note(r.status_code)
+        code = r.status_code
+        if code == 200 and len(r.content) < 4000:
+            try:
+                snippet = " ".join(r.text[:200].split())
+            except Exception:
+                snippet = ""
+            if snippet and not snippet.lower().startswith(("<?xml", "<rss", "<feed")):
+                log(f"      תוכן (דף קטן): {snippet}")
+            if CHALLENGE.search(snippet.lower() if snippet else ""):
+                log("      נראה כדף חסימה/אימות בוט - נחשב כחסימה")
+                code = 403
+        if code in (403, 429, 503):
+            self.denied.add(url)
+        self._note(code)
         return r
 
     def _note(self, code):
@@ -326,22 +343,28 @@ def is_html(r):
 
 
 def check_feed(r, domain=None):
-    """אם התגובה היא פיד תקין עם פריטים - מחזיר מידע עליו, אחרת None."""
+    """אם התגובה היא פיד תקין - מחזיר מידע עליו, אחרת None.
+    מקבל גם פיד עם הערות/הוראות עיבוד לפני התגית הראשית, וגם פיד ריק (בלי פריטים) אם יש לו כותרת."""
     if r is None or r.status_code != 200:
         return None
-    head = r.content[:4000].lstrip(b"\xef\xbb\xbf \t\r\n").lower()
-    if not head.startswith(FEED_START):
+    head = r.content[:6000].lower()
+    m = re.search(rb"<(rss|feed|rdf:rdf)\b", head)
+    if not m:
         return None
-    if not any(t in head for t in (b"<rss", b"<feed", b"<rdf:rdf")):
+    h = re.search(rb"<html\b|<!doctype html", head)
+    if h and h.start() < m.start():
         return None
     parsed = feedparser.parse(r.content)
-    if not parsed.entries:
+    title = (parsed.feed.get("title") or "").strip()
+    if not parsed.entries and not title:
         return None
+    first_link = (parsed.entries[0].get("link", "") if parsed.entries else "")
     info = {
         "url": r.url,
-        "title": (parsed.feed.get("title") or "").strip(),
+        "title": title,
         "entries": len(parsed.entries),
         "verified": True,
+        "sig": f"{title}|{first_link}",
     }
     if domain and not same_site(r.url, domain):
         if not owns(parsed, domain):
@@ -350,6 +373,17 @@ def check_feed(r, domain=None):
         info["cross_domain"] = True
         log(f"   פיד מדומיין אחר, אומת לפי תוכן כשייך לאתר: {r.url}")
     return info
+
+
+def add_feeds(found, new, sigs):
+    """מוסיף פידים בלי כפילויות (לפי כתובת, וגם לפי כותרת+כתבה ראשונה - למשל /feed ו-/rss שמחזירים אותו דבר)."""
+    for x in new:
+        key = x.get("sig") or x["url"]
+        if x["url"] in {y["url"] for y in found} or (x.get("sig") and key in sigs):
+            continue
+        sigs.add(key)
+        found.append(x)
+    return found
 
 
 def feed_links_from_html(html, page_url, focus=None):
@@ -406,9 +440,9 @@ def resolve(f, url, domain, seen, depth=1, homelen=None):
         return []  # זה בעצם דף הבית
     links = feed_links_from_html(r.text, r.url)
     log(f"   דף אינדקס RSS: {url} - {len(links)} קישורים מועמדים")
-    out = []
+    out, sigs = [], set()
     for link in links:
-        out += resolve(f, link, domain, seen, depth - 1, homelen)
+        add_feeds(out, resolve(f, link, domain, seen, depth - 1, homelen), sigs)
         if len(out) >= MAX_FEEDS_PER_SITE:
             break
     return out
@@ -455,10 +489,15 @@ def attempt2(site, f, seen):
     homelen = len(r.content)
     links = feed_links_from_html(r.text, r.url)
     log(f"   נמצאו {len(links)} קישורים מועמדים")
+    found, sigs, extra_checks = [], set(), 0
     for link in links:
-        res = resolve(f, link, site["domain"], seen, depth=1, homelen=homelen)
-        if res:
-            return res
+        if found:
+            extra_checks += 1
+            if extra_checks > MAX_EXTRA_CHECKS or len(found) >= MAX_FEEDS_PER_SITE:
+                break
+        add_feeds(found, resolve(f, link, site["domain"], seen, depth=1, homelen=homelen), sigs)
+    if found:
+        return found
     # דפי RSS שנמצאו בניסיון 1 (200 + HTML) ושאינם דף הבית - סורקים אותם עכשיו
     for url, length in list(f.html_hits):
         if length == homelen:
@@ -498,35 +537,58 @@ def serper_search(query):
 
 def attempt3(site, f, seen):
     log(" ניסיון 3: חיפוש ב-Serper")
+    domain = site["domain"]
+    results = serper_search(f"{domain} RSS feed")[:3]
     was_blocked = f.ever_blocked
-    results = serper_search(f"{site['domain']} RSS feed")[:3]
     f.reset_block()
-    unverified = None
+    found, sigs, unverified = [], set(), []
+
+    def note_unverified(url):
+        if url not in unverified and same_site(url, domain):
+            unverified.append(url)
+
     for n, res in enumerate(results, 1):
         link = res.get("link")
         if not link:
             continue
         log(f"   תוצאה {n}/3: {link}")
-        if f.blocked:
-            break
+        own = same_site(link, domain)
+        if own and f.blocked:
+            if RSSISH.search(link):
+                note_unverified(link)
+            continue
         r = f.get(link)
         if r is None or r.status_code != 200:
-            if was_blocked and same_site(link, site["domain"]) and RSSISH.search(link) and not unverified:
-                unverified = link
+            if own and (was_blocked or f.ever_blocked) and RSSISH.search(link):
+                note_unverified(link)
             continue
-        direct = check_feed(r, site["domain"])
+        direct = check_feed(r, domain)
         if direct:
-            return [direct]
-        third_party = not same_site(r.url, site["domain"])
+            add_feeds(found, [direct], sigs)
+            break
+        third_party = not same_site(r.url, domain)
         if third_party:
             log("   דף צד שלישי - מחפש בו רק קישורים שמזכירים את הדומיין של האתר")
-        for cand in feed_links_from_html(r.text, r.url, focus=site["domain"] if third_party else None):
-            found = resolve(f, cand, site["domain"], seen, depth=1)
+        cands = feed_links_from_html(r.text, r.url, focus=domain if third_party else None)
+        extra_checks = 0
+        for cand in cands:
             if found:
-                return found
+                extra_checks += 1
+                if extra_checks > MAX_EXTRA_CHECKS or len(found) >= MAX_FEEDS_PER_SITE:
+                    break
+            got = resolve(f, cand, domain, seen, depth=1)
+            if got:
+                add_feeds(found, got, sigs)
+            elif third_party and (was_blocked or f.ever_blocked):
+                note_unverified(cand)  # דף צד שלישי מצביע עליו, אבל האתר חוסם ולא ניתן לאמת
+        if found:
+            break  # נמצא בדף הזה - לא ממשיכים לתוצאות נוספות
+    if found:
+        return found
     if unverified:
-        log(f"   האתר חוסם גישה אוטומטית; נשמרת כתובת לא מאומתת מ-Serper: {unverified}")
-        return [{"url": unverified, "title": "", "entries": 0, "verified": False}]
+        unverified = unverified[:MAX_UNVERIFIED]
+        log(f"   האתר חוסם גישה אוטומטית; נשמרות {len(unverified)} כתובות לא מאומתות: {unverified}")
+        return [{"url": u, "title": "", "entries": 0, "verified": False} for u in unverified]
     return []
 
 
@@ -536,13 +598,19 @@ def find_feed(site):
     for number, fn in ((1, attempt1), (2, attempt2), (3, attempt3)):
         res = fn(site, f, seen)
         if res:
+            res = sorted(res, key=lambda x: not x.get("verified", True))  # מאומתים קודם
             primary = dict(res[0])
+            primary.pop("sig", None)
             primary["method"] = f"attempt{number}"
             extras, urls = [], {primary["url"]}
             for x in res[1:]:
                 if x["url"] not in urls:
                     urls.add(x["url"])
-                    extras.append({"url": x["url"], "title": x.get("title", ""), "entries": x.get("entries", 0)})
+                    e = {"url": x["url"], "title": x.get("title", ""), "entries": x.get("entries", 0),
+                         "verified": x.get("verified", True)}
+                    if x.get("cross_domain"):
+                        e["cross_domain"] = True
+                    extras.append(e)
             if extras:
                 primary["extra_feeds"] = extras[: MAX_FEEDS_PER_SITE - 1]
             return primary
@@ -595,7 +663,7 @@ def export_all(sites, feeds):
             w.writerow([nm(d, info), d, info["url"], info.get("title", ""), info.get("entries", ""),
                         True, info.get("verified", True)])
             for x in info.get("extra_feeds", []):
-                w.writerow([nm(d, info), d, x["url"], x.get("title", ""), x.get("entries", ""), False, True])
+                w.writerow([nm(d, info), d, x["url"], x.get("title", ""), x.get("entries", ""), False, x.get("verified", True)])
 
     root = ET.Element("opml", version="2.0")
     head = ET.SubElement(root, "head")
