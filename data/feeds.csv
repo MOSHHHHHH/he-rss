@@ -1,13 +1,192 @@
 ﻿site_name,domain,homepage,feed_url,feed_title,entries,verified,extra_feeds,method,checked_at
+103FM,103fm.maariv.co.il,https://103fm.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,9,attempt3,2026-10-04T09:29:08+00:00
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://1045fm.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,9,attempt3,2026-10-04T09:29:48+00:00
+איחוד הצלה,1221.org.il,https://1221.org.il,https://1221.org.il/feed/,איחוד הצלה,1,True,0,attempt1,2026-10-04T09:27:22+00:00
+20il.co.il,20il.co.il,https://www.20il.co.il,https://www.20il.co.il/feed/,20il,10,True,0,attempt1,2026-10-04T09:26:31+00:00
+4x4.co.il,4x4.co.il,https://www.4x4.co.il,https://www.4x4.co.il/rss/4x4.xml,שטח 4X4,20,True,3,attempt2,2026-10-04T09:24:48+00:00
+96fm.co.il,96fm.co.il,https://96fm.co.il,https://96fm.co.il/feed/,רדיו קול רגע,2,True,0,attempt1,2026-10-04T09:25:11+00:00
+- 970 חדשות חיפה,970.co.il,https://970.co.il,https://970.co.il/?feed=rss2,970 חדשות חיפה,10,True,0,attempt1,2026-10-04T09:26:50+00:00
+Aeroflap,aeroflap.com.br,https://aeroflap.com.br,https://www.aeroflap.com.br/feed/,,0,False,0,attempt3,2026-10-04T09:27:15+00:00
+جريدة القدس,alquds.com,https://alquds.com,https://alquds.com/ar/feed,خلاصة جريدة القدس,30,True,0,attempt1,2026-10-04T09:22:47+00:00
+Apollo Hospitals,apollohospitals.com,https://www.apollohospitals.com,https://www.apollohospitals.com/rss.xml,Apollo Hospitals,10,True,0,attempt1,2026-10-04T09:23:49+00:00
+המזרח התיכון לאן? | הבלוג של יוני בן מנחם,arabexpert.co.il,https://arabexpert.co.il,https://arabexpert.co.il/feed/,The Middle East,10,True,0,attempt1,2026-10-04T09:21:57+00:00
+Armstrong Institute of Biblical Archaeology,armstronginstitute.org,https://armstronginstitute.org,https://armstronginstitute.org/rss,theTrumpet.com,12,True,0,attempt1,2026-10-04T09:27:04+00:00
+חרדים אשדוד,ashdod-haredim.co.il,https://www.ashdod-haredim.co.il,https://www.ashdod-haredim.co.il/feed/,חרדים אשדוד,10,True,0,attempt1,2026-10-04T09:21:50+00:00
+ashdod10.co.il,ashdod10.co.il,https://ashdod10.co.il,https://ashdod10.co.il/feed/,חדשות אשדוד – אשדוד10,10,True,0,attempt1,2026-10-04T09:25:46+00:00
+Ashdod4U,ashdod4u.com,https://www.ashdod4u.com,https://www.ashdod4u.com/feed/,Ashdod4U,10,True,0,attempt1,2026-10-04T09:24:38+00:00
+אשדוד אונליין,ashdodonline.co.il,https://ashdodonline.co.il,https://ashdodonline.co.il/feed/,אשדוד אונליין,10,True,0,attempt1,2026-10-04T09:23:39+00:00
+אשקלון ניוז,ashkelon.news,https://ashkelon.news,https://ashkelon.news/rss.xml,אשקלון ניוז,50,True,0,attempt1,2026-10-04T09:27:08+00:00
+AskPavel,askpavel.co.il,https://www.askpavel.co.il,https://www.askpavel.co.il/feed,,0,False,0,attempt3,2026-10-04T09:26:39+00:00
+שטח - כל מילה בסלע,automag.co.il,https://www.automag.co.il,https://www.automag.co.il/feed/,שטח,10,True,0,attempt1,2026-10-04T09:26:06+00:00
+וואלה ברנז'ה,b.walla.co.il,https://b.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:34:03+00:00
+BE106,be106.net,https://www.be106.net,https://www.be106.net/rss/city/233/posts.xml,be106.net רחובות,40,True,8,attempt2,2026-10-04T09:21:54+00:00
+beitarfc.co.il,beitarfc.co.il,https://www.beitarfc.co.il,https://www.beitarfc.co.il/feed/,בית״ר ירושלים,10,True,0,attempt1,2026-10-04T09:24:41+00:00
+Begin-Sadat Center for Strategic Studies,besacenter.org,https://besacenter.org,https://besacenter.org/feed/,Begin-Sadat Center for Strategic Studies,10,True,0,attempt1,2026-10-04T09:26:59+00:00
+ביזנעס,bizzness.net,https://bizzness.net,https://bizzness.net/feed/,ביזנעס,10,True,0,attempt1,2026-10-04T09:23:52+00:00
+בלינקר,blinker.co.il,https://blinker.co.il,https://blinker.co.il/feed/,בלינקר,10,True,0,attempt1,2026-10-04T09:20:39+00:00
+blog.cloudflare.com,blog.cloudflare.com,https://blog.cloudflare.com,https://blog.cloudflare.com/rss,Cloudflare Blog,20,True,0,attempt1,2026-10-04T09:27:47+00:00
+חדשות באר שבע והנגב,br7news.co.il,https://br7news.co.il,https://br7news.co.il/rss,חדשות באר שבע והנגב - BR7,25,True,0,attempt1,2026-10-04T09:20:38+00:00
+BroadwayWorld,broadwayworld.com,https://www.broadwayworld.com,https://www.broadwayworld.com/feed_all_bway.php,,0,False,0,attempt3,2026-10-04T09:25:27+00:00
+btl.gov.il,btl.gov.il,http://www.btl.gov.il,https://www.btl.gov.il:443/About/_layouts/15/RssPage.aspx?mode=1,אודות הביטוח הלאומי,7,True,0,attempt2,2026-10-04T09:27:01+00:00
+וואלה רכב,cars.walla.co.il,https://cars.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:33:32+00:00
+קארטיוב,cartube.co.il,https://www.cartube.co.il,https://www.cartube.co.il/?format=feed&type=rss,קארטיוב - רכב חשמלי מבצעי רכב חדשות רכב מבחני רכב קטלוג רכב חדש ועוד - cartube,10,True,0,attempt2,2026-10-04T09:24:36+00:00
+וואלה סלבס,celebs.walla.co.il,https://celebs.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:30:00+00:00
+חרדים10,ch10.co.il,https://ch10.co.il,https://ch10.co.il/feed/,חרדים10,10,True,0,attempt1,2026-10-04T09:20:33+00:00
+Chabad,chabad.org,https://www.chabad.org,https://www.chabad.org/tools/rss/magazine_rss.xml,Chabad.org Weekly Magazine [ Shemini Atzeret/Simchat Torah ],11,True,0,attempt3,2026-10-04T09:21:55+00:00
+Chiportal,chiportal.co.il,https://chiportal.co.il,https://chiportal.co.il/feed/,Chiportal,10,True,0,attempt1,2026-10-04T09:26:35+00:00
+Crypto Jungle,cryptojungle.co.il,https://www.cryptojungle.co.il,https://www.cryptojungle.co.il/feed/,Crypto Jungle,1,True,0,attempt1,2026-10-04T09:25:20+00:00
+da.news,da.news,https://da.news,https://da.news/feed/,da.news,30,True,0,attempt1,2026-10-04T09:25:23+00:00
+דתילי,datili.co.il,https://www.datili.co.il,https://www.datili.co.il/feed/,דתילי אתר חדשות,10,True,0,attempt1,2026-10-04T09:27:46+00:00
+davar1.co.il,davar1.co.il,https://www.davar1.co.il,https://www.davar1.co.il/feed/,,0,False,0,attempt3,2026-10-04T09:20:16+00:00
+מכון דוידסון לחינוך מדעי,davidson.org.il,https://davidson.org.il,https://davidson.org.il/feed/,מכון דוידסון לחינוך מדעי,1,True,0,attempt1,2026-10-04T09:23:54+00:00
+וואלה תרבות,e.walla.co.il,https://e.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:28:30+00:00
+רד סי אילת,eilatredc.co.il,https://www.eilatredc.co.il,https://www.eilatredc.co.il/feed/,חדשות אילת | רד סי אילת,0,True,0,attempt1,2026-10-04T09:22:36+00:00
+הבלוג של אלי ציפורי,elizipori.co.il,https://elizipori.co.il,https://elizipori.co.il/feed/,האתר של אלי ציפורי,12,True,0,attempt1,2026-10-04T09:25:39+00:00
+עמקניוז,emeknews.co.il,https://emeknews.co.il,https://emeknews.co.il/feed/,עמקניוז – חדשות העמק,10,True,0,attempt1,2026-10-04T09:21:07+00:00
 אמס,emess.co.il,https://www.emess.co.il,https://www.emess.co.il/feed,אמס MS,50,True,0,attempt1,2026-10-04T08:33:23+00:00
+"אפוק - מגזין מרחיב דעת, מעורר מחשבה",epoch.org.il,https://epoch.org.il,https://epoch.org.il/feed/,"אפוק – מגזין מרחיב דעת, מעורר מחשבה",999,True,0,attempt1,2026-10-04T09:21:17+00:00
+eset.com,eset.com,https://www.eset.com,https://support-feed.eset.com/news,Support News,98,True,0,attempt3,2026-10-04T09:27:18+00:00
+EuroMix,euromix.co.il,https://www.euromix.co.il,https://www.euromix.co.il/feed/,EuroMix,250,True,0,attempt1,2026-10-04T09:25:35+00:00
+The European Times,europeantimes.news,https://www.europeantimes.news,https://europeantimes.news/feed/,The European Times,40,True,0,attempt1,2026-10-04T09:24:44+00:00
+וואלה אופנה,fashion.walla.co.il,https://fashion.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:32:17+00:00
+אבות למען צדק,father4justice.org,https://father4justice.org,https://father4justice.org/feed/,אבות למען צדק,8,True,0,attempt1,2026-10-04T09:27:42+00:00
+וואלה כסף,finance.walla.co.il,https://finance.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:30:35+00:00
+וואלה אוכל,food.walla.co.il,https://food.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:31:10+00:00
+g-rafa.co.il,g-rafa.co.il,https://g-rafa.co.il,https://g-rafa.co.il/feed/,ג'ירפה,100,True,0,attempt1,2026-10-04T09:20:58+00:00
+מגזין טכנולוגיה ובידור - Gadgety,gadgety.co.il,https://www.gadgety.co.il,https://www.gadgety.co.il/feed,מגזין טכנולוגיה ובידור – Gadgety,10,True,0,attempt1,2026-10-04T09:21:52+00:00
+gal-gefen.co.il,gal-gefen.co.il,https://gal-gefen.co.il,https://gal-gefen.co.il/feed,פספורטניוז,5,True,0,attempt1,2026-10-04T09:27:41+00:00
+גיקטיים,geektime.co.il,https://www.geektime.co.il,https://www.geektime.co.il/feed/,גיקטיים,30,True,0,attempt1,2026-10-04T09:22:41+00:00
+גפן-מגזין המושבות,gfn.co.il,https://www.gfn.co.il,https://www.gfn.co.il/feed/,גפן-מגזין המושבות,20,True,0,attempt1,2026-10-04T09:25:17+00:00
+GlobeNewswire,globenewswire.com,https://www.globenewswire.com,https://www.globenewswire.com/rssfeed,GlobeNewswire RSS Feed,20,True,0,attempt1,2026-10-04T09:24:10+00:00
 גלובס,globes.co.il,https://www.globes.co.il,https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585,שוק ההון והשקעות - גלובס,15,True,0,attempt2,2026-10-04T08:32:55+00:00
+goethe.de,goethe.de,https://www.goethe.de,https://www.goethe.de/ins/gb/en/rss.html,,0,False,0,attempt3,2026-10-04T09:25:44+00:00
+Gov.il,gov.il,https://www.gov.il,https://www.gov.il/he/Departments/ministry_of_communications/RSS,,0,False,0,attempt3,2026-10-04T09:20:20+00:00
+Gplanet,gplanet.co.il,https://www.gplanet.co.il,https://www.gplanet.co.il/feed/,Gplanet,10,True,0,attempt1,2026-10-04T09:23:46+00:00
+Greenpeace,greenpeace.org,https://www.greenpeace.org,https://www.greenpeace.org/international/feed/,,0,False,0,attempt3,2026-10-04T09:23:27+00:00
+המקום הכי חם בגיהנום,ha-makom.co.il,https://www.ha-makom.co.il,https://www.ha-makom.co.il/feed/,המקום הכי חם בגיהנום,10,True,0,attempt1,2026-10-04T09:22:27+00:00
+הארץ,haaretz.co.il,https://www.haaretz.co.il,https://www.haaretz.co.il/srv/htz---culture---rss,HTZ - Culture - RSS,100,True,9,attempt2,2026-10-04T09:20:10+00:00
+haifa.muni.il,haifa.muni.il,https://www.haifa.muni.il,https://www.haifa.muni.il/feed/,עיריית חיפה,1,True,0,attempt1,2026-10-04T09:20:47+00:00
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%A7%D7%94%D7%99%D7%9C%D7%AA_%D7%94%D7%9E%D7%A9%D7%9E%D7%99%D7%A2%D7%99%D7%9Dexlz5yq3n6,האזור האישי• הקול היהודי,4,True,7,attempt2,2026-10-04T09:25:22+00:00
+harish.co.il,harish.co.il,https://www.harish.co.il,https://www.harish.co.il/feed,חריש סיטי,10,True,0,attempt1,2026-10-04T09:26:33+00:00
+Hayadan,hayadan.org.il,https://www.hayadan.org.il,https://www.hayadan.org.il/feed,הידען – Hayadan,50,True,0,attempt1,2026-10-04T09:21:52+00:00
+Chabad,he.chabad.org,https://he.chabad.org,https://www.chabad.org/tools/rss/itunes/seriesrss_cdo/scope/4100607/variant/22874,ChabadTalk Podcast,95,True,0,attempt3,2026-10-04T09:28:38+00:00
+וואלה בריאות,healthy.walla.co.il,https://healthy.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:32:54+00:00
+הידברות,hidabroot.org,https://www.hidabroot.org,https://www.hidabroot.org/feed,הידברות,23,True,0,attempt1,2026-10-04T09:20:30+00:00
+הסתדרות העובדים,histadrut.org.il,https://www.histadrut.org.il,https://www.histadrut.org.il/feed/,הסתדרות העובדים,0,True,0,attempt1,2026-10-04T09:25:19+00:00
 המחדש,hm-news.co.il,https://hm-news.co.il,https://hm-news.co.il/feed/,המחדש,10,True,0,attempt1,2026-10-04T08:34:07+00:00
+ירוק - רשת מקומונים בשרון,hoha.co.il,https://hoha.co.il,https://hoha.co.il/?feed=rss2,ירוק – רשת מקומונים בשרון,10,True,0,attempt1,2026-10-04T09:24:15+00:00
+חורים ברשת,holesinthenet.co.il,https://holesinthenet.co.il,https://holesinthenet.co.il/feed/,חורים ברשת,8,True,0,attempt1,2026-10-04T09:27:03+00:00
+Human Rights Watch,hrw.org,https://www.hrw.org,https://www.hrw.org/rss/news,Human Rights Watch News,20,True,0,attempt1,2026-10-04T09:26:59+00:00
+i-hls.com,i-hls.com,https://i-hls.com,https://i-hls.com/feed,iHLS,10,True,0,attempt1,2026-10-04T09:27:46+00:00
+ias.co.il,ias.co.il,https://www.ias.co.il,https://www.ias.co.il/feed/,IAS,10,True,0,attempt1,2026-10-04T09:21:25+00:00
 ice (אייס),ice.co.il,https://www.ice.co.il,https://www.ice.co.il/rss,אייס - ICE,20,True,0,attempt1,2026-10-04T08:32:11+00:00
+IGN Israel,il.ign.com,https://il.ign.com,https://il.ign.com/feed.xml,IGN Israel,40,True,0,attempt1,2026-10-04T09:27:17+00:00
+Investing.com,il.investing.com,https://il.investing.com,https://www.investing.com/rss/121899.rss,Investing.com Analysis,10,True,8,attempt3,2026-10-04T09:20:45+00:00
+Intercultural Networks Group (ING),ing.org,https://ing.org,https://ing.org/feed/,ING,10,True,0,attempt1,2026-10-04T09:27:02+00:00
 ערוץ 7,inn.co.il,https://www.inn.co.il,https://www.inn.co.il/Rss.aspx?act=.1,כתבות ערוץ 7,20,True,0,attempt2,2026-10-04T08:33:20+00:00
+inss.org.il,inss.org.il,https://www.inss.org.il,https://www.inss.org.il/feed/,INSS,1,True,0,attempt1,2026-10-04T09:21:27+00:00
+israeldefense.co.il,israeldefense.co.il,https://www.israeldefense.co.il,https://www.israeldefense.co.il/en/taxonomy/term/2/feed,News,10,True,0,attempt3,2026-10-04T09:20:29+00:00
+israelnews.co.il,israelnews.co.il,https://www.israelnews.co.il,https://www.israelnews.co.il/feed/,Israel News,10,True,0,attempt1,2026-10-04T09:25:55+00:00
+רשת מקומונים בשרון,israelnow.co.il,https://israelnow.co.il,https://israelnow.co.il/feed/,רשת מקומונים בשרון | השבוע בנתניה,10,True,0,attempt1,2026-10-04T09:27:30+00:00
+Jablíčkář.cz,jablickar.cz,https://jablickar.cz,https://jablickar.cz/feed/,,10,True,0,attempt1,2026-10-04T09:23:11+00:00
 JDN,jdn.co.il,https://www.jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,0,attempt1,2026-10-04T08:33:43+00:00
+jewishagency.org,jewishagency.org,https://www.jewishagency.org,https://www.jewishagency.org/feed/,The Jewish Agency for Israel,10,True,0,attempt1,2026-10-04T09:25:43+00:00
+JNS.org,jns.org,https://www.jns.org,https://www.jns.org/index.rss,JNS.org - Jerusalem News Syndicate,30,True,0,attempt1,2026-10-04T09:20:36+00:00
+המכון למדיניות העם היהודי - JPPI,jppi.org.il,https://jppi.org.il,https://jppi.org.il/he/feed/,המכון למדיניות העם היהודי,9,True,0,attempt1,2026-10-04T09:22:37+00:00
+kabbalah.co.il,kabbalah.co.il,https://kabbalah.co.il,https://kabbalah.co.il/feed/,מרכז הקבלה,0,True,0,attempt1,2026-10-04T09:27:39+00:00
+כאן דרום - אשדוד,kan-ashdod.co.il,https://www.kan-ashdod.co.il,https://www.kan-ashdod.co.il/feed,כאן דרום – אשדוד,18,True,0,attempt1,2026-10-04T09:22:34+00:00
+כאן דרום,kan-ashkelon.co.il,https://www.kan-ashkelon.co.il,https://www.kan-ashkelon.co.il/feed,כאן דרום – אשקלון,18,True,0,attempt1,2026-10-04T09:23:53+00:00
 כאן 11,kan.org.il,https://www.kan.org.il,https://www.kan.org.il/api/newsflash/v2/Newsflash,,33,True,0,attempt2,2026-10-04T08:32:10+00:00
+כאן נעים,kanisrael.co.il,https://kanisrael.co.il,https://kanisrael.co.il/feed/,כאן ישראל | kanisrael | כאן נעים | kan-naim,20,True,0,attempt1,2026-10-04T09:23:58+00:00
+Kantesti AI Blood Test Analyzer,kantesti.net,https://www.kantesti.net,https://www.kantesti.net/feed/,"AI Blood Test Analyzer Free – Lab Interpretation, Made in Germany",10,True,0,attempt1,2026-10-04T09:24:27+00:00
+כפרניק,kfarnik.co.il,https://kfarnik.co.il,https://kfarnik.co.il/feed/,כפרניק,10,True,0,attempt1,2026-10-04T09:23:20+00:00
 כיכר השבת,kikar.co.il,https://www.kikar.co.il,https://a.kikar.co.il/v1/rss/articles/latest/rss2,כיכר השבת,49,True,0,attempt2,2026-10-04T08:31:33+00:00
 כיפה,kipa.co.il,https://www.kipa.co.il,https://www.kipa.co.il/feed/,כיפה - אתר החדשות המוביל במגזר הדתי,50,True,0,attempt1,2026-10-04T08:33:44+00:00
+קול ברמה,kol-barama.co.il,https://kol-barama.co.il,https://kol-barama.co.il/feed/,רדיו קול ברמה,4,True,0,attempt1,2026-10-04T09:20:21+00:00
+kvishim.co.il,kvishim.co.il,https://kvishim.co.il,https://kvishim.co.il/feed/,כבישים,10,True,0,attempt1,2026-10-04T09:27:42+00:00
+לדעת,ladaat.co,https://ladaat.co,https://ladaat.co/?feed=rss2,לדעת,10,True,0,attempt1,2026-10-04T09:20:44+00:00
+Letem světem Applem,letemsvetemapplem.eu,https://www.letemsvetemapplem.eu,https://www.letemsvetemapplem.eu/feed/,,17,True,0,attempt1,2026-10-04T09:23:35+00:00
+sponser.co.il,m.sponser.co.il,https://m.sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7,חדשות שוק ההון,15,True,2,attempt3,2026-10-04T09:29:17+00:00
+מרכז העניינים,m24.co.il,https://m24.co.il,https://m24.co.il/feed/,מרכז העניינים – חדשות טבעון והסביבה,10,True,0,attempt1,2026-10-04T09:27:14+00:00
 מעריב,maariv.co.il,https://www.maariv.co.il,https://www.maariv.co.il/rss/feed,maariv.co.il - חדשות מהארץ והעולם,20,True,0,attempt1,2026-10-04T08:30:44+00:00
+מועדון הכדורגל מכבי תל אביב,maccabi-tlv.co.il,https://www.maccabi-tlv.co.il,https://www.maccabi-tlv.co.il/feed,מועדון הכדורגל מכבי תל אביב,10,True,0,attempt1,2026-10-04T09:23:24+00:00
+מכבי תל אביב כדורסל,maccabi.co.il,https://maccabi.co.il,https://maccabi.co.il/feed/,Maccabi Tel Aviv Basketball,10,True,0,attempt1,2026-10-04T09:23:06+00:00
+mako.co.il,mako.co.il,https://www.mako.co.il,https://rcs.mako.co.il/rss/news-military.xml,חדשות - פוליטי,20,True,9,attempt2,2026-10-04T09:20:12+00:00
+מסע אחר,masa.co.il,https://www.masa.co.il,https://www.masa.co.il/feed,מסע אחר,2,True,0,attempt1,2026-10-04T09:25:26+00:00
+וואלה! מזל טוב,mazaltov.walla.co.il,https://mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt3,2026-10-04T09:35:12+00:00
+התנועה לחופש המידע,meida.org.il,https://www.meida.org.il,https://www.meida.org.il/feed,התנועה לחופש המידע,10,True,0,attempt1,2026-10-04T09:25:47+00:00
+מידע 8,meida8.co.il,https://meida8.co.il,https://meida8.co.il/feed/,מידע 8,10,True,0,attempt1,2026-10-04T09:22:26+00:00
+וואלה מקומי,mekomi.walla.co.il,https://mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:34:28+00:00
+מקומון ראשון,mekomonrishon.co.il,https://mekomonrishon.co.il,https://mekomonrishon.co.il/feed/,מקומון ראשון,10,True,0,attempt1,2026-10-04T09:23:27+00:00
+Meta-Defense,meta-defense.fr,https://meta-defense.fr,https://meta-defense.fr/feed/atom/,MetaDefense,10,True,0,attempt1,2026-10-04T09:25:22+00:00
+מידה,mida.org.il,https://mida.org.il,https://mida.org.il/feed/,מידה,100,True,0,attempt1,2026-10-04T09:23:24+00:00
+MiGFlug,migflug.com,https://migflug.com,https://migflug.com/feed/,MiGFlug,5,True,0,attempt1,2026-10-04T09:27:03+00:00
+חדשות מבזק לייב,mivzaklive.co.il,https://www.mivzaklive.co.il,https://www.mivzaklive.co.il/feed,חדשות מבזק לייב,10,True,0,attempt1,2026-10-04T09:23:54+00:00
+mnews.co.il,mnews.co.il,https://mnews.co.il,https://mnews.co.il/feed/,מודיעין ניוז,10,True,0,attempt1,2026-10-04T09:24:03+00:00
+mako.co.il,mobile.mako.co.il,https://mobile.mako.co.il,https://rcs.mako.co.il/rss/news-military.xml,חדשות - פוליטי,20,True,9,attempt2,2026-10-04T09:29:16+00:00
+עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinNewsRSS,עיריית מודיעין מכבים רעות - חדשות העיר,10,True,3,attempt3,2026-10-04T09:24:57+00:00
+"מרכז הנדל""ן",nadlancenter.co.il,https://www.nadlancenter.co.il,https://www.nadlancenter.co.il/rss/main,ראשי,11,True,0,attempt1,2026-10-04T09:21:03+00:00
+נתניה נט,netanyanet.co.il,https://www.netanyanet.co.il,https://www.netanyanet.co.il/?format=feed&type=rss,נתניה נט - כל העיר בקליק אחד!,0,True,0,attempt2,2026-10-04T09:21:49+00:00
+האוניברסיטה העברית בירושלים,new.huji.ac.il,https://new.huji.ac.il,https://new.huji.ac.il/feed,הזנת אתר,10,True,0,attempt1,2026-10-04T09:27:23+00:00
+עניין מרכזי,news-israel.net,https://www.news-israel.net,https://www.news-israel.net/feed/,עניין מרכזי,10,True,0,attempt1,2026-10-04T09:25:18+00:00
+Bitcoin News,news.bitcoin.com,https://news.bitcoin.com,https://news.bitcoin.com/feed/,Bitcoin News,10,True,0,attempt1,2026-10-04T09:24:44+00:00
+וואלה חדשות,news.walla.co.il,https://news.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:33:39+00:00
+חדשות אפס שמונה,news08.net,https://www.news08.net,https://www.news08.net/feed/,חדשות 08,15,True,0,attempt1,2026-10-04T09:21:30+00:00
+nhn.co.il,nhn.co.il,https://nhn.co.il,https://nhn.co.il/feed/,השרון הצפוני NHN – מקומון בחדרה | מקומון בפרדס חנה כרכור | מקומון באור עקיבא,55,True,0,attempt1,2026-10-04T09:27:49+00:00
+נוסח תימן,nosachteiman.co.il,https://nosachteiman.co.il,https://nosachteiman.co.il/feed/,נוסח תימן • המרכז להפצת יהדות תימן,48,True,0,attempt1,2026-10-04T09:25:41+00:00
+نورنیوز,nournews.ir,https://nournews.ir,https://nournews.ir/feeds/,نورنیوز,30,True,0,attempt1,2026-10-04T09:22:31+00:00
+NWS חדשות חיפה והסביבה,nws.report,https://nws.report,https://nws.report/feed/,NWS חדשות חיפה והסביבה,100,True,0,attempt1,2026-10-04T09:22:04+00:00
+nziv.net,nziv.net,https://nziv.net,https://nziv.net/feed/,Nziv.net,10,True,0,attempt1,2026-10-04T09:22:29+00:00
+ONE,one.co.il,https://www.one.co.il,https://www.one.co.il/rss,ONE,53,True,0,attempt1,2026-10-04T09:21:04+00:00
+אונו ניוז,ononews.co.il,https://ononews.co.il,https://ononews.co.il/feed/,| אונו News,10,True,0,attempt1,2026-10-04T09:23:17+00:00
+רשות הטבע והגנים,parks.org.il,https://www.parks.org.il,https://www.parks.org.il/feed,רשות הטבע והגנים,5,True,0,attempt1,2026-10-04T09:25:18+00:00
+Pars Today,parstoday.ir,https://parstoday.ir,https://parstoday.ir/rss,PARS TODAY,0,True,0,attempt1,2026-10-04T09:22:42+00:00
+אנשים ומחשבים,pc.co.il,https://www.pc.co.il,https://www.pc.co.il/feed/,"אנשים ומחשבים – פורטל חדשות היי-טק, מיחשוב, טלקום, טכנולוגיות",30,True,0,attempt1,2026-10-04T09:21:19+00:00
+שלום עכשיו,peacenow.org.il,https://peacenow.org.il,https://peacenow.org.il/feed,שלום עכשיו,10,True,0,attempt1,2026-10-04T09:27:16+00:00
+planetario.buenosaires.gob.ar,planetario.buenosaires.gob.ar,https://planetario.buenosaires.gob.ar,https://planetario.buenosaires.gob.ar/rss.xml,Drupal,3,True,0,attempt1,2026-10-04T09:27:39+00:00
+פואנטה,poenta.co.il,https://www.poenta.co.il,https://www.poenta.co.il/feed/,פואנטה,10,True,0,attempt1,2026-10-04T09:25:24+00:00
+Portugal Resident,portugalresident.com,https://www.portugalresident.com,https://www.portugalresident.com/feed/,Portugal Resident,10,True,0,attempt1,2026-10-04T09:23:25+00:00
+פנאי פלוס,pplus.ynet.co.il,https://pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,7,attempt3,2026-10-04T09:28:44+00:00
+בית הנשיא,president.gov.il,https://www.president.gov.il,https://www.president.gov.il/feed/,בית הנשיא,10,True,0,attempt1,2026-10-04T09:23:22+00:00
+מגזין פורטפוליו -,prtfl.co.il,https://www.prtfl.co.il,https://www.prtfl.co.il/feed,מגזין פורטפוליו,15,True,0,attempt1,2026-10-04T09:21:17+00:00
+פתח תקווה NEWS,ptnews.co.il,https://www.ptnews.co.il,https://www.ptnews.co.il/feed,פתח תקווה NEWS,10,True,0,attempt1,2026-10-04T09:23:37+00:00
+rgg-news.co.il,rgg-news.co.il,https://www.rgg-news.co.il,https://www.rgg-news.co.il/feed/,| חדשות רמת גן גבעתיים NEWS,10,True,0,attempt1,2026-10-04T09:24:43+00:00
+ראשון ניוז,rishon.news,https://www.rishon.news,https://www.rishon.news/feed/,חדשות ראשון ניוז – פורטל החדשות של ראשון לציון,10,True,0,attempt1,2026-10-04T09:27:13+00:00
+وكالة صدى نيوز,sadanews.ps,https://www.sadanews.ps,https://www.sadanews.ps/rss,وكالة صدى للأنباء,50,True,0,attempt1,2026-10-04T09:21:48+00:00
+Safsal,safsal.co.il,https://www.safsal.co.il,https://www.safsal.co.il/blog-feed.xml,"ספסל, הבית של הכדורסל הישראלי",20,True,0,attempt2,2026-10-04T09:24:00+00:00
+Samsung Magazine,samsungmagazine.eu,https://samsungmagazine.eu,https://samsungmagazine.eu/feed/,,10,True,0,attempt1,2026-10-04T09:20:32+00:00
+shakuf.co.il,shakuf.co.il,https://shakuf.co.il,https://shakuf.co.il/feed,שקוף,10,True,0,attempt1,2026-10-04T09:21:48+00:00
+שרון אונליין,sharonline.co.il,https://sharonline.co.il,https://sharonline.co.il/feed/,שרון אונליין,10,True,0,attempt1,2026-10-04T09:20:37+00:00
+shavvim.co.il,shavvim.co.il,https://shavvim.co.il,https://shavvim.co.il/feed/,שווים,12,True,0,attempt1,2026-10-04T09:23:35+00:00
+shvoong.co.il,shvoong.co.il,https://www.shvoong.co.il,https://www.shvoong.co.il/feed/,"ריצה, אופניים, טריאתלון, שחייה | שוונג",100,True,0,attempt1,2026-10-04T09:21:30+00:00
+סוכנות החלל,space.gov.il,https://www.space.gov.il,https://www.space.gov.il/rss.xml,סוכנות החלל הישראלית - node/132309,10,True,0,attempt1,2026-10-04T09:22:00+00:00
+sponser.co.il,sponser.co.il,https://www.sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7,חדשות שוק ההון,15,True,2,attempt2,2026-10-04T09:23:45+00:00
+ספורט 1,sport1.maariv.co.il,https://sport1.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,9,attempt3,2026-10-04T09:20:17+00:00
+וואלה ספורט,sports.walla.co.il,https://sports.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:20:52+00:00
+סריטה,srita.net,http://srita.net,https://srita.net/feed/,סריטה,10,True,0,attempt3,2026-10-04T09:22:26+00:00
 סרוגים,srugim.co.il,https://www.srugim.co.il,https://www.srugim.co.il/feed,חדשות סרוגים,50,True,0,attempt1,2026-10-04T08:32:57+00:00
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/0/0/8/1/TopStories,آخرین اخبار روز ایران و جهان ؛ خبرهای امروز | خبرگزاری تسنیم | Tasnim,25,True,9,attempt2,2026-10-04T09:20:54+00:00
+אוניברסיטת תל אביב,tau.ac.il,https://www.tau.ac.il,https://www.tau.ac.il/rss.xml,"אוניברסיטת ת""א",10,True,0,attempt1,2026-10-04T09:24:44+00:00
+וואלה טכנולוגיה,tech.walla.co.il,https://tech.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:31:45+00:00
+Techtime,techtime.co.il,https://techtime.co.il,https://techtime.co.il/feed/,Techtime – חדשות אלקטרוניקה והייטק,10,True,0,attempt1,2026-10-04T09:26:34+00:00
+TGspot,tgspot.co.il,https://www.tgspot.co.il,https://www.tgspot.co.il/feed/,TGspot,10,True,0,attempt1,2026-10-04T09:26:13+00:00
+העין השביעית,the7eye.org.il,https://www.the7eye.org.il,https://www.the7eye.org.il/topic/rss,,0,False,0,attempt3,2026-10-04T09:20:26+00:00
+TheMarker,themarker.com,https://www.themarker.com,https://www.themarker.com/srv/tm-markets,TM-Markets,100,True,0,attempt3,2026-10-04T09:20:06+00:00
+The Portugal News,theportugalnews.com,https://www.theportugalnews.com,https://www.theportugalnews.com/rss,The Portugal News,55,True,0,attempt1,2026-10-04T09:20:56+00:00
+The Verifier,theverifier.co.il,https://theverifier.co.il,https://theverifier.co.il/feed/,The Verifier,10,True,0,attempt1,2026-10-04T09:26:06+00:00
+התנועה הקיבוצית,tkz.org.il,https://tkz.org.il,https://tkz.org.il/feed/,התנועה הקיבוצית,0,True,0,attempt1,2026-10-04T09:27:28+00:00
+תל אביב אונליין,tlvonline.co.il,https://tlvonline.co.il,https://tlvonline.co.il/feed/rss2/,תל אביב אונליין,10,True,0,attempt1,2026-10-04T09:20:52+00:00
+TMI,tmi.maariv.co.il,https://tmi.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,9,attempt2,2026-10-04T09:28:12+00:00
+וואלה תיירות,travel.walla.co.il,https://travel.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T09:29:24+00:00
+וולה כדורגל ילדים ונוער,vole.one.co.il,https://vole.one.co.il,https://www.one.co.il/rss,ONE,53,True,0,attempt3,2026-10-04T09:28:49+00:00
 וואלה,walla.co.il,https://www.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T08:49:32+00:00
+Wheel חדשות ומבצעי רכב,wheel.co.il,https://wheel.co.il,https://wheel.co.il/feed/,Wheel חדשות ומבצעי רכב,10,True,0,attempt1,2026-10-04T09:24:17+00:00
+YNET,xnet.ynet.co.il,https://xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,7,attempt3,2026-10-04T09:36:26+00:00
+נמרוד ירון ושות,y-tax.co.il,https://y-tax.co.il,https://y-tax.co.il/feed/,נמרוד ירון ושות׳,10,True,0,attempt1,2026-10-04T09:24:31+00:00
+شبكة يافا الإخبارية,yaffaps.com,https://yaffaps.com,https://yaffaps.com/rss,شبكة يافا الإخبارية,30,True,0,attempt1,2026-10-04T09:20:46+00:00
+YNET,ynet.co.il,https://www.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,7,attempt3,2026-10-04T09:20:13+00:00
+Ynetnews,ynetnews.com,https://www.ynetnews.com,https://www.ynet.co.il/Integration/StoryRss3082.xml,ynet - News,30,True,3,attempt3,2026-10-04T09:28:32+00:00
+Yogonet,yogonet.com,https://www.yogonet.com,https://www.yogonet.com/international/rss.xml,Yogonet International,20,True,9,attempt2,2026-10-04T09:26:58+00:00
+יוסמיוסיק,yosmusic.com,https://yosmusic.com,https://yosmusic.com/feed/,יוסמיוסיק,30,True,0,attempt1,2026-10-04T09:27:29+00:00
+זמן ישראל,zman.co.il,https://www.zman.co.il,https://www.zman.co.il/feed/513/,,0,False,1,attempt3,2026-10-04T09:20:09+00:00
+זו הדרך,zoha.org.il,https://zoha.org.il,https://zoha.org.il/feed/,זו הדרך,10,True,0,attempt1,2026-10-04T09:21:02+00:00

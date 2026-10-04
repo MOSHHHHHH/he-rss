@@ -1,30 +1,1147 @@
 {
+  "0404.co.il": {
+    "checked_at": "2026-10-04T09:21:06+00:00",
+    "homepage": "https://0404.co.il",
+    "name": "חדשות 04",
+    "status": "not_found",
+    "v": 2
+  },
+  "103fm.maariv.co.il": {
+    "checked_at": "2026-10-04T09:29:08+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה",
+        "url": "https://www.maariv.co.il/rss/rssfeedsasakim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - מבזקי חדשות",
+        "url": "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ספורט",
+        "url": "https://www.maariv.co.il/rss/rssfeedssport",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל ישראלי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelisreal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל עולמי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelolami",
+        "verified": true
+      },
+      {
+        "entries": 15,
+        "title": "maariv.co.il - כדורסל",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadorsal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ענפים נוספים",
+        "url": "https://www.maariv.co.il/rss/rssfeedsanafimnosafim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה בארץ",
+        "url": "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - צרכנות",
+        "url": "https://www.maariv.co.il/rss/rssfeedszarchanot",
+        "verified": true
+      }
+    ],
+    "homepage": "https://103fm.maariv.co.il",
+    "method": "attempt3",
+    "name": "103FM",
+    "status": "found",
+    "title": "maariv.co.il - חדשות מהארץ והעולם",
+    "url": "https://www.maariv.co.il/rss/rsschadashot",
+    "v": 2,
+    "verified": true
+  },
+  "1045fm.maariv.co.il": {
+    "checked_at": "2026-10-04T09:29:48+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה",
+        "url": "https://www.maariv.co.il/rss/rssfeedsasakim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - מבזקי חדשות",
+        "url": "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ספורט",
+        "url": "https://www.maariv.co.il/rss/rssfeedssport",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל ישראלי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelisreal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל עולמי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelolami",
+        "verified": true
+      },
+      {
+        "entries": 15,
+        "title": "maariv.co.il - כדורסל",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadorsal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ענפים נוספים",
+        "url": "https://www.maariv.co.il/rss/rssfeedsanafimnosafim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה בארץ",
+        "url": "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - צרכנות",
+        "url": "https://www.maariv.co.il/rss/rssfeedszarchanot",
+        "verified": true
+      }
+    ],
+    "homepage": "https://1045fm.maariv.co.il",
+    "method": "attempt3",
+    "name": "רדיו צפון 104.5FM",
+    "status": "found",
+    "title": "maariv.co.il - חדשות מהארץ והעולם",
+    "url": "https://www.maariv.co.il/rss/rsschadashot",
+    "v": 2,
+    "verified": true
+  },
+  "1075.fm": {
+    "checked_at": "2026-10-04T09:23:46+00:00",
+    "homepage": "https://www.1075.fm",
+    "name": "רדיו חיפה",
+    "status": "not_found",
+    "v": 2
+  },
+  "1221.org.il": {
+    "checked_at": "2026-10-04T09:27:22+00:00",
+    "entries": 1,
+    "homepage": "https://1221.org.il",
+    "method": "attempt1",
+    "name": "איחוד הצלה",
+    "status": "found",
+    "title": "איחוד הצלה",
+    "url": "https://1221.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
   "13tv.co.il": {
-    "checked_at": "2026-10-04T08:50:01+00:00",
+    "checked_at": "2026-10-04T09:21:27+00:00",
     "homepage": "https://13tv.co.il",
     "name": "רשת 13",
     "status": "not_found",
     "v": 2
   },
+  "20il.co.il": {
+    "checked_at": "2026-10-04T09:26:31+00:00",
+    "entries": 10,
+    "homepage": "https://www.20il.co.il",
+    "method": "attempt1",
+    "name": "20il.co.il",
+    "status": "found",
+    "title": "20il",
+    "url": "https://www.20il.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "365scores.com": {
+    "checked_at": "2026-10-04T09:21:35+00:00",
+    "homepage": "https://www.365scores.com",
+    "name": "365Scores",
+    "status": "not_found",
+    "v": 2
+  },
+  "4x4.co.il": {
+    "checked_at": "2026-10-04T09:24:48+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "אופנועים / טרקטורונים",
+        "url": "https://www.4x4.co.il/rss/motor.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "כביש / ספורט",
+        "url": "https://www.4x4.co.il/rss/road.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "טיפוס הרים",
+        "url": "https://www.4x4.co.il/rss/mountaineering.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.4x4.co.il",
+    "method": "attempt2",
+    "name": "4x4.co.il",
+    "status": "found",
+    "title": "שטח 4X4",
+    "url": "https://www.4x4.co.il/rss/4x4.xml",
+    "v": 2,
+    "verified": true
+  },
+  "96fm.co.il": {
+    "checked_at": "2026-10-04T09:25:11+00:00",
+    "entries": 2,
+    "homepage": "https://96fm.co.il",
+    "method": "attempt1",
+    "name": "96fm.co.il",
+    "status": "found",
+    "title": "רדיו קול רגע",
+    "url": "https://96fm.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "970.co.il": {
+    "checked_at": "2026-10-04T09:26:50+00:00",
+    "entries": 10,
+    "homepage": "https://970.co.il",
+    "method": "attempt1",
+    "name": "- 970 חדשות חיפה",
+    "status": "found",
+    "title": "970 חדשות חיפה",
+    "url": "https://970.co.il/?feed=rss2",
+    "v": 2,
+    "verified": true
+  },
+  "adalah.org": {
+    "checked_at": "2026-10-04T09:27:33+00:00",
+    "homepage": "https://www.adalah.org",
+    "name": "adalah.org",
+    "status": "not_found",
+    "v": 2
+  },
+  "aeroflap.com.br": {
+    "checked_at": "2026-10-04T09:27:15+00:00",
+    "entries": 0,
+    "homepage": "https://aeroflap.com.br",
+    "method": "attempt3",
+    "name": "Aeroflap",
+    "status": "found",
+    "title": "",
+    "url": "https://www.aeroflap.com.br/feed/",
+    "v": 2,
+    "verified": false
+  },
+  "alondon.net": {
+    "checked_at": "2026-10-04T09:27:11+00:00",
+    "homepage": "https://alondon.net",
+    "name": "עלונדון",
+    "status": "not_found",
+    "v": 2
+  },
+  "alquds.com": {
+    "checked_at": "2026-10-04T09:22:47+00:00",
+    "entries": 30,
+    "homepage": "https://alquds.com",
+    "method": "attempt1",
+    "name": "جريدة القدس",
+    "status": "found",
+    "title": "خلاصة جريدة القدس",
+    "url": "https://alquds.com/ar/feed",
+    "v": 2,
+    "verified": true
+  },
+  "apollohospitals.com": {
+    "checked_at": "2026-10-04T09:23:49+00:00",
+    "entries": 10,
+    "homepage": "https://www.apollohospitals.com",
+    "method": "attempt1",
+    "name": "Apollo Hospitals",
+    "status": "found",
+    "title": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "arabexpert.co.il": {
+    "checked_at": "2026-10-04T09:21:57+00:00",
+    "entries": 10,
+    "homepage": "https://arabexpert.co.il",
+    "method": "attempt1",
+    "name": "המזרח התיכון לאן? | הבלוג של יוני בן מנחם",
+    "status": "found",
+    "title": "The Middle East",
+    "url": "https://arabexpert.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "armstronginstitute.org": {
+    "checked_at": "2026-10-04T09:27:04+00:00",
+    "entries": 12,
+    "homepage": "https://armstronginstitute.org",
+    "method": "attempt1",
+    "name": "Armstrong Institute of Biblical Archaeology",
+    "status": "found",
+    "title": "theTrumpet.com",
+    "url": "https://armstronginstitute.org/rss",
+    "v": 2,
+    "verified": true
+  },
+  "ashdod-haredim.co.il": {
+    "checked_at": "2026-10-04T09:21:50+00:00",
+    "entries": 10,
+    "homepage": "https://www.ashdod-haredim.co.il",
+    "method": "attempt1",
+    "name": "חרדים אשדוד",
+    "status": "found",
+    "title": "חרדים אשדוד",
+    "url": "https://www.ashdod-haredim.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "ashdod.muni.il": {
+    "checked_at": "2026-10-04T09:30:54+00:00",
+    "homepage": "https://ashdod.muni.il",
+    "name": "עיריית אשדוד",
+    "status": "not_found",
+    "v": 2
+  },
+  "ashdod10.co.il": {
+    "checked_at": "2026-10-04T09:25:46+00:00",
+    "entries": 10,
+    "homepage": "https://ashdod10.co.il",
+    "method": "attempt1",
+    "name": "ashdod10.co.il",
+    "status": "found",
+    "title": "חדשות אשדוד – אשדוד10",
+    "url": "https://ashdod10.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "ashdod4u.com": {
+    "checked_at": "2026-10-04T09:24:38+00:00",
+    "entries": 10,
+    "homepage": "https://www.ashdod4u.com",
+    "method": "attempt1",
+    "name": "Ashdod4U",
+    "status": "found",
+    "title": "Ashdod4U",
+    "url": "https://www.ashdod4u.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "ashdodhayom.co.il": {
+    "checked_at": "2026-10-04T09:23:14+00:00",
+    "homepage": "https://ashdodhayom.co.il",
+    "name": "אשדוד היום",
+    "status": "not_found",
+    "v": 2
+  },
+  "ashdodnet.com": {
+    "checked_at": "2026-10-04T09:21:36+00:00",
+    "homepage": "https://ashdodnet.com",
+    "name": "אשדוד נט",
+    "status": "not_found",
+    "v": 2
+  },
+  "ashdodonline.co.il": {
+    "checked_at": "2026-10-04T09:23:39+00:00",
+    "entries": 10,
+    "homepage": "https://ashdodonline.co.il",
+    "method": "attempt1",
+    "name": "אשדוד אונליין",
+    "status": "found",
+    "title": "אשדוד אונליין",
+    "url": "https://ashdodonline.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "ashdods.co.il": {
+    "checked_at": "2026-10-04T09:21:22+00:00",
+    "homepage": "https://ashdods.co.il",
+    "name": "אשדודס",
+    "status": "not_found",
+    "v": 2
+  },
+  "ashkelon.news": {
+    "checked_at": "2026-10-04T09:27:08+00:00",
+    "entries": 50,
+    "homepage": "https://ashkelon.news",
+    "method": "attempt1",
+    "name": "אשקלון ניוז",
+    "status": "found",
+    "title": "אשקלון ניוז",
+    "url": "https://ashkelon.news/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "ashkelonim.co.il": {
+    "checked_at": "2026-10-04T09:27:17+00:00",
+    "homepage": "https://ashkelonim.co.il",
+    "name": "ashkelonim.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "askpavel.co.il": {
+    "checked_at": "2026-10-04T09:26:39+00:00",
+    "entries": 0,
+    "homepage": "https://www.askpavel.co.il",
+    "method": "attempt3",
+    "name": "AskPavel",
+    "status": "found",
+    "title": "",
+    "url": "https://www.askpavel.co.il/feed",
+    "v": 2,
+    "verified": false
+  },
+  "atmag.co.il": {
+    "checked_at": "2026-10-04T09:22:38+00:00",
+    "homepage": "https://www.atmag.co.il",
+    "name": "מגזין את",
+    "status": "not_found",
+    "v": 2
+  },
+  "aurora-israel.co.il": {
+    "checked_at": "2026-10-04T09:21:23+00:00",
+    "homepage": "https://www.aurora-israel.co.il",
+    "name": "Aurora Israel",
+    "status": "not_found",
+    "v": 2
+  },
+  "auto.co.il": {
+    "checked_at": "2026-10-04T09:21:59+00:00",
+    "homepage": "https://www.auto.co.il",
+    "name": "אוטו",
+    "status": "not_found",
+    "v": 2
+  },
+  "automag.co.il": {
+    "checked_at": "2026-10-04T09:26:06+00:00",
+    "entries": 10,
+    "homepage": "https://www.automag.co.il",
+    "method": "attempt1",
+    "name": "שטח - כל מילה בסלע",
+    "status": "found",
+    "title": "שטח",
+    "url": "https://www.automag.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "b.walla.co.il": {
+    "checked_at": "2026-10-04T09:34:03+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://b.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה ברנז'ה",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "b7net.co.il": {
+    "checked_at": "2026-10-04T09:21:28+00:00",
+    "homepage": "https://www.b7net.co.il",
+    "name": "באר שבע נט",
+    "status": "not_found",
+    "v": 2
+  },
+  "be106.net": {
+    "checked_at": "2026-10-04T09:21:54+00:00",
+    "entries": 40,
+    "extra_feeds": [
+      {
+        "entries": 40,
+        "title": "be106.net ראשון לציון",
+        "url": "https://www.be106.net/rss/city/231/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net תל אביב-יפו",
+        "url": "https://www.be106.net/rss/city/255/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net יבנה",
+        "url": "https://www.be106.net/rss/city/104/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net גדרה",
+        "url": "https://www.be106.net/rss/city/55/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net בת ים",
+        "url": "https://www.be106.net/rss/city/49/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net חולון",
+        "url": "https://www.be106.net/rss/city/87/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net נס ציונה",
+        "url": "https://www.be106.net/rss/city/173/posts.xml",
+        "verified": true
+      },
+      {
+        "entries": 40,
+        "title": "be106.net מוסף נדל\"ן",
+        "url": "https://www.be106.net/rss/city/282/posts.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.be106.net",
+    "method": "attempt2",
+    "name": "BE106",
+    "status": "found",
+    "title": "be106.net רחובות",
+    "url": "https://www.be106.net/rss/city/233/posts.xml",
+    "v": 2,
+    "verified": true
+  },
+  "beitarfc.co.il": {
+    "checked_at": "2026-10-04T09:24:41+00:00",
+    "entries": 10,
+    "homepage": "https://www.beitarfc.co.il",
+    "method": "attempt1",
+    "name": "beitarfc.co.il",
+    "status": "found",
+    "title": "בית״ר ירושלים",
+    "url": "https://www.beitarfc.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "besacenter.org": {
+    "checked_at": "2026-10-04T09:26:59+00:00",
+    "entries": 10,
+    "homepage": "https://besacenter.org",
+    "method": "attempt1",
+    "name": "Begin-Sadat Center for Strategic Studies",
+    "status": "found",
+    "title": "Begin-Sadat Center for Strategic Studies",
+    "url": "https://besacenter.org/feed/",
+    "v": 2,
+    "verified": true
+  },
   "bhol.co.il": {
-    "checked_at": "2026-10-04T08:32:48+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:19:49+00:00",
+    "homepage": "https://www.bhol.co.il",
+    "name": "בחדרי חרדים",
+    "status": "not_found",
+    "v": 2
   },
   "bizportal.co.il": {
-    "checked_at": "2026-10-04T08:33:03+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:28+00:00",
+    "homepage": "https://www.bizportal.co.il",
+    "name": "ביזפורטל",
+    "status": "not_found",
+    "v": 2
+  },
+  "bizzness.net": {
+    "checked_at": "2026-10-04T09:23:52+00:00",
+    "entries": 10,
+    "homepage": "https://bizzness.net",
+    "method": "attempt1",
+    "name": "ביזנעס",
+    "status": "found",
+    "title": "ביזנעס",
+    "url": "https://bizzness.net/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "blinker.co.il": {
+    "checked_at": "2026-10-04T09:20:39+00:00",
+    "entries": 10,
+    "homepage": "https://blinker.co.il",
+    "method": "attempt1",
+    "name": "בלינקר",
+    "status": "found",
+    "title": "בלינקר",
+    "url": "https://blinker.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "blog.cloudflare.com": {
+    "checked_at": "2026-10-04T09:27:47+00:00",
+    "entries": 20,
+    "homepage": "https://blog.cloudflare.com",
+    "method": "attempt1",
+    "name": "blog.cloudflare.com",
+    "status": "found",
+    "title": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/rss",
+    "v": 2,
+    "verified": true
+  },
+  "boi.org.il": {
+    "checked_at": "2026-10-04T09:25:09+00:00",
+    "homepage": "https://www.boi.org.il",
+    "name": "בנק ישראל",
+    "status": "not_found",
+    "v": 2
+  },
+  "br7news.co.il": {
+    "checked_at": "2026-10-04T09:20:38+00:00",
+    "entries": 25,
+    "homepage": "https://br7news.co.il",
+    "method": "attempt1",
+    "name": "חדשות באר שבע והנגב",
+    "status": "found",
+    "title": "חדשות באר שבע והנגב - BR7",
+    "url": "https://br7news.co.il/rss",
+    "v": 2,
+    "verified": true
+  },
+  "broadwayworld.com": {
+    "checked_at": "2026-10-04T09:25:27+00:00",
+    "entries": 0,
+    "homepage": "https://www.broadwayworld.com",
+    "method": "attempt3",
+    "name": "BroadwayWorld",
+    "status": "found",
+    "title": "",
+    "url": "https://www.broadwayworld.com/feed_all_bway.php",
+    "v": 2,
+    "verified": false
+  },
+  "btl.gov.il": {
+    "checked_at": "2026-10-04T09:27:01+00:00",
+    "entries": 7,
+    "homepage": "http://www.btl.gov.il",
+    "method": "attempt2",
+    "name": "btl.gov.il",
+    "status": "found",
+    "title": "אודות הביטוח הלאומי",
+    "url": "https://www.btl.gov.il:443/About/_layouts/15/RssPage.aspx?mode=1",
+    "v": 2,
+    "verified": true
   },
   "c14.co.il": {
-    "checked_at": "2026-10-04T08:32:59+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:12+00:00",
+    "homepage": "https://www.c14.co.il",
+    "name": "C14",
+    "status": "not_found",
+    "v": 2
   },
   "calcalist.co.il": {
-    "checked_at": "2026-10-04T08:31:48+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:27+00:00",
+    "homepage": "https://www.calcalist.co.il",
+    "name": "calcalist",
+    "status": "not_found",
+    "v": 2
+  },
+  "cars.walla.co.il": {
+    "checked_at": "2026-10-04T09:33:32+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://cars.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה רכב",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "cartube.co.il": {
+    "checked_at": "2026-10-04T09:24:36+00:00",
+    "entries": 10,
+    "homepage": "https://www.cartube.co.il",
+    "method": "attempt2",
+    "name": "קארטיוב",
+    "status": "found",
+    "title": "קארטיוב - רכב חשמלי מבצעי רכב חדשות רכב מבחני רכב קטלוג רכב חדש ועוד - cartube",
+    "url": "https://www.cartube.co.il/?format=feed&type=rss",
+    "v": 2,
+    "verified": true
+  },
+  "celebs.walla.co.il": {
+    "checked_at": "2026-10-04T09:30:00+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://celebs.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה סלבס",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "ch10.co.il": {
+    "checked_at": "2026-10-04T09:20:33+00:00",
+    "entries": 10,
+    "homepage": "https://ch10.co.il",
+    "method": "attempt1",
+    "name": "חרדים10",
+    "status": "found",
+    "title": "חרדים10",
+    "url": "https://ch10.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "chabad.info": {
+    "checked_at": "2026-10-04T09:20:31+00:00",
+    "homepage": "https://chabad.info",
+    "name": "חב\"ד אינפו",
+    "status": "not_found",
+    "v": 2
+  },
+  "chabad.org": {
+    "checked_at": "2026-10-04T09:21:55+00:00",
+    "entries": 11,
+    "homepage": "https://www.chabad.org",
+    "method": "attempt3",
+    "name": "Chabad",
+    "status": "found",
+    "title": "Chabad.org Weekly Magazine [ Shemini Atzeret/Simchat Torah ]",
+    "url": "https://www.chabad.org/tools/rss/magazine_rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "chiportal.co.il": {
+    "checked_at": "2026-10-04T09:26:35+00:00",
+    "entries": 10,
+    "homepage": "https://chiportal.co.il",
+    "method": "attempt1",
+    "name": "Chiportal",
+    "status": "found",
+    "title": "Chiportal",
+    "url": "https://chiportal.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "clalit.co.il": {
+    "checked_at": "2026-10-04T09:27:24+00:00",
+    "homepage": "https://www.clalit.co.il",
+    "name": "כללית",
+    "status": "not_found",
+    "v": 2
+  },
+  "col.org.il": {
+    "checked_at": "2026-10-04T09:22:33+00:00",
+    "homepage": "https://col.org.il",
+    "name": "חב״ד און ליין",
+    "status": "not_found",
+    "v": 2
+  },
+  "colbonews.co.il": {
+    "checked_at": "2026-10-04T09:21:53+00:00",
+    "homepage": "https://www.colbonews.co.il",
+    "name": "כלבו חיפה",
+    "status": "not_found",
+    "v": 2
+  },
+  "cryptojungle.co.il": {
+    "checked_at": "2026-10-04T09:25:20+00:00",
+    "entries": 1,
+    "homepage": "https://www.cryptojungle.co.il",
+    "method": "attempt1",
+    "name": "Crypto Jungle",
+    "status": "found",
+    "title": "Crypto Jungle",
+    "url": "https://www.cryptojungle.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "da.news": {
+    "checked_at": "2026-10-04T09:25:23+00:00",
+    "entries": 30,
+    "homepage": "https://da.news",
+    "method": "attempt1",
+    "name": "da.news",
+    "status": "found",
+    "title": "da.news",
+    "url": "https://da.news/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "datili.co.il": {
+    "checked_at": "2026-10-04T09:27:46+00:00",
+    "entries": 10,
+    "homepage": "https://www.datili.co.il",
+    "method": "attempt1",
+    "name": "דתילי",
+    "status": "found",
+    "title": "דתילי אתר חדשות",
+    "url": "https://www.datili.co.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "davar1.co.il": {
-    "checked_at": "2026-10-04T08:33:26+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:16+00:00",
+    "entries": 0,
+    "homepage": "https://www.davar1.co.il",
+    "method": "attempt3",
+    "name": "davar1.co.il",
+    "status": "found",
+    "title": "",
+    "url": "https://www.davar1.co.il/feed/",
+    "v": 2,
+    "verified": false
+  },
+  "davidson.org.il": {
+    "checked_at": "2026-10-04T09:23:54+00:00",
+    "entries": 1,
+    "homepage": "https://davidson.org.il",
+    "method": "attempt1",
+    "name": "מכון דוידסון לחינוך מדעי",
+    "status": "found",
+    "title": "מכון דוידסון לחינוך מדעי",
+    "url": "https://davidson.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "dayan.org": {
+    "checked_at": "2026-10-04T09:23:01+00:00",
+    "homepage": "https://dayan.org",
+    "name": "Moshe Dayan Center",
+    "status": "not_found",
+    "v": 2
+  },
+  "deloitte.com": {
+    "checked_at": "2026-10-04T09:25:01+00:00",
+    "homepage": "https://www.deloitte.com",
+    "name": "deloitte.com",
+    "status": "not_found",
+    "v": 2
+  },
+  "dhl.com": {
+    "checked_at": "2026-10-04T09:26:35+00:00",
+    "homepage": "https://www.dhl.com",
+    "name": "DHL",
+    "status": "not_found",
+    "v": 2
+  },
+  "disneyplus.com": {
+    "checked_at": "2026-10-04T09:25:38+00:00",
+    "homepage": "https://www.disneyplus.com",
+    "name": "Disney Plus",
+    "status": "not_found",
+    "v": 2
+  },
+  "e.walla.co.il": {
+    "checked_at": "2026-10-04T09:28:30+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://e.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה תרבות",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "ehlers-danlos.com": {
+    "checked_at": "2026-10-04T09:27:46+00:00",
+    "homepage": "https://ehlers-danlos.com",
+    "name": "The Ehlers Danlos Society",
+    "status": "not_found",
+    "v": 2
+  },
+  "eilat.muni.il": {
+    "checked_at": "2026-10-04T09:21:25+00:00",
+    "homepage": "https://www.eilat.muni.il",
+    "name": "עיריית אילת",
+    "status": "not_found",
+    "v": 2
+  },
+  "eilatredc.co.il": {
+    "checked_at": "2026-10-04T09:22:36+00:00",
+    "entries": 0,
+    "homepage": "https://www.eilatredc.co.il",
+    "method": "attempt1",
+    "name": "רד סי אילת",
+    "status": "found",
+    "title": "חדשות אילת | רד סי אילת",
+    "url": "https://www.eilatredc.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "elizipori.co.il": {
+    "checked_at": "2026-10-04T09:25:39+00:00",
+    "entries": 12,
+    "homepage": "https://elizipori.co.il",
+    "method": "attempt1",
+    "name": "הבלוג של אלי ציפורי",
+    "status": "found",
+    "title": "האתר של אלי ציפורי",
+    "url": "https://elizipori.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "emeknews.co.il": {
+    "checked_at": "2026-10-04T09:21:07+00:00",
+    "entries": 10,
+    "homepage": "https://emeknews.co.il",
+    "method": "attempt1",
+    "name": "עמקניוז",
+    "status": "found",
+    "title": "עמקניוז – חדשות העמק",
+    "url": "https://emeknews.co.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "emess.co.il": {
     "checked_at": "2026-10-04T08:33:23+00:00",
@@ -34,9 +1151,397 @@
     "title": "אמס MS",
     "url": "https://www.emess.co.il/feed"
   },
+  "epoch.org.il": {
+    "checked_at": "2026-10-04T09:21:17+00:00",
+    "entries": 999,
+    "homepage": "https://epoch.org.il",
+    "method": "attempt1",
+    "name": "אפוק - מגזין מרחיב דעת, מעורר מחשבה",
+    "status": "found",
+    "title": "אפוק – מגזין מרחיב דעת, מעורר מחשבה",
+    "url": "https://epoch.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "eset.com": {
+    "checked_at": "2026-10-04T09:27:18+00:00",
+    "entries": 98,
+    "homepage": "https://www.eset.com",
+    "method": "attempt3",
+    "name": "eset.com",
+    "status": "found",
+    "title": "Support News",
+    "url": "https://support-feed.eset.com/news",
+    "v": 2,
+    "verified": true
+  },
+  "euromix.co.il": {
+    "checked_at": "2026-10-04T09:25:35+00:00",
+    "entries": 250,
+    "homepage": "https://www.euromix.co.il",
+    "method": "attempt1",
+    "name": "EuroMix",
+    "status": "found",
+    "title": "EuroMix",
+    "url": "https://www.euromix.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "europeantimes.news": {
+    "checked_at": "2026-10-04T09:24:44+00:00",
+    "entries": 40,
+    "homepage": "https://www.europeantimes.news",
+    "method": "attempt1",
+    "name": "The European Times",
+    "status": "found",
+    "title": "The European Times",
+    "url": "https://europeantimes.news/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "export.gov.il": {
+    "checked_at": "2026-10-04T09:24:27+00:00",
+    "homepage": "https://export.gov.il",
+    "name": "מכון היצוא",
+    "status": "not_found",
+    "v": 2
+  },
+  "facebook.com": {
+    "checked_at": "2026-10-04T09:24:31+00:00",
+    "homepage": "https://www.facebook.com",
+    "name": "facebook.com",
+    "status": "not_found",
+    "v": 2
+  },
+  "fashion.walla.co.il": {
+    "checked_at": "2026-10-04T09:32:17+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://fashion.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה אופנה",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "father4justice.org": {
+    "checked_at": "2026-10-04T09:27:42+00:00",
+    "entries": 8,
+    "homepage": "https://father4justice.org",
+    "method": "attempt1",
+    "name": "אבות למען צדק",
+    "status": "found",
+    "title": "אבות למען צדק",
+    "url": "https://father4justice.org/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "finance.walla.co.il": {
+    "checked_at": "2026-10-04T09:30:35+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://finance.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה כסף",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "food.walla.co.il": {
+    "checked_at": "2026-10-04T09:31:10+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://food.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה אוכל",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "foodis.co.il": {
+    "checked_at": "2026-10-04T09:25:54+00:00",
+    "homepage": "https://www.foodis.co.il",
+    "name": "אכול ושאטו",
+    "status": "not_found",
+    "v": 2
+  },
+  "forbes.co.il": {
+    "checked_at": "2026-10-04T09:23:34+00:00",
+    "homepage": "https://forbes.co.il",
+    "name": "פורבס ישראל",
+    "status": "not_found",
+    "v": 2
+  },
+  "frogi.co.il": {
+    "checked_at": "2026-10-04T09:26:33+00:00",
+    "homepage": "https://www.frogi.co.il",
+    "name": "פרוגי",
+    "status": "not_found",
+    "v": 2
+  },
   "funder.co.il": {
-    "checked_at": "2026-10-04T08:33:45+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:17+00:00",
+    "homepage": "https://www.funder.co.il",
+    "name": "פאנדר",
+    "status": "not_found",
+    "v": 2
+  },
+  "g-rafa.co.il": {
+    "checked_at": "2026-10-04T09:20:58+00:00",
+    "entries": 100,
+    "homepage": "https://g-rafa.co.il",
+    "method": "attempt1",
+    "name": "g-rafa.co.il",
+    "status": "found",
+    "title": "ג'ירפה",
+    "url": "https://g-rafa.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "gadgety.co.il": {
+    "checked_at": "2026-10-04T09:21:52+00:00",
+    "entries": 10,
+    "homepage": "https://www.gadgety.co.il",
+    "method": "attempt1",
+    "name": "מגזין טכנולוגיה ובידור - Gadgety",
+    "status": "found",
+    "title": "מגזין טכנולוגיה ובידור – Gadgety",
+    "url": "https://www.gadgety.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "gal-gefen.co.il": {
+    "checked_at": "2026-10-04T09:27:41+00:00",
+    "entries": 5,
+    "homepage": "https://gal-gefen.co.il",
+    "method": "attempt1",
+    "name": "gal-gefen.co.il",
+    "status": "found",
+    "title": "פספורטניוז",
+    "url": "https://gal-gefen.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "ganyavne.net": {
+    "checked_at": "2026-10-04T09:26:56+00:00",
+    "homepage": "https://www.ganyavne.net",
+    "name": "גן יבנה נט",
+    "status": "not_found",
+    "v": 2
+  },
+  "gederahayom.co.il": {
+    "checked_at": "2026-10-04T09:24:34+00:00",
+    "homepage": "https://gederahayom.co.il",
+    "name": "גדרה היום",
+    "status": "not_found",
+    "v": 2
+  },
+  "geektime.co.il": {
+    "checked_at": "2026-10-04T09:22:41+00:00",
+    "entries": 30,
+    "homepage": "https://www.geektime.co.il",
+    "method": "attempt1",
+    "name": "גיקטיים",
+    "status": "found",
+    "title": "גיקטיים",
+    "url": "https://www.geektime.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "gfn.co.il": {
+    "checked_at": "2026-10-04T09:25:17+00:00",
+    "entries": 20,
+    "homepage": "https://www.gfn.co.il",
+    "method": "attempt1",
+    "name": "גפן-מגזין המושבות",
+    "status": "found",
+    "title": "גפן-מגזין המושבות",
+    "url": "https://www.gfn.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "globenewswire.com": {
+    "checked_at": "2026-10-04T09:24:10+00:00",
+    "entries": 20,
+    "homepage": "https://www.globenewswire.com",
+    "method": "attempt1",
+    "name": "GlobeNewswire",
+    "status": "found",
+    "title": "GlobeNewswire RSS Feed",
+    "url": "https://www.globenewswire.com/rssfeed",
+    "v": 2,
+    "verified": true
   },
   "globes.co.il": {
     "checked_at": "2026-10-04T08:32:55+00:00",
@@ -46,13 +1551,420 @@
     "title": "שוק ההון והשקעות - גלובס",
     "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585"
   },
+  "gly.co.il": {
+    "checked_at": "2026-10-04T09:24:07+00:00",
+    "homepage": "https://www.gly.co.il",
+    "name": "רדיו גלי ישראל",
+    "status": "not_found",
+    "v": 2
+  },
+  "glz.co.il": {
+    "checked_at": "2026-10-04T09:23:10+00:00",
+    "homepage": "https://glz.co.il",
+    "name": "glz.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "goethe.de": {
+    "checked_at": "2026-10-04T09:25:44+00:00",
+    "entries": 0,
+    "homepage": "https://www.goethe.de",
+    "method": "attempt3",
+    "name": "goethe.de",
+    "status": "found",
+    "title": "",
+    "url": "https://www.goethe.de/ins/gb/en/rss.html",
+    "v": 2,
+    "verified": false
+  },
+  "goitem.co.il": {
+    "checked_at": "2026-10-04T09:22:31+00:00",
+    "homepage": "https://goitem.co.il",
+    "name": "go item",
+    "status": "not_found",
+    "v": 2
+  },
+  "goler1.co.il": {
+    "checked_at": "2026-10-04T09:23:03+00:00",
+    "homepage": "https://www.goler1.co.il",
+    "name": "גולר1 - עולם הכדורגל הישראלי | ליגה לאומית | ליגות נמוכות",
+    "status": "not_found",
+    "v": 2
+  },
   "gov.il": {
-    "checked_at": "2026-10-04T08:33:48+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:20+00:00",
+    "entries": 0,
+    "homepage": "https://www.gov.il",
+    "method": "attempt3",
+    "name": "Gov.il",
+    "status": "found",
+    "title": "",
+    "url": "https://www.gov.il/he/Departments/ministry_of_communications/RSS",
+    "v": 2,
+    "verified": false
+  },
+  "gplanet.co.il": {
+    "checked_at": "2026-10-04T09:23:46+00:00",
+    "entries": 10,
+    "homepage": "https://www.gplanet.co.il",
+    "method": "attempt1",
+    "name": "Gplanet",
+    "status": "found",
+    "title": "Gplanet",
+    "url": "https://www.gplanet.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "greenpeace.org": {
+    "checked_at": "2026-10-04T09:23:27+00:00",
+    "entries": 0,
+    "homepage": "https://www.greenpeace.org",
+    "method": "attempt3",
+    "name": "Greenpeace",
+    "status": "found",
+    "title": "",
+    "url": "https://www.greenpeace.org/international/feed/",
+    "v": 2,
+    "verified": false
+  },
+  "ha-makom.co.il": {
+    "checked_at": "2026-10-04T09:22:27+00:00",
+    "entries": 10,
+    "homepage": "https://www.ha-makom.co.il",
+    "method": "attempt1",
+    "name": "המקום הכי חם בגיהנום",
+    "status": "found",
+    "title": "המקום הכי חם בגיהנום",
+    "url": "https://www.ha-makom.co.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "haaretz.co.il": {
-    "checked_at": "2026-10-04T08:30:41+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:10+00:00",
+    "entries": 100,
+    "extra_feeds": [
+      {
+        "entries": 100,
+        "title": "RSS - Feedly",
+        "url": "https://www.haaretz.co.il/srv/rss---feedly",
+        "verified": true
+      },
+      {
+        "entries": 100,
+        "title": "RSS-opinion",
+        "url": "https://www.haaretz.co.il/srv/rss-opinion",
+        "verified": true
+      },
+      {
+        "entries": 100,
+        "title": "טיולים - הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D---%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "אוכל- הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%90%D7%95%D7%9B%D7%9C--%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "סוף שבוע - הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%A1%D7%95%D7%A3-%D7%A9%D7%91%D7%95%D7%A2---%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "מדע- הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%9E%D7%93%D7%A2--%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "RSS - משפחה",
+        "url": "https://www.haaretz.co.il/srv/rss---%D7%9E%D7%A9%D7%A4%D7%97%D7%94",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "בריאות- הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA--%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      },
+      {
+        "entries": 50,
+        "title": "ספורט- הארץ RSS",
+        "url": "https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%95%D7%A8%D7%98--%D7%94%D7%90%D7%A8%D7%A5-rss",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.haaretz.co.il",
+    "method": "attempt2",
+    "name": "הארץ",
+    "status": "found",
+    "title": "HTZ - Culture - RSS",
+    "url": "https://www.haaretz.co.il/srv/htz---culture---rss",
+    "v": 2,
+    "verified": true
+  },
+  "habama.co.il": {
+    "checked_at": "2026-10-04T09:21:13+00:00",
+    "homepage": "https://www.habama.co.il",
+    "name": "הבמה",
+    "status": "not_found",
+    "v": 2
+  },
+  "hageula.com": {
+    "checked_at": "2026-10-04T09:22:47+00:00",
+    "homepage": "https://www.hageula.com",
+    "name": "אתר הגאולה",
+    "status": "not_found",
+    "v": 2
+  },
+  "haifa.muni.il": {
+    "checked_at": "2026-10-04T09:20:47+00:00",
+    "entries": 1,
+    "homepage": "https://www.haifa.muni.il",
+    "method": "attempt1",
+    "name": "haifa.muni.il",
+    "status": "found",
+    "title": "עיריית חיפה",
+    "url": "https://www.haifa.muni.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "haifa.mynet.co.il": {
+    "checked_at": "2026-10-04T09:28:35+00:00",
+    "homepage": "https://haifa.mynet.co.il",
+    "name": "מיינט חיפה",
+    "status": "not_found",
+    "v": 2
+  },
+  "haipo.co.il": {
+    "checked_at": "2026-10-04T09:20:29+00:00",
+    "homepage": "https://haipo.co.il",
+    "name": "haipo.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "hakolhayehudi.co.il": {
+    "checked_at": "2026-10-04T09:25:22+00:00",
+    "entries": 4,
+    "extra_feeds": [
+      {
+        "entries": 125,
+        "title": "מגזין• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%92%D7%96%D7%99%D7%9F_%D7%94%D7%A7%D7%95%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%996i0wjhyqvg",
+        "verified": true
+      },
+      {
+        "entries": 11,
+        "title": "אֵם הַגְּבָעוֹת• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%90%D6%B5%D7%9D_%D7%94%D6%B7%D7%92%D6%B0%D6%BC%D7%91%D6%B8%D7%A2%D7%95%D6%B9%D7%AA",
+        "verified": true
+      },
+      {
+        "entries": 15,
+        "title": "הטור השבועי - מאיר אטינגר• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%91%D7%98_%D7%A9%D7%9C_%D7%A9%D7%91%D7%AA_-_%D7%9E%D7%90%D7%99%D7%A8_%D7%90%D7%98%D7%99%D7%A0%D7%92%D7%A8",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "מעבר לגבולות• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%A2%D7%91%D7%A8_%D7%9C%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA",
+        "verified": true
+      },
+      {
+        "entries": 22,
+        "title": "פרשה בכותרות - הרב יוסי אליצור• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%A4%D7%A8%D7%A9%D7%94_%D7%91%D7%9B%D7%95%D7%AA%D7%A8%D7%95%D7%AA_-_%D7%94%D7%A8%D7%91_%D7%99%D7%95%D7%A1%D7%99_%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8",
+        "verified": true
+      },
+      {
+        "entries": 1363,
+        "title": "כל הכתבות• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/All_content",
+        "verified": true
+      },
+      {
+        "entries": 482,
+        "title": "ריכוז חדשות היום• הקול היהודי",
+        "url": "https://www.hakolhayehudi.co.il/rss/%D7%A8%D7%99%D7%9B%D7%95%D7%96_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%99%D7%95%D7%9D",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.hakolhayehudi.co.il",
+    "method": "attempt2",
+    "name": "hakolhayehudi.co.il",
+    "status": "found",
+    "title": "האזור האישי• הקול היהודי",
+    "url": "https://www.hakolhayehudi.co.il/rss/%D7%A7%D7%94%D7%99%D7%9C%D7%AA_%D7%94%D7%9E%D7%A9%D7%9E%D7%99%D7%A2%D7%99%D7%9Dexlz5yq3n6",
+    "v": 2,
+    "verified": true
+  },
+  "harish.co.il": {
+    "checked_at": "2026-10-04T09:26:33+00:00",
+    "entries": 10,
+    "homepage": "https://www.harish.co.il",
+    "method": "attempt1",
+    "name": "harish.co.il",
+    "status": "found",
+    "title": "חריש סיטי",
+    "url": "https://www.harish.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "hashikma-rishon.co.il": {
+    "checked_at": "2026-10-04T09:27:44+00:00",
+    "homepage": "https://www.hashikma-rishon.co.il",
+    "name": "השקמה ראשון לציון",
+    "status": "not_found",
+    "v": 2
+  },
+  "hayadan.org.il": {
+    "checked_at": "2026-10-04T09:21:52+00:00",
+    "entries": 50,
+    "homepage": "https://www.hayadan.org.il",
+    "method": "attempt1",
+    "name": "Hayadan",
+    "status": "found",
+    "title": "הידען – Hayadan",
+    "url": "https://www.hayadan.org.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "he.chabad.org": {
+    "checked_at": "2026-10-04T09:28:38+00:00",
+    "entries": 95,
+    "homepage": "https://he.chabad.org",
+    "method": "attempt3",
+    "name": "Chabad",
+    "status": "found",
+    "title": "ChabadTalk Podcast",
+    "url": "https://www.chabad.org/tools/rss/itunes/seriesrss_cdo/scope/4100607/variant/22874",
+    "v": 2,
+    "verified": true
+  },
+  "healthy.walla.co.il": {
+    "checked_at": "2026-10-04T09:32:54+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://healthy.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה בריאות",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "hebrewnews.com": {
+    "checked_at": "2026-10-04T09:24:38+00:00",
+    "homepage": "https://www.hebrewnews.com",
+    "name": "Hebrew News",
+    "status": "not_found",
+    "v": 2
+  },
+  "herzliya.muni.il": {
+    "checked_at": "2026-10-04T09:26:52+00:00",
+    "homepage": "https://www.herzliya.muni.il",
+    "name": "עיריית הרצליה",
+    "status": "not_found",
+    "v": 2
+  },
+  "herzliya.mynet.co.il": {
+    "checked_at": "2026-10-04T09:29:12+00:00",
+    "homepage": "https://herzliya.mynet.co.il",
+    "name": "מיינט",
+    "status": "not_found",
+    "v": 2
+  },
+  "hidabroot.org": {
+    "checked_at": "2026-10-04T09:20:30+00:00",
+    "entries": 23,
+    "homepage": "https://www.hidabroot.org",
+    "method": "attempt1",
+    "name": "הידברות",
+    "status": "found",
+    "title": "הידברות",
+    "url": "https://www.hidabroot.org/feed",
+    "v": 2,
+    "verified": true
+  },
+  "histadrut.org.il": {
+    "checked_at": "2026-10-04T09:25:19+00:00",
+    "entries": 0,
+    "homepage": "https://www.histadrut.org.il",
+    "method": "attempt1",
+    "name": "הסתדרות העובדים",
+    "status": "found",
+    "title": "הסתדרות העובדים",
+    "url": "https://www.histadrut.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "hkn.co.il": {
+    "checked_at": "2026-10-04T09:21:19+00:00",
+    "homepage": "https://hkn.co.il",
+    "name": "HKN חיפה והקריות",
+    "status": "not_found",
+    "v": 2
   },
   "hm-news.co.il": {
     "checked_at": "2026-10-04T08:34:07+00:00",
@@ -62,10 +1974,98 @@
     "title": "המחדש",
     "url": "https://hm-news.co.il/feed/"
   },
+  "hod-hasharon.muni.il": {
+    "checked_at": "2026-10-04T09:27:11+00:00",
+    "homepage": "https://www.hod-hasharon.muni.il",
+    "name": "עיריית הוד השרון",
+    "status": "not_found",
+    "v": 2
+  },
+  "hoha.co.il": {
+    "checked_at": "2026-10-04T09:24:15+00:00",
+    "entries": 10,
+    "homepage": "https://hoha.co.il",
+    "method": "attempt1",
+    "name": "ירוק - רשת מקומונים בשרון",
+    "status": "found",
+    "title": "ירוק – רשת מקומונים בשרון",
+    "url": "https://hoha.co.il/?feed=rss2",
+    "v": 2,
+    "verified": true
+  },
+  "holesinthenet.co.il": {
+    "checked_at": "2026-10-04T09:27:03+00:00",
+    "entries": 8,
+    "homepage": "https://holesinthenet.co.il",
+    "method": "attempt1",
+    "name": "חורים ברשת",
+    "status": "found",
+    "title": "חורים ברשת",
+    "url": "https://holesinthenet.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "holon.muni.il": {
+    "checked_at": "2026-10-04T09:35:13+00:00",
+    "homepage": "https://www.holon.muni.il",
+    "name": "עיריית חולון",
+    "status": "not_found",
+    "v": 2
+  },
+  "hrw.org": {
+    "checked_at": "2026-10-04T09:26:59+00:00",
+    "entries": 20,
+    "homepage": "https://www.hrw.org",
+    "method": "attempt1",
+    "name": "Human Rights Watch",
+    "status": "found",
+    "title": "Human Rights Watch News",
+    "url": "https://www.hrw.org/rss/news",
+    "v": 2,
+    "verified": true
+  },
+  "i-hls.com": {
+    "checked_at": "2026-10-04T09:27:46+00:00",
+    "entries": 10,
+    "homepage": "https://i-hls.com",
+    "method": "attempt1",
+    "name": "i-hls.com",
+    "status": "found",
+    "title": "iHLS",
+    "url": "https://i-hls.com/feed",
+    "v": 2,
+    "verified": true
+  },
   "i24news.tv": {
-    "checked_at": "2026-10-04T08:49:10+00:00",
+    "checked_at": "2026-10-04T09:20:20+00:00",
     "homepage": "https://www.i24news.tv",
     "name": "i24NEWS",
+    "status": "not_found",
+    "v": 2
+  },
+  "iaf.org.il": {
+    "checked_at": "2026-10-04T09:24:41+00:00",
+    "homepage": "https://www.iaf.org.il",
+    "name": "אתר חיל-האוויר",
+    "status": "not_found",
+    "v": 2
+  },
+  "ias.co.il": {
+    "checked_at": "2026-10-04T09:21:25+00:00",
+    "entries": 10,
+    "homepage": "https://www.ias.co.il",
+    "method": "attempt1",
+    "name": "ias.co.il",
+    "status": "found",
+    "title": "IAS",
+    "url": "https://www.ias.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "icar.co.il": {
+    "checked_at": "2026-10-04T09:20:48+00:00",
+    "homepage": "https://www.icar.co.il",
+    "name": "אתר הרכב של ישראל",
     "status": "not_found",
     "v": 2
   },
@@ -78,12 +2078,104 @@
     "url": "https://www.ice.co.il/rss"
   },
   "idf.il": {
-    "checked_at": "2026-10-04T08:34:06+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:32+00:00",
+    "homepage": "https://www.idf.il",
+    "name": "idf.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "idi.org.il": {
+    "checked_at": "2026-10-04T09:21:23+00:00",
+    "homepage": "https://www.idi.org.il",
+    "name": "המכון הישראלי לדמוקרטיה",
+    "status": "not_found",
+    "v": 2
+  },
+  "il.ign.com": {
+    "checked_at": "2026-10-04T09:27:17+00:00",
+    "entries": 40,
+    "homepage": "https://il.ign.com",
+    "method": "attempt1",
+    "name": "IGN Israel",
+    "status": "found",
+    "title": "IGN Israel",
+    "url": "https://il.ign.com/feed.xml",
+    "v": 2,
+    "verified": true
   },
   "il.investing.com": {
-    "checked_at": "2026-10-04T08:33:55+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:45+00:00",
+    "entries": 10,
+    "extra_feeds": [
+      {
+        "entries": 10,
+        "title": "Most Popular Analysis",
+        "url": "https://www.investing.com/rss/286.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Editor's Picks",
+        "url": "https://www.investing.com/rss/290.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Market Overview",
+        "url": "https://www.investing.com/rss/market_overview.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Stock Markets Analysis & Opinion",
+        "url": "https://www.investing.com/rss/stock.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Forex Opinion & Analysis",
+        "url": "https://www.investing.com/rss/forex.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Commodities Analysis & Opinion",
+        "url": "https://www.investing.com/rss/commodities.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Cryptocurrency Opinion & Analysis",
+        "url": "https://www.investing.com/rss/302.rss",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Bonds Analysis & Opinion",
+        "url": "https://www.investing.com/rss/bonds.rss",
+        "verified": true
+      }
+    ],
+    "homepage": "https://il.investing.com",
+    "method": "attempt3",
+    "name": "Investing.com",
+    "status": "found",
+    "title": "Investing.com Analysis",
+    "url": "https://www.investing.com/rss/121899.rss",
+    "v": 2,
+    "verified": true
+  },
+  "ing.org": {
+    "checked_at": "2026-10-04T09:27:02+00:00",
+    "entries": 10,
+    "homepage": "https://ing.org",
+    "method": "attempt1",
+    "name": "Intercultural Networks Group (ING)",
+    "status": "found",
+    "title": "ING",
+    "url": "https://ing.org/feed/",
+    "v": 2,
+    "verified": true
   },
   "inn.co.il": {
     "checked_at": "2026-10-04T08:33:20+00:00",
@@ -93,16 +2185,100 @@
     "title": "כתבות ערוץ 7",
     "url": "https://www.inn.co.il/Rss.aspx?act=.1"
   },
+  "inss.org.il": {
+    "checked_at": "2026-10-04T09:21:27+00:00",
+    "entries": 1,
+    "homepage": "https://www.inss.org.il",
+    "method": "attempt1",
+    "name": "inss.org.il",
+    "status": "found",
+    "title": "INSS",
+    "url": "https://www.inss.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "isoc.org.il": {
+    "checked_at": "2026-10-04T09:26:16+00:00",
+    "homepage": "https://www.isoc.org.il",
+    "name": "איגוד האינטרנט הישראלי",
+    "status": "not_found",
+    "v": 2
+  },
+  "isport.co.il": {
+    "checked_at": "2026-10-04T09:21:16+00:00",
+    "homepage": "https://isport.co.il",
+    "name": "ישראל ספורט",
+    "status": "not_found",
+    "v": 2
+  },
+  "israel.agrisupportonline.com": {
+    "checked_at": "2026-10-04T09:27:34+00:00",
+    "homepage": "https://www.israel.agrisupportonline.com",
+    "name": "פורטל החקלאות הישראלי",
+    "status": "not_found",
+    "v": 2
+  },
   "israeldefense.co.il": {
-    "checked_at": "2026-10-04T08:34:34+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:29+00:00",
+    "entries": 10,
+    "homepage": "https://www.israeldefense.co.il",
+    "method": "attempt3",
+    "name": "israeldefense.co.il",
+    "status": "found",
+    "title": "News",
+    "url": "https://www.israeldefense.co.il/en/taxonomy/term/2/feed",
+    "v": 2,
+    "verified": true
   },
   "israelhayom.co.il": {
-    "checked_at": "2026-10-04T09:04:50+00:00",
+    "checked_at": "2026-10-04T09:19:51+00:00",
     "homepage": "https://www.israelhayom.co.il",
     "name": "היום",
     "status": "not_found",
     "v": 2
+  },
+  "israelnews.co.il": {
+    "checked_at": "2026-10-04T09:25:55+00:00",
+    "entries": 10,
+    "homepage": "https://www.israelnews.co.il",
+    "method": "attempt1",
+    "name": "israelnews.co.il",
+    "status": "found",
+    "title": "Israel News",
+    "url": "https://www.israelnews.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "israelnow.co.il": {
+    "checked_at": "2026-10-04T09:27:30+00:00",
+    "entries": 10,
+    "homepage": "https://israelnow.co.il",
+    "method": "attempt1",
+    "name": "רשת מקומונים בשרון",
+    "status": "found",
+    "title": "רשת מקומונים בשרון | השבוע בנתניה",
+    "url": "https://israelnow.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "itu.org.il": {
+    "checked_at": "2026-10-04T09:27:29+00:00",
+    "homepage": "https://www.itu.org.il",
+    "name": "אתר הסתדרות המורים",
+    "status": "not_found",
+    "v": 2
+  },
+  "jablickar.cz": {
+    "checked_at": "2026-10-04T09:23:11+00:00",
+    "entries": 10,
+    "homepage": "https://jablickar.cz",
+    "method": "attempt1",
+    "name": "Jablíčkář.cz",
+    "status": "found",
+    "title": "",
+    "url": "https://jablickar.cz/feed/",
+    "v": 2,
+    "verified": true
   },
   "jdn.co.il": {
     "checked_at": "2026-10-04T08:33:43+00:00",
@@ -112,6 +2288,92 @@
     "title": "JDN",
     "url": "https://www.jdn.co.il/feed/"
   },
+  "jerusalem.muni.il": {
+    "checked_at": "2026-10-04T09:20:55+00:00",
+    "homepage": "https://www.jerusalem.muni.il",
+    "name": "עיריית ירושלים",
+    "status": "not_found",
+    "v": 2
+  },
+  "jerusalem.mynet.co.il": {
+    "checked_at": "2026-10-04T09:23:30+00:00",
+    "homepage": "https://jerusalem.mynet.co.il",
+    "name": "מיינט ירושלים",
+    "status": "not_found",
+    "v": 2
+  },
+  "jewishagency.org": {
+    "checked_at": "2026-10-04T09:25:43+00:00",
+    "entries": 10,
+    "homepage": "https://www.jewishagency.org",
+    "method": "attempt1",
+    "name": "jewishagency.org",
+    "status": "found",
+    "title": "The Jewish Agency for Israel",
+    "url": "https://www.jewishagency.org/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "jns.org": {
+    "checked_at": "2026-10-04T09:20:36+00:00",
+    "entries": 30,
+    "homepage": "https://www.jns.org",
+    "method": "attempt1",
+    "name": "JNS.org",
+    "status": "found",
+    "title": "JNS.org - Jerusalem News Syndicate",
+    "url": "https://www.jns.org/index.rss",
+    "v": 2,
+    "verified": true
+  },
+  "jppi.org.il": {
+    "checked_at": "2026-10-04T09:22:37+00:00",
+    "entries": 9,
+    "homepage": "https://jppi.org.il",
+    "method": "attempt1",
+    "name": "המכון למדיניות העם היהודי - JPPI",
+    "status": "found",
+    "title": "המכון למדיניות העם היהודי",
+    "url": "https://jppi.org.il/he/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kabbalah.co.il": {
+    "checked_at": "2026-10-04T09:27:39+00:00",
+    "entries": 0,
+    "homepage": "https://kabbalah.co.il",
+    "method": "attempt1",
+    "name": "kabbalah.co.il",
+    "status": "found",
+    "title": "מרכז הקבלה",
+    "url": "https://kabbalah.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kan-ashdod.co.il": {
+    "checked_at": "2026-10-04T09:22:34+00:00",
+    "entries": 18,
+    "homepage": "https://www.kan-ashdod.co.il",
+    "method": "attempt1",
+    "name": "כאן דרום - אשדוד",
+    "status": "found",
+    "title": "כאן דרום – אשדוד",
+    "url": "https://www.kan-ashdod.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "kan-ashkelon.co.il": {
+    "checked_at": "2026-10-04T09:23:53+00:00",
+    "entries": 18,
+    "homepage": "https://www.kan-ashkelon.co.il",
+    "method": "attempt1",
+    "name": "כאן דרום",
+    "status": "found",
+    "title": "כאן דרום – אשקלון",
+    "url": "https://www.kan-ashkelon.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
   "kan.org.il": {
     "checked_at": "2026-10-04T08:32:10+00:00",
     "entries": 33,
@@ -119,6 +2381,49 @@
     "status": "found",
     "title": "",
     "url": "https://www.kan.org.il/api/newsflash/v2/Newsflash"
+  },
+  "kanisrael.co.il": {
+    "checked_at": "2026-10-04T09:23:58+00:00",
+    "entries": 20,
+    "homepage": "https://kanisrael.co.il",
+    "method": "attempt1",
+    "name": "כאן נעים",
+    "status": "found",
+    "title": "כאן ישראל | kanisrael | כאן נעים | kan-naim",
+    "url": "https://kanisrael.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kantesti.net": {
+    "checked_at": "2026-10-04T09:24:27+00:00",
+    "entries": 10,
+    "homepage": "https://www.kantesti.net",
+    "method": "attempt1",
+    "name": "Kantesti AI Blood Test Analyzer",
+    "status": "found",
+    "title": "AI Blood Test Analyzer Free – Lab Interpretation, Made in Germany",
+    "url": "https://www.kantesti.net/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kfar-saba.muni.il": {
+    "checked_at": "2026-10-04T09:23:40+00:00",
+    "homepage": "https://www.kfar-saba.muni.il",
+    "name": "עיריית כפר סבא",
+    "status": "not_found",
+    "v": 2
+  },
+  "kfarnik.co.il": {
+    "checked_at": "2026-10-04T09:23:20+00:00",
+    "entries": 10,
+    "homepage": "https://kfarnik.co.il",
+    "method": "attempt1",
+    "name": "כפרניק",
+    "status": "found",
+    "title": "כפרניק",
+    "url": "https://kfarnik.co.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "kikar.co.il": {
     "checked_at": "2026-10-04T08:31:33+00:00",
@@ -136,6 +2441,127 @@
     "title": "כיפה - אתר החדשות המוביל במגזר הדתי",
     "url": "https://www.kipa.co.il/feed/"
   },
+  "kkl.org.il": {
+    "checked_at": "2026-10-04T09:25:53+00:00",
+    "homepage": "https://www.kkl.org.il",
+    "name": "קק\"ל",
+    "status": "not_found",
+    "v": 2
+  },
+  "kol-barama.co.il": {
+    "checked_at": "2026-10-04T09:20:21+00:00",
+    "entries": 4,
+    "homepage": "https://kol-barama.co.il",
+    "method": "attempt1",
+    "name": "קול ברמה",
+    "status": "found",
+    "title": "רדיו קול ברמה",
+    "url": "https://kol-barama.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kolhair.co.il": {
+    "checked_at": "2026-10-04T09:21:41+00:00",
+    "homepage": "https://www.kolhair.co.il",
+    "name": "כל העיר ירושלים",
+    "status": "not_found",
+    "v": 2
+  },
+  "kvishim.co.il": {
+    "checked_at": "2026-10-04T09:27:42+00:00",
+    "entries": 10,
+    "homepage": "https://kvishim.co.il",
+    "method": "attempt1",
+    "name": "kvishim.co.il",
+    "status": "found",
+    "title": "כבישים",
+    "url": "https://kvishim.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "kyiv1.com": {
+    "checked_at": "2026-10-04T09:26:32+00:00",
+    "homepage": "https://kyiv1.com",
+    "name": "Kyiv1",
+    "status": "not_found",
+    "v": 2
+  },
+  "ladaat.co": {
+    "checked_at": "2026-10-04T09:20:44+00:00",
+    "entries": 10,
+    "homepage": "https://ladaat.co",
+    "method": "attempt1",
+    "name": "לדעת",
+    "status": "found",
+    "title": "לדעת",
+    "url": "https://ladaat.co/?feed=rss2",
+    "v": 2,
+    "verified": true
+  },
+  "lametayel.co.il": {
+    "checked_at": "2026-10-04T09:23:23+00:00",
+    "homepage": "https://www.lametayel.co.il",
+    "name": "אתר למטייל",
+    "status": "not_found",
+    "v": 2
+  },
+  "letemsvetemapplem.eu": {
+    "checked_at": "2026-10-04T09:23:35+00:00",
+    "entries": 17,
+    "homepage": "https://www.letemsvetemapplem.eu",
+    "method": "attempt1",
+    "name": "Letem světem Applem",
+    "status": "found",
+    "title": "",
+    "url": "https://www.letemsvetemapplem.eu/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "m.sponser.co.il": {
+    "checked_at": "2026-10-04T09:29:17+00:00",
+    "entries": 15,
+    "extra_feeds": [
+      {
+        "entries": 0,
+        "title": "חדשות כלכלה",
+        "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=4",
+        "verified": true
+      },
+      {
+        "entries": 4,
+        "title": "וול סטריט וגלובל",
+        "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=5",
+        "verified": true
+      }
+    ],
+    "homepage": "https://m.sponser.co.il",
+    "method": "attempt3",
+    "name": "sponser.co.il",
+    "status": "found",
+    "title": "חדשות שוק ההון",
+    "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7",
+    "v": 2,
+    "verified": true
+  },
+  "m.sport5.co.il": {
+    "checked_at": "2026-10-04T09:28:43+00:00",
+    "homepage": "https://m.sport5.co.il",
+    "name": "Sport5",
+    "status": "not_found",
+    "v": 2
+  },
+  "m24.co.il": {
+    "checked_at": "2026-10-04T09:27:14+00:00",
+    "entries": 10,
+    "homepage": "https://m24.co.il",
+    "method": "attempt1",
+    "name": "מרכז העניינים",
+    "status": "found",
+    "title": "מרכז העניינים – חדשות טבעון והסביבה",
+    "url": "https://m24.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
   "maariv.co.il": {
     "checked_at": "2026-10-04T08:30:44+00:00",
     "entries": 20,
@@ -144,32 +2570,1408 @@
     "title": "maariv.co.il - חדשות מהארץ והעולם",
     "url": "https://www.maariv.co.il/rss/feed"
   },
+  "maccabi-tlv.co.il": {
+    "checked_at": "2026-10-04T09:23:24+00:00",
+    "entries": 10,
+    "homepage": "https://www.maccabi-tlv.co.il",
+    "method": "attempt1",
+    "name": "מועדון הכדורגל מכבי תל אביב",
+    "status": "found",
+    "title": "מועדון הכדורגל מכבי תל אביב",
+    "url": "https://www.maccabi-tlv.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "maccabi.co.il": {
+    "checked_at": "2026-10-04T09:23:06+00:00",
+    "entries": 10,
+    "homepage": "https://maccabi.co.il",
+    "method": "attempt1",
+    "name": "מכבי תל אביב כדורסל",
+    "status": "found",
+    "title": "Maccabi Tel Aviv Basketball",
+    "url": "https://maccabi.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "magdilim.co.il": {
+    "checked_at": "2026-10-04T09:22:21+00:00",
+    "homepage": "https://magdilim.co.il",
+    "name": "magdilim.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "main.knesset.gov.il": {
+    "checked_at": "2026-10-04T09:24:52+00:00",
+    "homepage": "https://main.knesset.gov.il",
+    "name": "אתר הכנסת",
+    "status": "not_found",
+    "v": 2
+  },
   "mako.co.il": {
-    "checked_at": "2026-10-04T08:30:53+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:12+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "חדשות - פלילים ומשפט",
+        "url": "https://rcs.mako.co.il/rss/news-law.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "חדשות - צרכנות וכלכלה",
+        "url": "https://rcs.mako.co.il/rss/news-money.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "חדשות - בעולם",
+        "url": "https://rcs.mako.co.il/rss/news-world.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס - mako",
+        "url": "https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס - מקומי",
+        "url": "https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס עולמי",
+        "url": "https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "תרבות",
+        "url": "https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "ספרות ובמה",
+        "url": "https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "Mako תוכניות קשת",
+        "url": "https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.mako.co.il",
+    "method": "attempt2",
+    "name": "mako.co.il",
+    "status": "found",
+    "title": "חדשות - פוליטי",
+    "url": "https://rcs.mako.co.il/rss/news-military.xml",
+    "v": 2,
+    "verified": true
   },
   "makorrishon.co.il": {
-    "checked_at": "2026-10-04T08:49:04+00:00",
+    "checked_at": "2026-10-04T09:19:56+00:00",
     "homepage": "https://www.makorrishon.co.il",
     "name": "מקור ראשון",
     "status": "not_found",
     "v": 2
   },
+  "masa.co.il": {
+    "checked_at": "2026-10-04T09:25:26+00:00",
+    "entries": 2,
+    "homepage": "https://www.masa.co.il",
+    "method": "attempt1",
+    "name": "מסע אחר",
+    "status": "found",
+    "title": "מסע אחר",
+    "url": "https://www.masa.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "mastercard.com": {
+    "checked_at": "2026-10-04T09:25:20+00:00",
+    "homepage": "https://www.mastercard.com",
+    "name": "Mastercard",
+    "status": "not_found",
+    "v": 2
+  },
+  "mazaltov.walla.co.il": {
+    "checked_at": "2026-10-04T09:35:12+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://mazaltov.walla.co.il",
+    "method": "attempt3",
+    "name": "וואלה! מזל טוב",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "megafon-news.co.il": {
+    "checked_at": "2026-10-04T09:23:57+00:00",
+    "homepage": "https://megafon-news.co.il",
+    "name": "מגפון ניוז",
+    "status": "not_found",
+    "v": 2
+  },
+  "meida.org.il": {
+    "checked_at": "2026-10-04T09:25:47+00:00",
+    "entries": 10,
+    "homepage": "https://www.meida.org.il",
+    "method": "attempt1",
+    "name": "התנועה לחופש המידע",
+    "status": "found",
+    "title": "התנועה לחופש המידע",
+    "url": "https://www.meida.org.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "meida8.co.il": {
+    "checked_at": "2026-10-04T09:22:26+00:00",
+    "entries": 10,
+    "homepage": "https://meida8.co.il",
+    "method": "attempt1",
+    "name": "מידע 8",
+    "status": "found",
+    "title": "מידע 8",
+    "url": "https://meida8.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "mekomi.walla.co.il": {
+    "checked_at": "2026-10-04T09:34:28+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://mekomi.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה מקומי",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "mekomit.co.il": {
+    "checked_at": "2026-10-04T09:22:00+00:00",
+    "homepage": "https://www.mekomit.co.il",
+    "name": "שיחה מקומית",
+    "status": "not_found",
+    "v": 2
+  },
+  "mekomonrishon.co.il": {
+    "checked_at": "2026-10-04T09:23:27+00:00",
+    "entries": 10,
+    "homepage": "https://mekomonrishon.co.il",
+    "method": "attempt1",
+    "name": "מקומון ראשון",
+    "status": "found",
+    "title": "מקומון ראשון",
+    "url": "https://mekomonrishon.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "melabes.co.il": {
+    "checked_at": "2026-10-04T09:25:00+00:00",
+    "homepage": "https://www.melabes.co.il",
+    "name": "מלאבס פתח תקווה",
+    "status": "not_found",
+    "v": 2
+  },
+  "meta-defense.fr": {
+    "checked_at": "2026-10-04T09:25:22+00:00",
+    "entries": 10,
+    "homepage": "https://meta-defense.fr",
+    "method": "attempt1",
+    "name": "Meta-Defense",
+    "status": "found",
+    "title": "MetaDefense",
+    "url": "https://meta-defense.fr/feed/atom/",
+    "v": 2,
+    "verified": true
+  },
+  "mevaker.gov.il": {
+    "checked_at": "2026-10-04T09:26:44+00:00",
+    "homepage": "https://www.mevaker.gov.il",
+    "name": "mevaker.gov.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "mida.org.il": {
+    "checked_at": "2026-10-04T09:23:24+00:00",
+    "entries": 100,
+    "homepage": "https://mida.org.il",
+    "method": "attempt1",
+    "name": "מידה",
+    "status": "found",
+    "title": "מידה",
+    "url": "https://mida.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "migdalor-news.co.il": {
+    "checked_at": "2026-10-04T09:21:10+00:00",
+    "homepage": "https://www.migdalor-news.co.il",
+    "name": "מגדלור ניוז",
+    "status": "not_found",
+    "v": 2
+  },
+  "migflug.com": {
+    "checked_at": "2026-10-04T09:27:03+00:00",
+    "entries": 5,
+    "homepage": "https://migflug.com",
+    "method": "attempt1",
+    "name": "MiGFlug",
+    "status": "found",
+    "title": "MiGFlug",
+    "url": "https://migflug.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "mivzaklive.co.il": {
+    "checked_at": "2026-10-04T09:23:54+00:00",
+    "entries": 10,
+    "homepage": "https://www.mivzaklive.co.il",
+    "method": "attempt1",
+    "name": "חדשות מבזק לייב",
+    "status": "found",
+    "title": "חדשות מבזק לייב",
+    "url": "https://www.mivzaklive.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "mnews.co.il": {
+    "checked_at": "2026-10-04T09:24:03+00:00",
+    "entries": 10,
+    "homepage": "https://mnews.co.il",
+    "method": "attempt1",
+    "name": "mnews.co.il",
+    "status": "found",
+    "title": "מודיעין ניוז",
+    "url": "https://mnews.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "mobile.mako.co.il": {
+    "checked_at": "2026-10-04T09:29:16+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "חדשות - פלילים ומשפט",
+        "url": "https://rcs.mako.co.il/rss/news-law.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "חדשות - צרכנות וכלכלה",
+        "url": "https://rcs.mako.co.il/rss/news-money.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "חדשות - בעולם",
+        "url": "https://rcs.mako.co.il/rss/news-world.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס - mako",
+        "url": "https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס - מקומי",
+        "url": "https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "סלבס עולמי",
+        "url": "https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "תרבות",
+        "url": "https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "ספרות ובמה",
+        "url": "https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "Mako תוכניות קשת",
+        "url": "https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://mobile.mako.co.il",
+    "method": "attempt2",
+    "name": "mako.co.il",
+    "status": "found",
+    "title": "חדשות - פוליטי",
+    "url": "https://rcs.mako.co.il/rss/news-military.xml",
+    "v": 2,
+    "verified": true
+  },
+  "mobile.pc.co.il": {
+    "checked_at": "2026-10-04T09:28:42+00:00",
+    "homepage": "https://mobile.pc.co.il",
+    "name": "אנשים ומחשבים",
+    "status": "not_found",
+    "v": 2
+  },
+  "mod.gov.il": {
+    "checked_at": "2026-10-04T09:26:07+00:00",
+    "homepage": "https://mod.gov.il",
+    "name": "משרד הביטחון - דף הבית",
+    "status": "not_found",
+    "v": 2
+  },
+  "modiin.muni.il": {
+    "checked_at": "2026-10-04T09:24:57+00:00",
+    "entries": 10,
+    "extra_feeds": [
+      {
+        "entries": 10,
+        "title": "עיריית מודיעין מכבים רעות - אירועים בעיר",
+        "url": "https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinEventsRSS",
+        "verified": true
+      },
+      {
+        "entries": 26,
+        "title": "עיריית מודיעין מכבים רעות - על סדר היום",
+        "url": "https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinRecentNewsRSS",
+        "verified": true
+      },
+      {
+        "entries": 8,
+        "title": "עיריית מודיעין מכבים רעות - עדכונים באתר",
+        "url": "https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinChannelsRSS",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.modiin.muni.il",
+    "method": "attempt3",
+    "name": "עיריית מודיעין מכבים רעות",
+    "status": "found",
+    "title": "עיריית מודיעין מכבים רעות - חדשות העיר",
+    "url": "https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinNewsRSS",
+    "v": 2,
+    "verified": true
+  },
+  "moovitapp.com": {
+    "checked_at": "2026-10-04T09:23:42+00:00",
+    "homepage": "https://moovitapp.com",
+    "name": "Moovit",
+    "status": "not_found",
+    "v": 2
+  },
+  "myavne.co.il": {
+    "checked_at": "2026-10-04T09:23:34+00:00",
+    "homepage": "https://www.myavne.co.il",
+    "name": "myavne.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "mygdera.co.il": {
+    "checked_at": "2026-10-04T09:27:20+00:00",
+    "homepage": "https://www.mygdera.co.il",
+    "name": "mygdera.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "myrehovot.co.il": {
+    "checked_at": "2026-10-04T09:27:20+00:00",
+    "homepage": "https://www.myrehovot.co.il",
+    "name": "פורטל רחובות שלי",
+    "status": "not_found",
+    "v": 2
+  },
+  "nadlancenter.co.il": {
+    "checked_at": "2026-10-04T09:21:03+00:00",
+    "entries": 11,
+    "homepage": "https://www.nadlancenter.co.il",
+    "method": "attempt1",
+    "name": "מרכז הנדל\"ן",
+    "status": "found",
+    "title": "ראשי",
+    "url": "https://www.nadlancenter.co.il/rss/main",
+    "v": 2,
+    "verified": true
+  },
+  "nahariya.muni.il": {
+    "checked_at": "2026-10-04T09:36:21+00:00",
+    "homepage": "https://www.nahariya.muni.il",
+    "name": "עיריית נהריה",
+    "status": "not_found",
+    "v": 2
+  },
+  "nba.sport5.co.il": {
+    "checked_at": "2026-10-04T09:29:26+00:00",
+    "homepage": "https://nba.sport5.co.il",
+    "name": "Sport5",
+    "status": "not_found",
+    "v": 2
+  },
+  "nessziona.net": {
+    "checked_at": "2026-10-04T09:22:11+00:00",
+    "homepage": "https://nessziona.net",
+    "name": "נס ציונה נט",
+    "status": "not_found",
+    "v": 2
+  },
+  "netanya.muni.il": {
+    "checked_at": "2026-10-04T09:23:52+00:00",
+    "homepage": "https://www.netanya.muni.il",
+    "name": "עיריית נתניה",
+    "status": "not_found",
+    "v": 2
+  },
+  "netanyanet.co.il": {
+    "checked_at": "2026-10-04T09:21:49+00:00",
+    "entries": 0,
+    "homepage": "https://www.netanyanet.co.il",
+    "method": "attempt2",
+    "name": "נתניה נט",
+    "status": "found",
+    "title": "נתניה נט - כל העיר בקליק אחד!",
+    "url": "https://www.netanyanet.co.il/?format=feed&type=rss",
+    "v": 2,
+    "verified": true
+  },
+  "netflix.com": {
+    "checked_at": "2026-10-04T09:26:13+00:00",
+    "homepage": "https://www.netflix.com",
+    "name": "Netflix",
+    "status": "not_found",
+    "v": 2
+  },
+  "new.huji.ac.il": {
+    "checked_at": "2026-10-04T09:27:23+00:00",
+    "entries": 10,
+    "homepage": "https://new.huji.ac.il",
+    "method": "attempt1",
+    "name": "האוניברסיטה העברית בירושלים",
+    "status": "found",
+    "title": "הזנת אתר",
+    "url": "https://new.huji.ac.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "news-israel.net": {
+    "checked_at": "2026-10-04T09:25:18+00:00",
+    "entries": 10,
+    "homepage": "https://www.news-israel.net",
+    "method": "attempt1",
+    "name": "עניין מרכזי",
+    "status": "found",
+    "title": "עניין מרכזי",
+    "url": "https://www.news-israel.net/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "news.bitcoin.com": {
+    "checked_at": "2026-10-04T09:24:44+00:00",
+    "entries": 10,
+    "homepage": "https://news.bitcoin.com",
+    "method": "attempt1",
+    "name": "Bitcoin News",
+    "status": "found",
+    "title": "Bitcoin News",
+    "url": "https://news.bitcoin.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "news.walla.co.il": {
+    "checked_at": "2026-10-04T09:33:39+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://news.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה חדשות",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "news08.net": {
+    "checked_at": "2026-10-04T09:21:30+00:00",
+    "entries": 15,
+    "homepage": "https://www.news08.net",
+    "method": "attempt1",
+    "name": "חדשות אפס שמונה",
+    "status": "found",
+    "title": "חדשות 08",
+    "url": "https://www.news08.net/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "news1.co.il": {
+    "checked_at": "2026-10-04T09:27:34+00:00",
+    "homepage": "https://www.news1.co.il",
+    "name": "News1 מחלקה ראשונה",
+    "status": "not_found",
+    "v": 2
+  },
+  "newzim.co.il": {
+    "checked_at": "2026-10-04T09:22:14+00:00",
+    "homepage": "https://newzim.co.il",
+    "name": "ניוזים",
+    "status": "not_found",
+    "v": 2
+  },
+  "nhn.co.il": {
+    "checked_at": "2026-10-04T09:27:49+00:00",
+    "entries": 55,
+    "homepage": "https://nhn.co.il",
+    "method": "attempt1",
+    "name": "nhn.co.il",
+    "status": "found",
+    "title": "השרון הצפוני NHN – מקומון בחדרה | מקומון בפרדס חנה כרכור | מקומון באור עקיבא",
+    "url": "https://nhn.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "nosachteiman.co.il": {
+    "checked_at": "2026-10-04T09:25:41+00:00",
+    "entries": 48,
+    "homepage": "https://nosachteiman.co.il",
+    "method": "attempt1",
+    "name": "נוסח תימן",
+    "status": "found",
+    "title": "נוסח תימן • המרכז להפצת יהדות תימן",
+    "url": "https://nosachteiman.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "nournews.ir": {
+    "checked_at": "2026-10-04T09:22:31+00:00",
+    "entries": 30,
+    "homepage": "https://nournews.ir",
+    "method": "attempt1",
+    "name": "نورنیوز",
+    "status": "found",
+    "title": "نورنیوز",
+    "url": "https://nournews.ir/feeds/",
+    "v": 2,
+    "verified": true
+  },
+  "nws.report": {
+    "checked_at": "2026-10-04T09:22:04+00:00",
+    "entries": 100,
+    "homepage": "https://nws.report",
+    "method": "attempt1",
+    "name": "NWS חדשות חיפה והסביבה",
+    "status": "found",
+    "title": "NWS חדשות חיפה והסביבה",
+    "url": "https://nws.report/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "nziv.net": {
+    "checked_at": "2026-10-04T09:22:29+00:00",
+    "entries": 10,
+    "homepage": "https://nziv.net",
+    "method": "attempt1",
+    "name": "nziv.net",
+    "status": "found",
+    "title": "Nziv.net",
+    "url": "https://nziv.net/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "one.co.il": {
+    "checked_at": "2026-10-04T09:21:04+00:00",
+    "entries": 53,
+    "homepage": "https://www.one.co.il",
+    "method": "attempt1",
+    "name": "ONE",
+    "status": "found",
+    "title": "ONE",
+    "url": "https://www.one.co.il/rss",
+    "v": 2,
+    "verified": true
+  },
+  "ononews.co.il": {
+    "checked_at": "2026-10-04T09:23:17+00:00",
+    "entries": 10,
+    "homepage": "https://ononews.co.il",
+    "method": "attempt1",
+    "name": "אונו ניוז",
+    "status": "found",
+    "title": "| אונו News",
+    "url": "https://ononews.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "ornews.co.il": {
+    "checked_at": "2026-10-04T09:23:20+00:00",
+    "homepage": "https://www.ornews.co.il",
+    "name": "ornews.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "parks.org.il": {
+    "checked_at": "2026-10-04T09:25:18+00:00",
+    "entries": 5,
+    "homepage": "https://www.parks.org.il",
+    "method": "attempt1",
+    "name": "רשות הטבע והגנים",
+    "status": "found",
+    "title": "רשות הטבע והגנים",
+    "url": "https://www.parks.org.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "parstoday.ir": {
+    "checked_at": "2026-10-04T09:22:42+00:00",
+    "entries": 0,
+    "homepage": "https://parstoday.ir",
+    "method": "attempt1",
+    "name": "Pars Today",
+    "status": "found",
+    "title": "PARS TODAY",
+    "url": "https://parstoday.ir/rss",
+    "v": 2,
+    "verified": true
+  },
   "passportnews.co.il": {
-    "checked_at": "2026-10-04T08:34:16+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:23+00:00",
+    "homepage": "https://passportnews.co.il",
+    "name": "PassportNews",
+    "status": "not_found",
+    "v": 2
+  },
+  "pc.co.il": {
+    "checked_at": "2026-10-04T09:21:19+00:00",
+    "entries": 30,
+    "homepage": "https://www.pc.co.il",
+    "method": "attempt1",
+    "name": "אנשים ומחשבים",
+    "status": "found",
+    "title": "אנשים ומחשבים – פורטל חדשות היי-טק, מיחשוב, טלקום, טכנולוגיות",
+    "url": "https://www.pc.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "peacenow.org.il": {
+    "checked_at": "2026-10-04T09:27:16+00:00",
+    "entries": 10,
+    "homepage": "https://peacenow.org.il",
+    "method": "attempt1",
+    "name": "שלום עכשיו",
+    "status": "found",
+    "title": "שלום עכשיו",
+    "url": "https://peacenow.org.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "planetario.buenosaires.gob.ar": {
+    "checked_at": "2026-10-04T09:27:39+00:00",
+    "entries": 3,
+    "homepage": "https://planetario.buenosaires.gob.ar",
+    "method": "attempt1",
+    "name": "planetario.buenosaires.gob.ar",
+    "status": "found",
+    "title": "Drupal",
+    "url": "https://planetario.buenosaires.gob.ar/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "playbyplay.sport5.co.il": {
+    "checked_at": "2026-10-04T09:29:32+00:00",
+    "homepage": "https://playbyplay.sport5.co.il",
+    "name": "playbyplay.sport5.co.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "poenta.co.il": {
+    "checked_at": "2026-10-04T09:25:24+00:00",
+    "entries": 10,
+    "homepage": "https://www.poenta.co.il",
+    "method": "attempt1",
+    "name": "פואנטה",
+    "status": "found",
+    "title": "פואנטה",
+    "url": "https://www.poenta.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "port2port.co.il": {
+    "checked_at": "2026-10-04T09:23:38+00:00",
+    "homepage": "https://www.port2port.co.il",
+    "name": "PORT2PORT",
+    "status": "not_found",
+    "v": 2
+  },
+  "portugalresident.com": {
+    "checked_at": "2026-10-04T09:23:25+00:00",
+    "entries": 10,
+    "homepage": "https://www.portugalresident.com",
+    "method": "attempt1",
+    "name": "Portugal Resident",
+    "status": "found",
+    "title": "Portugal Resident",
+    "url": "https://www.portugalresident.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "posta.co.il": {
+    "checked_at": "2026-10-04T09:29:06+00:00",
+    "homepage": "https://posta.co.il",
+    "name": "פוסטה",
+    "status": "not_found",
+    "v": 2
+  },
+  "pplus.ynet.co.il": {
+    "checked_at": "2026-10-04T09:28:44+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "ynet - מבזקים",
+        "url": "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - בלוגוס",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3764.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - דעות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss194.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - יומני סבר",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3487.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - צרכנות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss5363.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - ספורט",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - כדורגל ישראלי",
+        "url": "https://www.ynet.co.il/Integration/StoryRss57.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://pplus.ynet.co.il",
+    "method": "attempt3",
+    "name": "פנאי פלוס",
+    "status": "found",
+    "title": "ynet - חדשות",
+    "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+    "v": 2,
+    "verified": true
+  },
+  "president.gov.il": {
+    "checked_at": "2026-10-04T09:23:22+00:00",
+    "entries": 10,
+    "homepage": "https://www.president.gov.il",
+    "method": "attempt1",
+    "name": "בית הנשיא",
+    "status": "found",
+    "title": "בית הנשיא",
+    "url": "https://www.president.gov.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "pressreader.com": {
+    "checked_at": "2026-10-04T09:22:43+00:00",
+    "homepage": "https://www.pressreader.com",
+    "name": "PressReader",
+    "status": "not_found",
+    "v": 2
+  },
+  "prtfl.co.il": {
+    "checked_at": "2026-10-04T09:21:17+00:00",
+    "entries": 15,
+    "homepage": "https://www.prtfl.co.il",
+    "method": "attempt1",
+    "name": "מגזין פורטפוליו -",
+    "status": "found",
+    "title": "מגזין פורטפוליו",
+    "url": "https://www.prtfl.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "ptnews.co.il": {
+    "checked_at": "2026-10-04T09:23:37+00:00",
+    "entries": 10,
+    "homepage": "https://www.ptnews.co.il",
+    "method": "attempt1",
+    "name": "פתח תקווה NEWS",
+    "status": "found",
+    "title": "פתח תקווה NEWS",
+    "url": "https://www.ptnews.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "ptnow.co.il": {
+    "checked_at": "2026-10-04T09:22:34+00:00",
+    "homepage": "https://www.ptnow.co.il",
+    "name": "פתח תקוה עכשיו",
+    "status": "not_found",
+    "v": 2
+  },
+  "quasa.io": {
+    "checked_at": "2026-10-04T09:26:29+00:00",
+    "homepage": "https://quasa.io",
+    "name": "quasa.io",
+    "status": "not_found",
+    "v": 2
+  },
+  "radiodarom.co.il": {
+    "checked_at": "2026-10-04T09:26:12+00:00",
+    "homepage": "https://www.radiodarom.co.il",
+    "name": "רדיו דרום",
+    "status": "not_found",
+    "v": 2
+  },
+  "ramat-gan.muni.il": {
+    "checked_at": "2026-10-04T09:27:38+00:00",
+    "homepage": "https://www.ramat-gan.muni.il",
+    "name": "ramat-gan.muni.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "regthink.org": {
+    "checked_at": "2026-10-04T09:24:35+00:00",
+    "homepage": "https://www.regthink.org",
+    "name": "הפורום לחשיבה אזורית",
+    "status": "not_found",
+    "v": 2
+  },
+  "rehovot.news": {
+    "checked_at": "2026-10-04T09:23:49+00:00",
+    "homepage": "https://rehovot.news",
+    "name": "Rehovot News",
+    "status": "not_found",
+    "v": 2
+  },
+  "reuters.com": {
+    "checked_at": "2026-10-04T09:26:21+00:00",
+    "homepage": "https://www.reuters.com",
+    "name": "Reuters",
+    "status": "not_found",
+    "v": 2
+  },
+  "rgg-news.co.il": {
+    "checked_at": "2026-10-04T09:24:43+00:00",
+    "entries": 10,
+    "homepage": "https://www.rgg-news.co.il",
+    "method": "attempt1",
+    "name": "rgg-news.co.il",
+    "status": "found",
+    "title": "| חדשות רמת גן גבעתיים NEWS",
+    "url": "https://www.rgg-news.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "rishon.news": {
+    "checked_at": "2026-10-04T09:27:13+00:00",
+    "entries": 10,
+    "homepage": "https://www.rishon.news",
+    "method": "attempt1",
+    "name": "ראשון ניוז",
+    "status": "found",
+    "title": "חדשות ראשון ניוז – פורטל החדשות של ראשון לציון",
+    "url": "https://www.rishon.news/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "sadanews.ps": {
+    "checked_at": "2026-10-04T09:21:48+00:00",
+    "entries": 50,
+    "homepage": "https://www.sadanews.ps",
+    "method": "attempt1",
+    "name": "وكالة صدى نيوز",
+    "status": "found",
+    "title": "وكالة صدى للأنباء",
+    "url": "https://www.sadanews.ps/rss",
+    "v": 2,
+    "verified": true
+  },
+  "safsal.co.il": {
+    "checked_at": "2026-10-04T09:24:00+00:00",
+    "entries": 20,
+    "homepage": "https://www.safsal.co.il",
+    "method": "attempt2",
+    "name": "Safsal",
+    "status": "found",
+    "title": "ספסל, הבית של הכדורסל הישראלי",
+    "url": "https://www.safsal.co.il/blog-feed.xml",
+    "v": 2,
+    "verified": true
+  },
+  "samsungmagazine.eu": {
+    "checked_at": "2026-10-04T09:20:32+00:00",
+    "entries": 10,
+    "homepage": "https://samsungmagazine.eu",
+    "method": "attempt1",
+    "name": "Samsung Magazine",
+    "status": "found",
+    "title": "",
+    "url": "https://samsungmagazine.eu/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "shakuf.co.il": {
+    "checked_at": "2026-10-04T09:21:48+00:00",
+    "entries": 10,
+    "homepage": "https://shakuf.co.il",
+    "method": "attempt1",
+    "name": "shakuf.co.il",
+    "status": "found",
+    "title": "שקוף",
+    "url": "https://shakuf.co.il/feed",
+    "v": 2,
+    "verified": true
+  },
+  "sharonline.co.il": {
+    "checked_at": "2026-10-04T09:20:37+00:00",
+    "entries": 10,
+    "homepage": "https://sharonline.co.il",
+    "method": "attempt1",
+    "name": "שרון אונליין",
+    "status": "found",
+    "title": "שרון אונליין",
+    "url": "https://sharonline.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "shavvim.co.il": {
+    "checked_at": "2026-10-04T09:23:35+00:00",
+    "entries": 12,
+    "homepage": "https://shavvim.co.il",
+    "method": "attempt1",
+    "name": "shavvim.co.il",
+    "status": "found",
+    "title": "שווים",
+    "url": "https://shavvim.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "shoham.muni.il": {
+    "checked_at": "2026-10-04T09:27:26+00:00",
+    "homepage": "https://www.shoham.muni.il",
+    "name": "newshinenergy.com",
+    "status": "not_found",
+    "v": 2
+  },
+  "shomrim.news": {
+    "checked_at": "2026-10-04T09:22:30+00:00",
+    "homepage": "https://www.shomrim.news",
+    "name": "שומרים",
+    "status": "not_found",
+    "v": 2
+  },
+  "shvoong.co.il": {
+    "checked_at": "2026-10-04T09:21:30+00:00",
+    "entries": 100,
+    "homepage": "https://www.shvoong.co.il",
+    "method": "attempt1",
+    "name": "shvoong.co.il",
+    "status": "found",
+    "title": "ריצה, אופניים, טריאתלון, שחייה | שוונג",
+    "url": "https://www.shvoong.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "sortiraparis.com": {
+    "checked_at": "2026-10-04T09:24:44+00:00",
+    "homepage": "https://www.sortiraparis.com",
+    "name": "Sortir à Paris",
+    "status": "not_found",
+    "v": 2
+  },
+  "space.gov.il": {
+    "checked_at": "2026-10-04T09:22:00+00:00",
+    "entries": 10,
+    "homepage": "https://www.space.gov.il",
+    "method": "attempt1",
+    "name": "סוכנות החלל",
+    "status": "found",
+    "title": "סוכנות החלל הישראלית - node/132309",
+    "url": "https://www.space.gov.il/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "sponser.co.il": {
+    "checked_at": "2026-10-04T09:23:45+00:00",
+    "entries": 15,
+    "extra_feeds": [
+      {
+        "entries": 0,
+        "title": "חדשות כלכלה",
+        "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=4",
+        "verified": true
+      },
+      {
+        "entries": 4,
+        "title": "וול סטריט וגלובל",
+        "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=5",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.sponser.co.il",
+    "method": "attempt2",
+    "name": "sponser.co.il",
+    "status": "found",
+    "title": "חדשות שוק ההון",
+    "url": "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7",
+    "v": 2,
+    "verified": true
   },
   "sport1.maariv.co.il": {
-    "checked_at": "2026-10-04T08:32:43+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:17+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה",
+        "url": "https://www.maariv.co.il/rss/rssfeedsasakim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - מבזקי חדשות",
+        "url": "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ספורט",
+        "url": "https://www.maariv.co.il/rss/rssfeedssport",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל ישראלי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelisreal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל עולמי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelolami",
+        "verified": true
+      },
+      {
+        "entries": 15,
+        "title": "maariv.co.il - כדורסל",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadorsal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ענפים נוספים",
+        "url": "https://www.maariv.co.il/rss/rssfeedsanafimnosafim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה בארץ",
+        "url": "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - צרכנות",
+        "url": "https://www.maariv.co.il/rss/rssfeedszarchanot",
+        "verified": true
+      }
+    ],
+    "homepage": "https://sport1.maariv.co.il",
+    "method": "attempt3",
+    "name": "ספורט 1",
+    "status": "found",
+    "title": "maariv.co.il - חדשות מהארץ והעולם",
+    "url": "https://www.maariv.co.il/rss/rsschadashot",
+    "v": 2,
+    "verified": true
   },
   "sport5.co.il": {
-    "checked_at": "2026-10-04T08:31:46+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:13+00:00",
+    "homepage": "https://www.sport5.co.il",
+    "name": "Sport5",
+    "status": "not_found",
+    "v": 2
   },
   "sports.walla.co.il": {
-    "checked_at": "2026-10-04T08:33:42+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:52+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://sports.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה ספורט",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "srita.net": {
+    "checked_at": "2026-10-04T09:22:26+00:00",
+    "entries": 10,
+    "homepage": "http://srita.net",
+    "method": "attempt3",
+    "name": "סריטה",
+    "status": "found",
+    "title": "סריטה",
+    "url": "https://srita.net/feed/",
+    "v": 2,
+    "verified": true
   },
   "srugim.co.il": {
     "checked_at": "2026-10-04T08:32:57+00:00",
@@ -179,20 +3981,474 @@
     "title": "חדשות סרוגים",
     "url": "https://www.srugim.co.il/feed"
   },
+  "t.co": {
+    "checked_at": "2026-10-04T09:25:48+00:00",
+    "homepage": "https://t.co",
+    "name": "t.co",
+    "status": "not_found",
+    "v": 2
+  },
+  "tamuseum.org.il": {
+    "checked_at": "2026-10-04T09:28:12+00:00",
+    "homepage": "https://www.tamuseum.org.il",
+    "name": "tamuseum.org.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "tashtiot.co.il": {
+    "checked_at": "2026-10-04T09:25:46+00:00",
+    "homepage": "https://www.tashtiot.co.il",
+    "name": "תשתיות תעשיה ואנרגיה",
+    "status": "not_found",
+    "v": 2
+  },
+  "tasnimnews.ir": {
+    "checked_at": "2026-10-04T09:20:54+00:00",
+    "entries": 25,
+    "extra_feeds": [
+      {
+        "entries": 25,
+        "title": "آخرین اخبار | خبرگزاری تسنیم | Tasnim",
+        "url": "https://www.tasnimnews.ir/fa/rss/feed/0/0/8/0/AllStories",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "",
+        "url": "https://www.tasnimnews.ir/fa/rss/feeds/1/0/0/0",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "اخبار سیاسی | آخرین و مهمترین اخبار سیاسی | خبرگزاری تسنیم | Tasnim",
+        "url": "https://www.tasnimnews.ir/fa/rss/feed/1/0/7/0/MostPupolar",
+        "verified": true
+      },
+      {
+        "entries": 7,
+        "title": "اخبار روز حوزه امام و رهبری | خبرگزاری تسنیم | Tasnim",
+        "url": "https://www.tasnimnews.ir/fa/rss/feed/1127/0/7/0/MostPupolar",
+        "verified": true
+      },
+      {
+        "entries": 17,
+        "title": "",
+        "url": "https://www.tasnimnews.ir/fa/rss/feeds/3/0/0/0",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "اخبار ورزشی | آخرین و مهمترین اخبار ورزشی  | خبرگزاری تسنیم | Tasnim",
+        "url": "https://www.tasnimnews.ir/fa/rss/feed/3/0/7/0/MostPupolar",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "",
+        "url": "https://www.tasnimnews.ir/fa/rss/feeds/8/0/0/0",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "اخبار جهان | آخرین و مهمترین اخبار جهان | خبرگزاری تسنیم | Tasnim",
+        "url": "https://www.tasnimnews.ir/fa/rss/feed/8/0/7/0/MostPupolar",
+        "verified": true
+      },
+      {
+        "entries": 7,
+        "title": "",
+        "url": "https://www.tasnimnews.ir/fa/rss/feeds/1486/0/0/0",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.tasnimnews.ir",
+    "method": "attempt2",
+    "name": "تسنیم",
+    "status": "found",
+    "title": "آخرین اخبار روز ایران و جهان ؛ خبرهای امروز | خبرگزاری تسنیم | Tasnim",
+    "url": "https://www.tasnimnews.ir/fa/rss/feed/0/0/8/1/TopStories",
+    "v": 2,
+    "verified": true
+  },
+  "tau.ac.il": {
+    "checked_at": "2026-10-04T09:24:44+00:00",
+    "entries": 10,
+    "homepage": "https://www.tau.ac.il",
+    "method": "attempt1",
+    "name": "אוניברסיטת תל אביב",
+    "status": "found",
+    "title": "אוניברסיטת ת\"א",
+    "url": "https://www.tau.ac.il/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "tech.walla.co.il": {
+    "checked_at": "2026-10-04T09:31:45+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://tech.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה טכנולוגיה",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "techtime.co.il": {
+    "checked_at": "2026-10-04T09:26:34+00:00",
+    "entries": 10,
+    "homepage": "https://techtime.co.il",
+    "method": "attempt1",
+    "name": "Techtime",
+    "status": "found",
+    "title": "Techtime – חדשות אלקטרוניקה והייטק",
+    "url": "https://techtime.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "terrorism-info.org.il": {
+    "checked_at": "2026-10-04T09:25:14+00:00",
+    "homepage": "https://www.terrorism-info.org.il",
+    "name": "The Amit Terrorism and Intelligence Research Institute",
+    "status": "not_found",
+    "v": 2
+  },
+  "tgspot.co.il": {
+    "checked_at": "2026-10-04T09:26:13+00:00",
+    "entries": 10,
+    "homepage": "https://www.tgspot.co.il",
+    "method": "attempt1",
+    "name": "TGspot",
+    "status": "found",
+    "title": "TGspot",
+    "url": "https://www.tgspot.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "the7eye.org.il": {
+    "checked_at": "2026-10-04T09:20:26+00:00",
+    "entries": 0,
+    "homepage": "https://www.the7eye.org.il",
+    "method": "attempt3",
+    "name": "העין השביעית",
+    "status": "found",
+    "title": "",
+    "url": "https://www.the7eye.org.il/topic/rss",
+    "v": 2,
+    "verified": false
+  },
   "themarker.com": {
-    "checked_at": "2026-10-04T08:32:19+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:06+00:00",
+    "entries": 100,
+    "homepage": "https://www.themarker.com",
+    "method": "attempt3",
+    "name": "TheMarker",
+    "status": "found",
+    "title": "TM-Markets",
+    "url": "https://www.themarker.com/srv/tm-markets",
+    "v": 2,
+    "verified": true
+  },
+  "theportugalnews.com": {
+    "checked_at": "2026-10-04T09:20:56+00:00",
+    "entries": 55,
+    "homepage": "https://www.theportugalnews.com",
+    "method": "attempt1",
+    "name": "The Portugal News",
+    "status": "found",
+    "title": "The Portugal News",
+    "url": "https://www.theportugalnews.com/rss",
+    "v": 2,
+    "verified": true
+  },
+  "theverifier.co.il": {
+    "checked_at": "2026-10-04T09:26:06+00:00",
+    "entries": 10,
+    "homepage": "https://theverifier.co.il",
+    "method": "attempt1",
+    "name": "The Verifier",
+    "status": "found",
+    "title": "The Verifier",
+    "url": "https://theverifier.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "timeout.co.il": {
+    "checked_at": "2026-10-04T09:21:01+00:00",
+    "homepage": "https://timeout.co.il",
+    "name": "טיים אאוט",
+    "status": "not_found",
+    "v": 2
+  },
+  "tkz.org.il": {
+    "checked_at": "2026-10-04T09:27:28+00:00",
+    "entries": 0,
+    "homepage": "https://tkz.org.il",
+    "method": "attempt1",
+    "name": "התנועה הקיבוצית",
+    "status": "found",
+    "title": "התנועה הקיבוצית",
+    "url": "https://tkz.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "tlvonline.co.il": {
+    "checked_at": "2026-10-04T09:20:52+00:00",
+    "entries": 10,
+    "homepage": "https://tlvonline.co.il",
+    "method": "attempt1",
+    "name": "תל אביב אונליין",
+    "status": "found",
+    "title": "תל אביב אונליין",
+    "url": "https://tlvonline.co.il/feed/rss2/",
+    "v": 2,
+    "verified": true
   },
   "tmi.maariv.co.il": {
-    "checked_at": "2026-10-04T08:34:13+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:28:12+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה",
+        "url": "https://www.maariv.co.il/rss/rssfeedsasakim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - מבזקי חדשות",
+        "url": "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ספורט",
+        "url": "https://www.maariv.co.il/rss/rssfeedssport",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל ישראלי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelisreal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כדורגל עולמי",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadoregelolami",
+        "verified": true
+      },
+      {
+        "entries": 15,
+        "title": "maariv.co.il - כדורסל",
+        "url": "https://www.maariv.co.il/rss/rssfeedskadorsal",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - ענפים נוספים",
+        "url": "https://www.maariv.co.il/rss/rssfeedsanafimnosafim",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - כלכלה בארץ",
+        "url": "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+        "verified": true
+      },
+      {
+        "entries": 20,
+        "title": "maariv.co.il - צרכנות",
+        "url": "https://www.maariv.co.il/rss/rssfeedszarchanot",
+        "verified": true
+      }
+    ],
+    "homepage": "https://tmi.maariv.co.il",
+    "method": "attempt2",
+    "name": "TMI",
+    "status": "found",
+    "title": "maariv.co.il - חדשות מהארץ והעולם",
+    "url": "https://www.maariv.co.il/rss/rsschadashot",
+    "v": 2,
+    "verified": true
+  },
+  "tradersunion.com": {
+    "checked_at": "2026-10-04T09:23:00+00:00",
+    "homepage": "https://tradersunion.com",
+    "name": "tradersunion.com",
+    "status": "not_found",
+    "v": 2
+  },
+  "travel.walla.co.il": {
+    "checked_at": "2026-10-04T09:29:24+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions",
+        "verified": true
+      }
+    ],
+    "homepage": "https://travel.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה תיירות",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
+  },
+  "tzomet-hrz.co.il": {
+    "checked_at": "2026-10-04T09:25:14+00:00",
+    "homepage": "https://www.tzomet-hrz.co.il",
+    "name": "צומת השרון הרצליה",
+    "status": "not_found",
+    "v": 2
+  },
+  "tzomet-kfs.co.il": {
+    "checked_at": "2026-10-04T09:27:07+00:00",
+    "homepage": "https://www.tzomet-kfs.co.il",
+    "name": "צומת השרון כפר סבא",
+    "status": "not_found",
+    "v": 2
+  },
+  "tzomet-ran.co.il": {
+    "checked_at": "2026-10-04T09:25:17+00:00",
+    "homepage": "https://www.tzomet-ran.co.il",
+    "name": "צומת השרון רעננה",
+    "status": "not_found",
+    "v": 2
   },
   "vietnam.vn": {
-    "checked_at": "2026-10-04T09:05:15+00:00",
+    "checked_at": "2026-10-04T09:20:14+00:00",
     "homepage": "https://www.vietnam.vn",
     "name": "Vietnam.vn",
     "status": "not_found",
     "v": 2
+  },
+  "vod.sport5.co.il": {
+    "checked_at": "2026-10-04T09:29:09+00:00",
+    "homepage": "https://vod.sport5.co.il",
+    "name": "Sport5",
+    "status": "not_found",
+    "v": 2
+  },
+  "vole.one.co.il": {
+    "checked_at": "2026-10-04T09:28:49+00:00",
+    "entries": 53,
+    "homepage": "https://vole.one.co.il",
+    "method": "attempt3",
+    "name": "וולה כדורגל ילדים ונוער",
+    "status": "found",
+    "title": "ONE",
+    "url": "https://www.one.co.il/rss",
+    "v": 2,
+    "verified": true
   },
   "walla.co.il": {
     "checked_at": "2026-10-04T08:49:32+00:00",
@@ -253,12 +4509,342 @@
     "v": 2,
     "verified": true
   },
+  "wgalil.ac.il": {
+    "checked_at": "2026-10-04T09:27:37+00:00",
+    "homepage": "https://wgalil.ac.il",
+    "name": "המכללה האקדמית גליל מערבי",
+    "status": "not_found",
+    "v": 2
+  },
+  "wheel.co.il": {
+    "checked_at": "2026-10-04T09:24:17+00:00",
+    "entries": 10,
+    "homepage": "https://wheel.co.il",
+    "method": "attempt1",
+    "name": "Wheel חדשות ומבצעי רכב",
+    "status": "found",
+    "title": "Wheel חדשות ומבצעי רכב",
+    "url": "https://wheel.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "xn--4dbcyzi5a.com": {
+    "checked_at": "2026-10-04T09:25:59+00:00",
+    "homepage": "https://www.xn--4dbcyzi5a.com",
+    "name": "מגזין קנאביס",
+    "status": "not_found",
+    "v": 2
+  },
+  "xnet.ynet.co.il": {
+    "checked_at": "2026-10-04T09:36:26+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "ynet - מבזקים",
+        "url": "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - בלוגוס",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3764.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - דעות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss194.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - יומני סבר",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3487.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - צרכנות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss5363.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - ספורט",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - כדורגל ישראלי",
+        "url": "https://www.ynet.co.il/Integration/StoryRss57.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://xnet.ynet.co.il",
+    "method": "attempt3",
+    "name": "YNET",
+    "status": "found",
+    "title": "ynet - חדשות",
+    "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+    "v": 2,
+    "verified": true
+  },
+  "y-tax.co.il": {
+    "checked_at": "2026-10-04T09:24:31+00:00",
+    "entries": 10,
+    "homepage": "https://y-tax.co.il",
+    "method": "attempt1",
+    "name": "נמרוד ירון ושות",
+    "status": "found",
+    "title": "נמרוד ירון ושות׳",
+    "url": "https://y-tax.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "yaffaps.com": {
+    "checked_at": "2026-10-04T09:20:46+00:00",
+    "entries": 30,
+    "homepage": "https://yaffaps.com",
+    "method": "attempt1",
+    "name": "شبكة يافا الإخبارية",
+    "status": "found",
+    "title": "شبكة يافا الإخبارية",
+    "url": "https://yaffaps.com/rss",
+    "v": 2,
+    "verified": true
+  },
+  "yeshuvnik.net": {
+    "checked_at": "2026-10-04T09:26:04+00:00",
+    "homepage": "https://www.yeshuvnik.net",
+    "name": "יישובניק נט",
+    "status": "not_found",
+    "v": 2
+  },
   "ynet.co.il": {
-    "checked_at": "2026-10-04T08:30:36+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:13+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "ynet - מבזקים",
+        "url": "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - בלוגוס",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3764.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - דעות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss194.xml",
+        "verified": true
+      },
+      {
+        "entries": 0,
+        "title": "ynet - יומני סבר",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3487.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - צרכנות",
+        "url": "https://www.ynet.co.il/Integration/StoryRss5363.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - ספורט",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3.xml",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ynet - כדורגל ישראלי",
+        "url": "https://www.ynet.co.il/Integration/StoryRss57.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.ynet.co.il",
+    "method": "attempt3",
+    "name": "YNET",
+    "status": "found",
+    "title": "ynet - חדשות",
+    "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+    "v": 2,
+    "verified": true
+  },
+  "ynetnews.com": {
+    "checked_at": "2026-10-04T09:28:32+00:00",
+    "cross_domain": true,
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "cross_domain": true,
+        "entries": 30,
+        "title": "ynet - Opinion",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3084.xml",
+        "verified": true
+      },
+      {
+        "cross_domain": true,
+        "entries": 30,
+        "title": "ynet - Culture",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3086.xml",
+        "verified": true
+      },
+      {
+        "cross_domain": true,
+        "entries": 30,
+        "title": "ynet - Jewish Scene",
+        "url": "https://www.ynet.co.il/Integration/StoryRss3443.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.ynetnews.com",
+    "method": "attempt3",
+    "name": "Ynetnews",
+    "status": "found",
+    "title": "ynet - News",
+    "url": "https://www.ynet.co.il/Integration/StoryRss3082.xml",
+    "v": 2,
+    "verified": true
+  },
+  "yogonet.com": {
+    "checked_at": "2026-10-04T09:26:58+00:00",
+    "entries": 20,
+    "extra_feeds": [
+      {
+        "entries": 10,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/united-states/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 5,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/united-kingdom/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 3,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/canada/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 3,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/australia/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 1,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/macau/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 8,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/malta/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 3,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/latin-america/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/europe/rss.xml",
+        "verified": true
+      },
+      {
+        "entries": 10,
+        "title": "Yogonet International",
+        "url": "https://www.yogonet.com/international/land-based-casinos/rss.xml",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.yogonet.com",
+    "method": "attempt2",
+    "name": "Yogonet",
+    "status": "found",
+    "title": "Yogonet International",
+    "url": "https://www.yogonet.com/international/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "yomyom.net": {
+    "checked_at": "2026-10-04T09:20:56+00:00",
+    "homepage": "https://www.yomyom.net",
+    "name": "יום יום באילת",
+    "status": "not_found",
+    "v": 2
+  },
+  "yosmusic.com": {
+    "checked_at": "2026-10-04T09:27:29+00:00",
+    "entries": 30,
+    "homepage": "https://yosmusic.com",
+    "method": "attempt1",
+    "name": "יוסמיוסיק",
+    "status": "found",
+    "title": "יוסמיוסיק",
+    "url": "https://yosmusic.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "youtu.be": {
+    "checked_at": "2026-10-04T09:23:17+00:00",
+    "homepage": "https://youtu.be",
+    "name": "YouTube",
+    "status": "not_found",
+    "v": 2
+  },
+  "yuvalerel.com": {
+    "checked_at": "2026-10-04T09:20:35+00:00",
+    "homepage": "https://yuvalerel.com",
+    "name": "הבלוג של יובל אראל",
+    "status": "not_found",
+    "v": 2
   },
   "zman.co.il": {
-    "checked_at": "2026-10-04T08:32:45+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T09:20:09+00:00",
+    "entries": 0,
+    "extra_feeds": [
+      {
+        "entries": 0,
+        "title": "",
+        "url": "https://www.zman.co.il/feed/12070/",
+        "verified": false
+      }
+    ],
+    "homepage": "https://www.zman.co.il",
+    "method": "attempt3",
+    "name": "זמן ישראל",
+    "status": "found",
+    "title": "",
+    "url": "https://www.zman.co.il/feed/513/",
+    "v": 2,
+    "verified": false
+  },
+  "zoha.org.il": {
+    "checked_at": "2026-10-04T09:21:02+00:00",
+    "entries": 10,
+    "homepage": "https://zoha.org.il",
+    "method": "attempt1",
+    "name": "זו הדרך",
+    "status": "found",
+    "title": "זו הדרך",
+    "url": "https://zoha.org.il/feed/",
+    "v": 2,
+    "verified": true
   }
 }

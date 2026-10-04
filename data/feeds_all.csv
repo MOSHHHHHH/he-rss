@@ -1,15 +1,422 @@
 ﻿site_name,domain,feed_url,feed_title,entries,is_primary,verified
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsasakim,maariv.co.il - כלכלה,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsmivzakichadashot,maariv.co.il - מבזקי חדשות,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedssport,maariv.co.il - ספורט,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelisreal,maariv.co.il - כדורגל ישראלי,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelolami,maariv.co.il - כדורגל עולמי,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadorsal,maariv.co.il - כדורסל,15,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsanafimnosafim,maariv.co.il - ענפים נוספים,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskalkalabaarez,maariv.co.il - כלכלה בארץ,20,False,True
+103FM,103fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsasakim,maariv.co.il - כלכלה,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsmivzakichadashot,maariv.co.il - מבזקי חדשות,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedssport,maariv.co.il - ספורט,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelisreal,maariv.co.il - כדורגל ישראלי,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelolami,maariv.co.il - כדורגל עולמי,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadorsal,maariv.co.il - כדורסל,15,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsanafimnosafim,maariv.co.il - ענפים נוספים,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskalkalabaarez,maariv.co.il - כלכלה בארץ,20,False,True
+רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
+איחוד הצלה,1221.org.il,https://1221.org.il/feed/,איחוד הצלה,1,True,True
+20il.co.il,20il.co.il,https://www.20il.co.il/feed/,20il,10,True,True
+4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/4x4.xml,שטח 4X4,20,True,True
+4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/motor.xml,אופנועים / טרקטורונים,20,False,True
+4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/road.xml,כביש / ספורט,20,False,True
+4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/mountaineering.xml,טיפוס הרים,20,False,True
+96fm.co.il,96fm.co.il,https://96fm.co.il/feed/,רדיו קול רגע,2,True,True
+- 970 חדשות חיפה,970.co.il,https://970.co.il/?feed=rss2,970 חדשות חיפה,10,True,True
+Aeroflap,aeroflap.com.br,https://www.aeroflap.com.br/feed/,,0,True,False
+جريدة القدس,alquds.com,https://alquds.com/ar/feed,خلاصة جريدة القدس,30,True,True
+Apollo Hospitals,apollohospitals.com,https://www.apollohospitals.com/rss.xml,Apollo Hospitals,10,True,True
+המזרח התיכון לאן? | הבלוג של יוני בן מנחם,arabexpert.co.il,https://arabexpert.co.il/feed/,The Middle East,10,True,True
+Armstrong Institute of Biblical Archaeology,armstronginstitute.org,https://armstronginstitute.org/rss,theTrumpet.com,12,True,True
+חרדים אשדוד,ashdod-haredim.co.il,https://www.ashdod-haredim.co.il/feed/,חרדים אשדוד,10,True,True
+ashdod10.co.il,ashdod10.co.il,https://ashdod10.co.il/feed/,חדשות אשדוד – אשדוד10,10,True,True
+Ashdod4U,ashdod4u.com,https://www.ashdod4u.com/feed/,Ashdod4U,10,True,True
+אשדוד אונליין,ashdodonline.co.il,https://ashdodonline.co.il/feed/,אשדוד אונליין,10,True,True
+אשקלון ניוז,ashkelon.news,https://ashkelon.news/rss.xml,אשקלון ניוז,50,True,True
+AskPavel,askpavel.co.il,https://www.askpavel.co.il/feed,,0,True,False
+שטח - כל מילה בסלע,automag.co.il,https://www.automag.co.il/feed/,שטח,10,True,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+BE106,be106.net,https://www.be106.net/rss/city/233/posts.xml,be106.net רחובות,40,True,True
+BE106,be106.net,https://www.be106.net/rss/city/231/posts.xml,be106.net ראשון לציון,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/255/posts.xml,be106.net תל אביב-יפו,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/104/posts.xml,be106.net יבנה,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/55/posts.xml,be106.net גדרה,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/49/posts.xml,be106.net בת ים,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/87/posts.xml,be106.net חולון,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/173/posts.xml,be106.net נס ציונה,40,False,True
+BE106,be106.net,https://www.be106.net/rss/city/282/posts.xml,"be106.net מוסף נדל""ן",40,False,True
+beitarfc.co.il,beitarfc.co.il,https://www.beitarfc.co.il/feed/,בית״ר ירושלים,10,True,True
+Begin-Sadat Center for Strategic Studies,besacenter.org,https://besacenter.org/feed/,Begin-Sadat Center for Strategic Studies,10,True,True
+ביזנעס,bizzness.net,https://bizzness.net/feed/,ביזנעס,10,True,True
+בלינקר,blinker.co.il,https://blinker.co.il/feed/,בלינקר,10,True,True
+blog.cloudflare.com,blog.cloudflare.com,https://blog.cloudflare.com/rss,Cloudflare Blog,20,True,True
+חדשות באר שבע והנגב,br7news.co.il,https://br7news.co.il/rss,חדשות באר שבע והנגב - BR7,25,True,True
+BroadwayWorld,broadwayworld.com,https://www.broadwayworld.com/feed_all_bway.php,,0,True,False
+btl.gov.il,btl.gov.il,https://www.btl.gov.il:443/About/_layouts/15/RssPage.aspx?mode=1,אודות הביטוח הלאומי,7,True,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה רכב,cars.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+קארטיוב,cartube.co.il,https://www.cartube.co.il/?format=feed&type=rss,קארטיוב - רכב חשמלי מבצעי רכב חדשות רכב מבחני רכב קטלוג רכב חדש ועוד - cartube,10,True,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה סלבס,celebs.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+חרדים10,ch10.co.il,https://ch10.co.il/feed/,חרדים10,10,True,True
+Chabad,chabad.org,https://www.chabad.org/tools/rss/magazine_rss.xml,Chabad.org Weekly Magazine [ Shemini Atzeret/Simchat Torah ],11,True,True
+Chiportal,chiportal.co.il,https://chiportal.co.il/feed/,Chiportal,10,True,True
+Crypto Jungle,cryptojungle.co.il,https://www.cryptojungle.co.il/feed/,Crypto Jungle,1,True,True
+da.news,da.news,https://da.news/feed/,da.news,30,True,True
+דתילי,datili.co.il,https://www.datili.co.il/feed/,דתילי אתר חדשות,10,True,True
+davar1.co.il,davar1.co.il,https://www.davar1.co.il/feed/,,0,True,False
+מכון דוידסון לחינוך מדעי,davidson.org.il,https://davidson.org.il/feed/,מכון דוידסון לחינוך מדעי,1,True,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה תרבות,e.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+רד סי אילת,eilatredc.co.il,https://www.eilatredc.co.il/feed/,חדשות אילת | רד סי אילת,0,True,True
+הבלוג של אלי ציפורי,elizipori.co.il,https://elizipori.co.il/feed/,האתר של אלי ציפורי,12,True,True
+עמקניוז,emeknews.co.il,https://emeknews.co.il/feed/,עמקניוז – חדשות העמק,10,True,True
 אמס,emess.co.il,https://www.emess.co.il/feed,אמס MS,50,True,True
+"אפוק - מגזין מרחיב דעת, מעורר מחשבה",epoch.org.il,https://epoch.org.il/feed/,"אפוק – מגזין מרחיב דעת, מעורר מחשבה",999,True,True
+eset.com,eset.com,https://support-feed.eset.com/news,Support News,98,True,True
+EuroMix,euromix.co.il,https://www.euromix.co.il/feed/,EuroMix,250,True,True
+The European Times,europeantimes.news,https://europeantimes.news/feed/,The European Times,40,True,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+אבות למען צדק,father4justice.org,https://father4justice.org/feed/,אבות למען צדק,8,True,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה כסף,finance.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+g-rafa.co.il,g-rafa.co.il,https://g-rafa.co.il/feed/,ג'ירפה,100,True,True
+מגזין טכנולוגיה ובידור - Gadgety,gadgety.co.il,https://www.gadgety.co.il/feed,מגזין טכנולוגיה ובידור – Gadgety,10,True,True
+gal-gefen.co.il,gal-gefen.co.il,https://gal-gefen.co.il/feed,פספורטניוז,5,True,True
+גיקטיים,geektime.co.il,https://www.geektime.co.il/feed/,גיקטיים,30,True,True
+גפן-מגזין המושבות,gfn.co.il,https://www.gfn.co.il/feed/,גפן-מגזין המושבות,20,True,True
+GlobeNewswire,globenewswire.com,https://www.globenewswire.com/rssfeed,GlobeNewswire RSS Feed,20,True,True
 גלובס,globes.co.il,https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585,שוק ההון והשקעות - גלובס,15,True,True
+goethe.de,goethe.de,https://www.goethe.de/ins/gb/en/rss.html,,0,True,False
+Gov.il,gov.il,https://www.gov.il/he/Departments/ministry_of_communications/RSS,,0,True,False
+Gplanet,gplanet.co.il,https://www.gplanet.co.il/feed/,Gplanet,10,True,True
+Greenpeace,greenpeace.org,https://www.greenpeace.org/international/feed/,,0,True,False
+המקום הכי חם בגיהנום,ha-makom.co.il,https://www.ha-makom.co.il/feed/,המקום הכי חם בגיהנום,10,True,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/htz---culture---rss,HTZ - Culture - RSS,100,True,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/rss---feedly,RSS - Feedly,100,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/rss-opinion,RSS-opinion,100,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D---%D7%94%D7%90%D7%A8%D7%A5-rss,טיולים - הארץ RSS,100,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%90%D7%95%D7%9B%D7%9C--%D7%94%D7%90%D7%A8%D7%A5-rss,אוכל- הארץ RSS,50,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%A1%D7%95%D7%A3-%D7%A9%D7%91%D7%95%D7%A2---%D7%94%D7%90%D7%A8%D7%A5-rss,סוף שבוע - הארץ RSS,50,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%9E%D7%93%D7%A2--%D7%94%D7%90%D7%A8%D7%A5-rss,מדע- הארץ RSS,50,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/rss---%D7%9E%D7%A9%D7%A4%D7%97%D7%94,RSS - משפחה,50,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA--%D7%94%D7%90%D7%A8%D7%A5-rss,בריאות- הארץ RSS,50,False,True
+הארץ,haaretz.co.il,https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%95%D7%A8%D7%98--%D7%94%D7%90%D7%A8%D7%A5-rss,ספורט- הארץ RSS,50,False,True
+haifa.muni.il,haifa.muni.il,https://www.haifa.muni.il/feed/,עיריית חיפה,1,True,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%A7%D7%94%D7%99%D7%9C%D7%AA_%D7%94%D7%9E%D7%A9%D7%9E%D7%99%D7%A2%D7%99%D7%9Dexlz5yq3n6,האזור האישי• הקול היהודי,4,True,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%92%D7%96%D7%99%D7%9F_%D7%94%D7%A7%D7%95%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%996i0wjhyqvg,מגזין• הקול היהודי,125,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%90%D6%B5%D7%9D_%D7%94%D6%B7%D7%92%D6%B0%D6%BC%D7%91%D6%B8%D7%A2%D7%95%D6%B9%D7%AA,אֵם הַגְּבָעוֹת• הקול היהודי,11,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%91%D7%98_%D7%A9%D7%9C_%D7%A9%D7%91%D7%AA_-_%D7%9E%D7%90%D7%99%D7%A8_%D7%90%D7%98%D7%99%D7%A0%D7%92%D7%A8,הטור השבועי - מאיר אטינגר• הקול היהודי,15,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%9E%D7%A2%D7%91%D7%A8_%D7%9C%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA,מעבר לגבולות• הקול היהודי,10,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%A4%D7%A8%D7%A9%D7%94_%D7%91%D7%9B%D7%95%D7%AA%D7%A8%D7%95%D7%AA_-_%D7%94%D7%A8%D7%91_%D7%99%D7%95%D7%A1%D7%99_%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8,פרשה בכותרות - הרב יוסי אליצור• הקול היהודי,22,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/All_content,כל הכתבות• הקול היהודי,1363,False,True
+hakolhayehudi.co.il,hakolhayehudi.co.il,https://www.hakolhayehudi.co.il/rss/%D7%A8%D7%99%D7%9B%D7%95%D7%96_%D7%97%D7%93%D7%A9%D7%95%D7%AA_%D7%94%D7%99%D7%95%D7%9D,ריכוז חדשות היום• הקול היהודי,482,False,True
+harish.co.il,harish.co.il,https://www.harish.co.il/feed,חריש סיטי,10,True,True
+Hayadan,hayadan.org.il,https://www.hayadan.org.il/feed,הידען – Hayadan,50,True,True
+Chabad,he.chabad.org,https://www.chabad.org/tools/rss/itunes/seriesrss_cdo/scope/4100607/variant/22874,ChabadTalk Podcast,95,True,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה בריאות,healthy.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+הידברות,hidabroot.org,https://www.hidabroot.org/feed,הידברות,23,True,True
+הסתדרות העובדים,histadrut.org.il,https://www.histadrut.org.il/feed/,הסתדרות העובדים,0,True,True
 המחדש,hm-news.co.il,https://hm-news.co.il/feed/,המחדש,10,True,True
+ירוק - רשת מקומונים בשרון,hoha.co.il,https://hoha.co.il/?feed=rss2,ירוק – רשת מקומונים בשרון,10,True,True
+חורים ברשת,holesinthenet.co.il,https://holesinthenet.co.il/feed/,חורים ברשת,8,True,True
+Human Rights Watch,hrw.org,https://www.hrw.org/rss/news,Human Rights Watch News,20,True,True
+i-hls.com,i-hls.com,https://i-hls.com/feed,iHLS,10,True,True
+ias.co.il,ias.co.il,https://www.ias.co.il/feed/,IAS,10,True,True
 ice (אייס),ice.co.il,https://www.ice.co.il/rss,אייס - ICE,20,True,True
+IGN Israel,il.ign.com,https://il.ign.com/feed.xml,IGN Israel,40,True,True
+Investing.com,il.investing.com,https://www.investing.com/rss/121899.rss,Investing.com Analysis,10,True,True
+Investing.com,il.investing.com,https://www.investing.com/rss/286.rss,Most Popular Analysis,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/290.rss,Editor's Picks,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/market_overview.rss,Market Overview,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/stock.rss,Stock Markets Analysis & Opinion,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/forex.rss,Forex Opinion & Analysis,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/commodities.rss,Commodities Analysis & Opinion,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/302.rss,Cryptocurrency Opinion & Analysis,10,False,True
+Investing.com,il.investing.com,https://www.investing.com/rss/bonds.rss,Bonds Analysis & Opinion,10,False,True
+Intercultural Networks Group (ING),ing.org,https://ing.org/feed/,ING,10,True,True
 ערוץ 7,inn.co.il,https://www.inn.co.il/Rss.aspx?act=.1,כתבות ערוץ 7,20,True,True
+inss.org.il,inss.org.il,https://www.inss.org.il/feed/,INSS,1,True,True
+israeldefense.co.il,israeldefense.co.il,https://www.israeldefense.co.il/en/taxonomy/term/2/feed,News,10,True,True
+israelnews.co.il,israelnews.co.il,https://www.israelnews.co.il/feed/,Israel News,10,True,True
+רשת מקומונים בשרון,israelnow.co.il,https://israelnow.co.il/feed/,רשת מקומונים בשרון | השבוע בנתניה,10,True,True
+Jablíčkář.cz,jablickar.cz,https://jablickar.cz/feed/,,10,True,True
 JDN,jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,True
+jewishagency.org,jewishagency.org,https://www.jewishagency.org/feed/,The Jewish Agency for Israel,10,True,True
+JNS.org,jns.org,https://www.jns.org/index.rss,JNS.org - Jerusalem News Syndicate,30,True,True
+המכון למדיניות העם היהודי - JPPI,jppi.org.il,https://jppi.org.il/he/feed/,המכון למדיניות העם היהודי,9,True,True
+kabbalah.co.il,kabbalah.co.il,https://kabbalah.co.il/feed/,מרכז הקבלה,0,True,True
+כאן דרום - אשדוד,kan-ashdod.co.il,https://www.kan-ashdod.co.il/feed,כאן דרום – אשדוד,18,True,True
+כאן דרום,kan-ashkelon.co.il,https://www.kan-ashkelon.co.il/feed,כאן דרום – אשקלון,18,True,True
 כאן 11,kan.org.il,https://www.kan.org.il/api/newsflash/v2/Newsflash,,33,True,True
+כאן נעים,kanisrael.co.il,https://kanisrael.co.il/feed/,כאן ישראל | kanisrael | כאן נעים | kan-naim,20,True,True
+Kantesti AI Blood Test Analyzer,kantesti.net,https://www.kantesti.net/feed/,"AI Blood Test Analyzer Free – Lab Interpretation, Made in Germany",10,True,True
+כפרניק,kfarnik.co.il,https://kfarnik.co.il/feed/,כפרניק,10,True,True
 כיכר השבת,kikar.co.il,https://a.kikar.co.il/v1/rss/articles/latest/rss2,כיכר השבת,49,True,True
 כיפה,kipa.co.il,https://www.kipa.co.il/feed/,כיפה - אתר החדשות המוביל במגזר הדתי,50,True,True
+קול ברמה,kol-barama.co.il,https://kol-barama.co.il/feed/,רדיו קול ברמה,4,True,True
+kvishim.co.il,kvishim.co.il,https://kvishim.co.il/feed/,כבישים,10,True,True
+לדעת,ladaat.co,https://ladaat.co/?feed=rss2,לדעת,10,True,True
+Letem světem Applem,letemsvetemapplem.eu,https://www.letemsvetemapplem.eu/feed/,,17,True,True
+sponser.co.il,m.sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7,חדשות שוק ההון,15,True,True
+sponser.co.il,m.sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=4,חדשות כלכלה,0,False,True
+sponser.co.il,m.sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=5,וול סטריט וגלובל,4,False,True
+מרכז העניינים,m24.co.il,https://m24.co.il/feed/,מרכז העניינים – חדשות טבעון והסביבה,10,True,True
 מעריב,maariv.co.il,https://www.maariv.co.il/rss/feed,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+מועדון הכדורגל מכבי תל אביב,maccabi-tlv.co.il,https://www.maccabi-tlv.co.il/feed,מועדון הכדורגל מכבי תל אביב,10,True,True
+מכבי תל אביב כדורסל,maccabi.co.il,https://maccabi.co.il/feed/,Maccabi Tel Aviv Basketball,10,True,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/news-military.xml,חדשות - פוליטי,20,True,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/news-law.xml,חדשות - פלילים ומשפט,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/news-money.xml,חדשות - צרכנות וכלכלה,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/news-world.xml,חדשות - בעולם,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml,סלבס - mako,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml,סלבס - מקומי,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml,סלבס עולמי,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml,תרבות,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml,ספרות ובמה,20,False,True
+mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml,Mako תוכניות קשת,20,False,True
+מסע אחר,masa.co.il,https://www.masa.co.il/feed,מסע אחר,2,True,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה! מזל טוב,mazaltov.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+התנועה לחופש המידע,meida.org.il,https://www.meida.org.il/feed,התנועה לחופש המידע,10,True,True
+מידע 8,meida8.co.il,https://meida8.co.il/feed/,מידע 8,10,True,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+מקומון ראשון,mekomonrishon.co.il,https://mekomonrishon.co.il/feed/,מקומון ראשון,10,True,True
+Meta-Defense,meta-defense.fr,https://meta-defense.fr/feed/atom/,MetaDefense,10,True,True
+מידה,mida.org.il,https://mida.org.il/feed/,מידה,100,True,True
+MiGFlug,migflug.com,https://migflug.com/feed/,MiGFlug,5,True,True
+חדשות מבזק לייב,mivzaklive.co.il,https://www.mivzaklive.co.il/feed,חדשות מבזק לייב,10,True,True
+mnews.co.il,mnews.co.il,https://mnews.co.il/feed/,מודיעין ניוז,10,True,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/news-military.xml,חדשות - פוליטי,20,True,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/news-law.xml,חדשות - פלילים ומשפט,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/news-money.xml,חדשות - צרכנות וכלכלה,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/news-world.xml,חדשות - בעולם,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml,סלבס - mako,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml,סלבס - מקומי,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml,סלבס עולמי,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml,תרבות,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml,ספרות ובמה,20,False,True
+mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml,Mako תוכניות קשת,20,False,True
+עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinNewsRSS,עיריית מודיעין מכבים רעות - חדשות העיר,10,True,True
+עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinEventsRSS,עיריית מודיעין מכבים רעות - אירועים בעיר,10,False,True
+עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinRecentNewsRSS,עיריית מודיעין מכבים רעות - על סדר היום,26,False,True
+עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinChannelsRSS,עיריית מודיעין מכבים רעות - עדכונים באתר,8,False,True
+"מרכז הנדל""ן",nadlancenter.co.il,https://www.nadlancenter.co.il/rss/main,ראשי,11,True,True
+נתניה נט,netanyanet.co.il,https://www.netanyanet.co.il/?format=feed&type=rss,נתניה נט - כל העיר בקליק אחד!,0,True,True
+האוניברסיטה העברית בירושלים,new.huji.ac.il,https://new.huji.ac.il/feed,הזנת אתר,10,True,True
+עניין מרכזי,news-israel.net,https://www.news-israel.net/feed/,עניין מרכזי,10,True,True
+Bitcoin News,news.bitcoin.com,https://news.bitcoin.com/feed/,Bitcoin News,10,True,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה חדשות,news.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+חדשות אפס שמונה,news08.net,https://www.news08.net/feed/,חדשות 08,15,True,True
+nhn.co.il,nhn.co.il,https://nhn.co.il/feed/,השרון הצפוני NHN – מקומון בחדרה | מקומון בפרדס חנה כרכור | מקומון באור עקיבא,55,True,True
+נוסח תימן,nosachteiman.co.il,https://nosachteiman.co.il/feed/,נוסח תימן • המרכז להפצת יהדות תימן,48,True,True
+نورنیوز,nournews.ir,https://nournews.ir/feeds/,نورنیوز,30,True,True
+NWS חדשות חיפה והסביבה,nws.report,https://nws.report/feed/,NWS חדשות חיפה והסביבה,100,True,True
+nziv.net,nziv.net,https://nziv.net/feed/,Nziv.net,10,True,True
+ONE,one.co.il,https://www.one.co.il/rss,ONE,53,True,True
+אונו ניוז,ononews.co.il,https://ononews.co.il/feed/,| אונו News,10,True,True
+רשות הטבע והגנים,parks.org.il,https://www.parks.org.il/feed,רשות הטבע והגנים,5,True,True
+Pars Today,parstoday.ir,https://parstoday.ir/rss,PARS TODAY,0,True,True
+אנשים ומחשבים,pc.co.il,https://www.pc.co.il/feed/,"אנשים ומחשבים – פורטל חדשות היי-טק, מיחשוב, טלקום, טכנולוגיות",30,True,True
+שלום עכשיו,peacenow.org.il,https://peacenow.org.il/feed,שלום עכשיו,10,True,True
+planetario.buenosaires.gob.ar,planetario.buenosaires.gob.ar,https://planetario.buenosaires.gob.ar/rss.xml,Drupal,3,True,True
+פואנטה,poenta.co.il,https://www.poenta.co.il/feed/,פואנטה,10,True,True
+Portugal Resident,portugalresident.com,https://www.portugalresident.com/feed/,Portugal Resident,10,True,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss1854.xml,ynet - מבזקים,30,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3764.xml,ynet - בלוגוס,0,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss194.xml,ynet - דעות,30,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3487.xml,ynet - יומני סבר,0,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss5363.xml,ynet - צרכנות,30,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3.xml,ynet - ספורט,30,False,True
+פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss57.xml,ynet - כדורגל ישראלי,30,False,True
+בית הנשיא,president.gov.il,https://www.president.gov.il/feed/,בית הנשיא,10,True,True
+מגזין פורטפוליו -,prtfl.co.il,https://www.prtfl.co.il/feed,מגזין פורטפוליו,15,True,True
+פתח תקווה NEWS,ptnews.co.il,https://www.ptnews.co.il/feed,פתח תקווה NEWS,10,True,True
+rgg-news.co.il,rgg-news.co.il,https://www.rgg-news.co.il/feed/,| חדשות רמת גן גבעתיים NEWS,10,True,True
+ראשון ניוז,rishon.news,https://www.rishon.news/feed/,חדשות ראשון ניוז – פורטל החדשות של ראשון לציון,10,True,True
+وكالة صدى نيوز,sadanews.ps,https://www.sadanews.ps/rss,وكالة صدى للأنباء,50,True,True
+Safsal,safsal.co.il,https://www.safsal.co.il/blog-feed.xml,"ספסל, הבית של הכדורסל הישראלי",20,True,True
+Samsung Magazine,samsungmagazine.eu,https://samsungmagazine.eu/feed/,,10,True,True
+shakuf.co.il,shakuf.co.il,https://shakuf.co.il/feed,שקוף,10,True,True
+שרון אונליין,sharonline.co.il,https://sharonline.co.il/feed/,שרון אונליין,10,True,True
+shavvim.co.il,shavvim.co.il,https://shavvim.co.il/feed/,שווים,12,True,True
+shvoong.co.il,shvoong.co.il,https://www.shvoong.co.il/feed/,"ריצה, אופניים, טריאתלון, שחייה | שוונג",100,True,True
+סוכנות החלל,space.gov.il,https://www.space.gov.il/rss.xml,סוכנות החלל הישראלית - node/132309,10,True,True
+sponser.co.il,sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7,חדשות שוק ההון,15,True,True
+sponser.co.il,sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=4,חדשות כלכלה,0,False,True
+sponser.co.il,sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=5,וול סטריט וגלובל,4,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsasakim,maariv.co.il - כלכלה,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsmivzakichadashot,maariv.co.il - מבזקי חדשות,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedssport,maariv.co.il - ספורט,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelisreal,maariv.co.il - כדורגל ישראלי,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelolami,maariv.co.il - כדורגל עולמי,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadorsal,maariv.co.il - כדורסל,15,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsanafimnosafim,maariv.co.il - ענפים נוספים,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskalkalabaarez,maariv.co.il - כלכלה בארץ,20,False,True
+ספורט 1,sport1.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה ספורט,sports.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+סריטה,srita.net,https://srita.net/feed/,סריטה,10,True,True
 סרוגים,srugim.co.il,https://www.srugim.co.il/feed,חדשות סרוגים,50,True,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/0/0/8/1/TopStories,آخرین اخبار روز ایران و جهان ؛ خبرهای امروز | خبرگزاری تسنیم | Tasnim,25,True,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/0/0/8/0/AllStories,آخرین اخبار | خبرگزاری تسنیم | Tasnim,25,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feeds/1/0/0/0,,20,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/1/0/7/0/MostPupolar,اخبار سیاسی | آخرین و مهمترین اخبار سیاسی | خبرگزاری تسنیم | Tasnim,25,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/1127/0/7/0/MostPupolar,اخبار روز حوزه امام و رهبری | خبرگزاری تسنیم | Tasnim,7,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feeds/3/0/0/0,,17,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/3/0/7/0/MostPupolar,اخبار ورزشی | آخرین و مهمترین اخبار ورزشی  | خبرگزاری تسنیم | Tasnim,25,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feeds/8/0/0/0,,25,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feed/8/0/7/0/MostPupolar,اخبار جهان | آخرین و مهمترین اخبار جهان | خبرگزاری تسنیم | Tasnim,25,False,True
+تسنیم,tasnimnews.ir,https://www.tasnimnews.ir/fa/rss/feeds/1486/0/0/0,,7,False,True
+אוניברסיטת תל אביב,tau.ac.il,https://www.tau.ac.il/rss.xml,"אוניברסיטת ת""א",10,True,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה טכנולוגיה,tech.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+Techtime,techtime.co.il,https://techtime.co.il/feed/,Techtime – חדשות אלקטרוניקה והייטק,10,True,True
+TGspot,tgspot.co.il,https://www.tgspot.co.il/feed/,TGspot,10,True,True
+העין השביעית,the7eye.org.il,https://www.the7eye.org.il/topic/rss,,0,True,False
+TheMarker,themarker.com,https://www.themarker.com/srv/tm-markets,TM-Markets,100,True,True
+The Portugal News,theportugalnews.com,https://www.theportugalnews.com/rss,The Portugal News,55,True,True
+The Verifier,theverifier.co.il,https://theverifier.co.il/feed/,The Verifier,10,True,True
+התנועה הקיבוצית,tkz.org.il,https://tkz.org.il/feed/,התנועה הקיבוצית,0,True,True
+תל אביב אונליין,tlvonline.co.il,https://tlvonline.co.il/feed/rss2/,תל אביב אונליין,10,True,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rsschadashot,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsasakim,maariv.co.il - כלכלה,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsmivzakichadashot,maariv.co.il - מבזקי חדשות,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedssport,maariv.co.il - ספורט,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelisreal,maariv.co.il - כדורגל ישראלי,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadoregelolami,maariv.co.il - כדורגל עולמי,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadorsal,maariv.co.il - כדורסל,15,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsanafimnosafim,maariv.co.il - ענפים נוספים,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskalkalabaarez,maariv.co.il - כלכלה בארץ,20,False,True
+TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+וולה כדורגל ילדים ונוער,vole.one.co.il,https://www.one.co.il/rss,ONE,53,True,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
@@ -20,3 +427,40 @@ JDN,jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+Wheel חדשות ומבצעי רכב,wheel.co.il,https://wheel.co.il/feed/,Wheel חדשות ומבצעי רכב,10,True,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss1854.xml,ynet - מבזקים,30,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3764.xml,ynet - בלוגוס,0,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss194.xml,ynet - דעות,30,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3487.xml,ynet - יומני סבר,0,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss5363.xml,ynet - צרכנות,30,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3.xml,ynet - ספורט,30,False,True
+YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss57.xml,ynet - כדורגל ישראלי,30,False,True
+נמרוד ירון ושות,y-tax.co.il,https://y-tax.co.il/feed/,נמרוד ירון ושות׳,10,True,True
+شبكة يافا الإخبارية,yaffaps.com,https://yaffaps.com/rss,شبكة يافا الإخبارية,30,True,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss1854.xml,ynet - מבזקים,30,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3764.xml,ynet - בלוגוס,0,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss194.xml,ynet - דעות,30,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3487.xml,ynet - יומני סבר,0,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss5363.xml,ynet - צרכנות,30,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3.xml,ynet - ספורט,30,False,True
+YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss57.xml,ynet - כדורגל ישראלי,30,False,True
+Ynetnews,ynetnews.com,https://www.ynet.co.il/Integration/StoryRss3082.xml,ynet - News,30,True,True
+Ynetnews,ynetnews.com,https://www.ynet.co.il/Integration/StoryRss3084.xml,ynet - Opinion,30,False,True
+Ynetnews,ynetnews.com,https://www.ynet.co.il/Integration/StoryRss3086.xml,ynet - Culture,30,False,True
+Ynetnews,ynetnews.com,https://www.ynet.co.il/Integration/StoryRss3443.xml,ynet - Jewish Scene,30,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/rss.xml,Yogonet International,20,True,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/united-states/rss.xml,Yogonet International,10,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/united-kingdom/rss.xml,Yogonet International,5,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/canada/rss.xml,Yogonet International,3,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/australia/rss.xml,Yogonet International,3,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/macau/rss.xml,Yogonet International,1,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/malta/rss.xml,Yogonet International,8,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/latin-america/rss.xml,Yogonet International,3,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/europe/rss.xml,Yogonet International,10,False,True
+Yogonet,yogonet.com,https://www.yogonet.com/international/land-based-casinos/rss.xml,Yogonet International,10,False,True
+יוסמיוסיק,yosmusic.com,https://yosmusic.com/feed/,יוסמיוסיק,30,True,True
+זמן ישראל,zman.co.il,https://www.zman.co.il/feed/513/,,0,True,False
+זמן ישראל,zman.co.il,https://www.zman.co.il/feed/12070/,,0,False,False
+זו הדרך,zoha.org.il,https://zoha.org.il/feed/,זו הדרך,10,True,True
