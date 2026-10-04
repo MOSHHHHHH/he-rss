@@ -1,0 +1,22 @@
+﻿site_name,domain,feed_url,feed_title,entries,is_primary,verified
+אמס,emess.co.il,https://www.emess.co.il/feed,אמס MS,50,True,True
+גלובס,globes.co.il,https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585,שוק ההון והשקעות - גלובס,15,True,True
+המחדש,hm-news.co.il,https://hm-news.co.il/feed/,המחדש,10,True,True
+ice (אייס),ice.co.il,https://www.ice.co.il/rss,אייס - ICE,20,True,True
+ערוץ 7,inn.co.il,https://www.inn.co.il/Rss.aspx?act=.1,כתבות ערוץ 7,20,True,True
+JDN,jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,True
+כאן 11,kan.org.il,https://www.kan.org.il/api/newsflash/v2/Newsflash,,33,True,True
+כיכר השבת,kikar.co.il,https://a.kikar.co.il/v1/rss/articles/latest/rss2,כיכר השבת,49,True,True
+כיפה,kipa.co.il,https://www.kipa.co.il/feed/,כיפה - אתר החדשות המוביל במגזר הדתי,50,True,True
+מעריב,maariv.co.il,https://www.maariv.co.il/rss/feed,maariv.co.il - חדשות מהארץ והעולם,20,True,True
+סרוגים,srugim.co.il,https://www.srugim.co.il/feed,חדשות סרוגים,50,True,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/breaking-news,מבזקי חדשות,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/politics,פוליטיקה וממשל,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/military,צבא וביטחון,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/law,חדשות פלילים ומשפט,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
+וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True

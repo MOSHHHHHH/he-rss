@@ -1,0 +1,13 @@
+﻿site_name,domain,homepage,feed_url,feed_title,entries,verified,extra_feeds,method,checked_at
+אמס,emess.co.il,https://www.emess.co.il,https://www.emess.co.il/feed,אמס MS,50,True,0,attempt1,2026-10-04T08:33:23+00:00
+גלובס,globes.co.il,https://www.globes.co.il,https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585,שוק ההון והשקעות - גלובס,15,True,0,attempt2,2026-10-04T08:32:55+00:00
+המחדש,hm-news.co.il,https://hm-news.co.il,https://hm-news.co.il/feed/,המחדש,10,True,0,attempt1,2026-10-04T08:34:07+00:00
+ice (אייס),ice.co.il,https://www.ice.co.il,https://www.ice.co.il/rss,אייס - ICE,20,True,0,attempt1,2026-10-04T08:32:11+00:00
+ערוץ 7,inn.co.il,https://www.inn.co.il,https://www.inn.co.il/Rss.aspx?act=.1,כתבות ערוץ 7,20,True,0,attempt2,2026-10-04T08:33:20+00:00
+JDN,jdn.co.il,https://www.jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,0,attempt1,2026-10-04T08:33:43+00:00
+כאן 11,kan.org.il,https://www.kan.org.il,https://www.kan.org.il/api/newsflash/v2/Newsflash,,33,True,0,attempt2,2026-10-04T08:32:10+00:00
+כיכר השבת,kikar.co.il,https://www.kikar.co.il,https://a.kikar.co.il/v1/rss/articles/latest/rss2,כיכר השבת,49,True,0,attempt2,2026-10-04T08:31:33+00:00
+כיפה,kipa.co.il,https://www.kipa.co.il,https://www.kipa.co.il/feed/,כיפה - אתר החדשות המוביל במגזר הדתי,50,True,0,attempt1,2026-10-04T08:33:44+00:00
+מעריב,maariv.co.il,https://www.maariv.co.il,https://www.maariv.co.il/rss/feed,maariv.co.il - חדשות מהארץ והעולם,20,True,0,attempt1,2026-10-04T08:30:44+00:00
+סרוגים,srugim.co.il,https://www.srugim.co.il,https://www.srugim.co.il/feed,חדשות סרוגים,50,True,0,attempt1,2026-10-04T08:32:57+00:00
+וואלה,walla.co.il,https://www.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,9,attempt2,2026-10-04T08:49:32+00:00

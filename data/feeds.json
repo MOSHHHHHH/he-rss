@@ -1,7 +1,10 @@
 {
   "13tv.co.il": {
-    "checked_at": "2026-10-04T08:33:23+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:50:01+00:00",
+    "homepage": "https://13tv.co.il",
+    "name": "רשת 13",
+    "status": "not_found",
+    "v": 2
   },
   "bhol.co.il": {
     "checked_at": "2026-10-04T08:32:48+00:00",
@@ -60,8 +63,11 @@
     "url": "https://hm-news.co.il/feed/"
   },
   "i24news.tv": {
-    "checked_at": "2026-10-04T08:33:07+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:49:10+00:00",
+    "homepage": "https://www.i24news.tv",
+    "name": "i24NEWS",
+    "status": "not_found",
+    "v": 2
   },
   "ice.co.il": {
     "checked_at": "2026-10-04T08:32:11+00:00",
@@ -92,8 +98,11 @@
     "status": "not_found"
   },
   "israelhayom.co.il": {
-    "checked_at": "2026-10-04T08:30:25+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:49:05+00:00",
+    "homepage": "https://www.israelhayom.co.il",
+    "name": "היום",
+    "status": "not_found",
+    "v": 2
   },
   "jdn.co.il": {
     "checked_at": "2026-10-04T08:33:43+00:00",
@@ -140,8 +149,11 @@
     "status": "not_found"
   },
   "makorrishon.co.il": {
-    "checked_at": "2026-10-04T08:32:13+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:49:04+00:00",
+    "homepage": "https://www.makorrishon.co.il",
+    "name": "מקור ראשון",
+    "status": "not_found",
+    "v": 2
   },
   "passportnews.co.il": {
     "checked_at": "2026-10-04T08:34:16+00:00",
@@ -176,12 +188,70 @@
     "status": "not_found"
   },
   "vietnam.vn": {
-    "checked_at": "2026-10-04T08:30:21+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:49:33+00:00",
+    "homepage": "https://www.vietnam.vn",
+    "name": "Vietnam.vn",
+    "status": "not_found",
+    "v": 2
   },
   "walla.co.il": {
-    "checked_at": "2026-10-04T08:31:58+00:00",
-    "status": "not_found"
+    "checked_at": "2026-10-04T08:49:32+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "חדשות בארץ",
+        "url": "https://www.walla.co.il/rss/feed/news/israel"
+      },
+      {
+        "entries": 30,
+        "title": "חדשות בעולם",
+        "url": "https://www.walla.co.il/rss/feed/news/world"
+      },
+      {
+        "entries": 30,
+        "title": "מבזקי חדשות",
+        "url": "https://www.walla.co.il/rss/feed/news/breaking-news"
+      },
+      {
+        "entries": 30,
+        "title": "פוליטיקה וממשל",
+        "url": "https://www.walla.co.il/rss/feed/news/politics"
+      },
+      {
+        "entries": 30,
+        "title": "צבא וביטחון",
+        "url": "https://www.walla.co.il/rss/feed/news/military"
+      },
+      {
+        "entries": 30,
+        "title": "חדשות פלילים ומשפט",
+        "url": "https://www.walla.co.il/rss/feed/news/law"
+      },
+      {
+        "entries": 30,
+        "title": "מדע וסביבה",
+        "url": "https://www.walla.co.il/rss/feed/news/environment-science"
+      },
+      {
+        "entries": 30,
+        "title": "אסור לפספס",
+        "url": "https://www.walla.co.il/rss/feed/news/donotmiss"
+      },
+      {
+        "entries": 30,
+        "title": "דעות ופרשנויות",
+        "url": "https://www.walla.co.il/rss/feed/news/opinions"
+      }
+    ],
+    "homepage": "https://www.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה",
+    "status": "found",
+    "title": "חדשות",
+    "url": "https://www.walla.co.il/rss/feed/news",
+    "v": 2,
+    "verified": true
   },
   "ynet.co.il": {
     "checked_at": "2026-10-04T08:30:36+00:00",

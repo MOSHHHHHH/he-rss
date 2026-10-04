@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Hebrew News Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" text="אמס" title="אמס" xmlUrl="https://www.emess.co.il/feed" htmlUrl="https://www.emess.co.il" />
+    <outline type="rss" text="גלובס" title="גלובס" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585" htmlUrl="https://www.globes.co.il" />
+    <outline type="rss" text="המחדש" title="המחדש" xmlUrl="https://hm-news.co.il/feed/" htmlUrl="https://hm-news.co.il" />
+    <outline type="rss" text="ice (אייס)" title="ice (אייס)" xmlUrl="https://www.ice.co.il/rss" htmlUrl="https://www.ice.co.il" />
+    <outline type="rss" text="ערוץ 7" title="ערוץ 7" xmlUrl="https://www.inn.co.il/Rss.aspx?act=.1" htmlUrl="https://www.inn.co.il" />
+    <outline type="rss" text="JDN" title="JDN" xmlUrl="https://www.jdn.co.il/feed/" htmlUrl="https://www.jdn.co.il" />
+    <outline type="rss" text="כאן 11" title="כאן 11" xmlUrl="https://www.kan.org.il/api/newsflash/v2/Newsflash" htmlUrl="https://www.kan.org.il" />
+    <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://a.kikar.co.il/v1/rss/articles/latest/rss2" htmlUrl="https://www.kikar.co.il" />
+    <outline type="rss" text="כיפה" title="כיפה" xmlUrl="https://www.kipa.co.il/feed/" htmlUrl="https://www.kipa.co.il" />
+    <outline type="rss" text="מעריב" title="מעריב" xmlUrl="https://www.maariv.co.il/rss/feed" htmlUrl="https://www.maariv.co.il" />
+    <outline type="rss" text="סרוגים" title="סרוגים" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il" />
+    <outline text="וואלה" title="וואלה">
+      <outline type="rss" text="חדשות" title="חדשות" xmlUrl="https://www.walla.co.il/rss/feed/news" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="חדשות בארץ" title="חדשות בארץ" xmlUrl="https://www.walla.co.il/rss/feed/news/israel" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="חדשות בעולם" title="חדשות בעולם" xmlUrl="https://www.walla.co.il/rss/feed/news/world" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="מבזקי חדשות" title="מבזקי חדשות" xmlUrl="https://www.walla.co.il/rss/feed/news/breaking-news" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="פוליטיקה וממשל" title="פוליטיקה וממשל" xmlUrl="https://www.walla.co.il/rss/feed/news/politics" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="צבא וביטחון" title="צבא וביטחון" xmlUrl="https://www.walla.co.il/rss/feed/news/military" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="חדשות פלילים ומשפט" title="חדשות פלילים ומשפט" xmlUrl="https://www.walla.co.il/rss/feed/news/law" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="מדע וסביבה" title="מדע וסביבה" xmlUrl="https://www.walla.co.il/rss/feed/news/environment-science" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="אסור לפספס" title="אסור לפספס" xmlUrl="https://www.walla.co.il/rss/feed/news/donotmiss" htmlUrl="https://www.walla.co.il" />
+      <outline type="rss" text="דעות ופרשנויות" title="דעות ופרשנויות" xmlUrl="https://www.walla.co.il/rss/feed/news/opinions" htmlUrl="https://www.walla.co.il" />
+    </outline>
+  </body>
+</opml>
