@@ -3,14 +3,22 @@ name: Build Hebrew news RSS list
 on:
   workflow_dispatch:
     inputs:
+      skip_discovery:
+        description: "לדלג על שלבים 1-2 ולהשתמש ב-data/sites.json הקיים (מומלץ לריצה חוזרת)"
+        type: boolean
+        default: false
       retry_not_found:
-        description: "לנסות שוב אתרים שלא נמצא להם פיד בעבר"
+        description: "לנסות שוב אתרים שלא נמצא להם פיד"
         type: boolean
         default: false
       force_recheck:
         description: "לבדוק מחדש הכול (גם אתרים עם פיד קיים)"
         type: boolean
         default: false
+      workers:
+        description: "כמה אתרים במקביל בשלב 3"
+        type: string
+        default: "8"
       max_sites:
         description: "הגבלת מספר אתרים לבדיקה (0 = ללא הגבלה)"
         type: string
@@ -43,8 +51,10 @@ jobs:
       - name: Build feed list
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          SKIP_DISCOVERY: ${{ inputs.skip_discovery && '1' || '0' }}
           RETRY_NOT_FOUND: ${{ inputs.retry_not_found && '1' || '0' }}
           FORCE_RECHECK: ${{ inputs.force_recheck && '1' || '0' }}
+          WORKERS: ${{ inputs.workers || '8' }}
           MAX_SITES: ${{ inputs.max_sites || '0' }}
         run: python -u scripts/build_feed_list.py
 
