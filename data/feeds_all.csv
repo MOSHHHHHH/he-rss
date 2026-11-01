@@ -21,6 +21,7 @@
 רדיו צפון 104.5FM,1045fm.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
 איחוד הצלה,1221.org.il,https://1221.org.il/feed/,איחוד הצלה,1,True,True
 20il.co.il,20il.co.il,https://www.20il.co.il/feed/,20il,10,True,True
+3Druck.com,3druck.com,https://3druck.com/feed/,3Druck.com – The Independent AM Magazine,18,True,True
 4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/4x4.xml,שטח 4X4,20,True,True
 4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/motor.xml,אופנועים / טרקטורונים,20,False,True
 4x4.co.il,4x4.co.il,https://www.4x4.co.il/rss/road.xml,כביש / ספורט,20,False,True
@@ -49,6 +50,7 @@ AskPavel,askpavel.co.il,https://www.askpavel.co.il/feed,,0,True,False
 וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
 וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
 וואלה ברנז'ה,b.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+מגזין בת-ים,bat-yamamas.com,https://www.bat-yamamas.com/feed/,מגזין בת-ים,10,True,True
 BE106,be106.net,https://www.be106.net/rss/city/233/posts.xml,be106.net רחובות,40,True,True
 BE106,be106.net,https://www.be106.net/rss/city/231/posts.xml,be106.net ראשון לציון,40,False,True
 BE106,be106.net,https://www.be106.net/rss/city/255/posts.xml,be106.net תל אביב-יפו,40,False,True
@@ -110,9 +112,11 @@ davar1.co.il,davar1.co.il,https://www.davar1.co.il/feed/,,0,True,False
 עמקניוז,emeknews.co.il,https://emeknews.co.il/feed/,עמקניוז – חדשות העמק,10,True,True
 אמס,emess.co.il,https://www.emess.co.il/feed,אמס MS,50,True,True
 "אפוק - מגזין מרחיב דעת, מעורר מחשבה",epoch.org.il,https://epoch.org.il/feed/,"אפוק – מגזין מרחיב דעת, מעורר מחשבה",999,True,True
+TradingView,es.tradingview.com,https://es.tradingview.com/feed/,TradingView Ideas,30,True,True
 eset.com,eset.com,https://support-feed.eset.com/news,Support News,98,True,True
 EuroMix,euromix.co.il,https://www.euromix.co.il/feed/,EuroMix,250,True,True
 The European Times,europeantimes.news,https://europeantimes.news/feed/,The European Times,40,True,True
+Fabryka Norblina,fabrykanorblina.pl,https://fabrykanorblina.pl/feed/,Fabryka Norblina,10,True,True
 וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
 וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
 וואלה אופנה,fashion.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
@@ -144,6 +148,7 @@ The European Times,europeantimes.news,https://europeantimes.news/feed/,The Europ
 וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
 וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
 וואלה אוכל,food.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+The Portugal News,ftp.theportugalnews.com,https://ftp.theportugalnews.com/rss,The Portugal News,54,True,True
 g-rafa.co.il,g-rafa.co.il,https://g-rafa.co.il/feed/,ג'ירפה,100,True,True
 מגזין טכנולוגיה ובידור - Gadgety,gadgety.co.il,https://www.gadgety.co.il/feed,מגזין טכנולוגיה ובידור – Gadgety,10,True,True
 gal-gefen.co.il,gal-gefen.co.il,https://gal-gefen.co.il/feed,פספורטניוז,5,True,True
@@ -194,6 +199,7 @@ Chabad,he.chabad.org,https://www.chabad.org/tools/rss/itunes/seriesrss_cdo/scope
 ירוק - רשת מקומונים בשרון,hoha.co.il,https://hoha.co.il/?feed=rss2,ירוק – רשת מקומונים בשרון,10,True,True
 חורים ברשת,holesinthenet.co.il,https://holesinthenet.co.il/feed/,חורים ברשת,8,True,True
 Human Rights Watch,hrw.org,https://www.hrw.org/rss/news,Human Rights Watch News,20,True,True
+HWzone,hwzone.co.il,https://hwzone.co.il/feed/,HWzone,50,True,True
 i-hls.com,i-hls.com,https://i-hls.com/feed,iHLS,10,True,True
 ias.co.il,ias.co.il,https://www.ias.co.il/feed/,IAS,10,True,True
 ice (אייס),ice.co.il,https://www.ice.co.il/rss,אייס - ICE,20,True,True
@@ -216,6 +222,7 @@ israelnews.co.il,israelnews.co.il,https://www.israelnews.co.il/feed/,Israel News
 Jablíčkář.cz,jablickar.cz,https://jablickar.cz/feed/,,10,True,True
 JDN,jdn.co.il,https://www.jdn.co.il/feed/,JDN,8,True,True
 jewishagency.org,jewishagency.org,https://www.jewishagency.org/feed/,The Jewish Agency for Israel,10,True,True
+Єврейські Новини,jewishnews.com.ua,https://jewishnews.com.ua/rss.xml,JewishNews — Єврейські новини,50,True,True
 JNS.org,jns.org,https://www.jns.org/index.rss,JNS.org - Jerusalem News Syndicate,30,True,True
 המכון למדיניות העם היהודי - JPPI,jppi.org.il,https://jppi.org.il/he/feed/,המכון למדיניות העם היהודי,9,True,True
 kabbalah.co.il,kabbalah.co.il,https://kabbalah.co.il/feed/,מרכז הקבלה,0,True,True
@@ -273,7 +280,9 @@ mako.co.il,mako.co.il,https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM100000480
 וואלה מקומי,mekomi.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
 מקומון ראשון,mekomonrishon.co.il,https://mekomonrishon.co.il/feed/,מקומון ראשון,10,True,True
 Meta-Defense,meta-defense.fr,https://meta-defense.fr/feed/atom/,MetaDefense,10,True,True
+Microsoft,microsoft.com,https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/Community,rss.livelink.threads-in-node,20,True,True
 מידה,mida.org.il,https://mida.org.il/feed/,מידה,100,True,True
+Middle East Eye,middleeasteye.net,https://www.middleeasteye.net/rss,Section Feed,20,True,True
 MiGFlug,migflug.com,https://migflug.com/feed/,MiGFlug,5,True,True
 חדשות מבזק לייב,mivzaklive.co.il,https://www.mivzaklive.co.il/feed,חדשות מבזק לייב,10,True,True
 mnews.co.il,mnews.co.il,https://mnews.co.il/feed/,מודיעין ניוז,10,True,True
@@ -291,7 +300,18 @@ mako.co.il,mobile.mako.co.il,https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM10
 עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinEventsRSS,עיריית מודיעין מכבים רעות - אירועים בעיר,10,False,True
 עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinRecentNewsRSS,עיריית מודיעין מכבים רעות - על סדר היום,26,False,True
 עיריית מודיעין מכבים רעות,modiin.muni.il,https://www.modiin.muni.il/modiinwebsite/WebServiceGlobal.asmx/GetModiinChannelsRSS,עיריית מודיעין מכבים רעות - עדכונים באתר,8,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment,תרבות,30,True,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/eurovision,אירוויזיון,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/tvreview,ביקורת טלוויזיה,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/moviesreview,ביקורת סרטים,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/reality-review,ריאליטי,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/music,מוזיקה,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/cinema,קולנוע,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/series,סדרות מומלצות,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/stage,הופעות,30,False,True
+"וואלה נדל""ן",nadlan.walla.co.il,https://www.walla.co.il/rss/feed/entertainment/tv,טלוויזיה,30,False,True
 "מרכז הנדל""ן",nadlancenter.co.il,https://www.nadlancenter.co.il/rss/main,ראשי,11,True,True
+nehzat.ir,nehzat.ir,https://nehzat.ir/news.rss,جدیدترین اخبار,50,True,True
 נתניה נט,netanyanet.co.il,https://www.netanyanet.co.il/?format=feed&type=rss,נתניה נט - כל העיר בקליק אחד!,0,True,True
 האוניברסיטה העברית בירושלים,new.huji.ac.il,https://new.huji.ac.il/feed,הזנת אתר,10,True,True
 עניין מרכזי,news-israel.net,https://www.news-israel.net/feed/,עניין מרכזי,10,True,True
@@ -314,12 +334,16 @@ NWS חדשות חיפה והסביבה,nws.report,https://nws.report/feed/,NWS �
 nziv.net,nziv.net,https://nziv.net/feed/,Nziv.net,10,True,True
 ONE,one.co.il,https://www.one.co.il/rss,ONE,53,True,True
 אונו ניוז,ononews.co.il,https://ononews.co.il/feed/,| אונו News,10,True,True
+OpenAI,openai.com,https://openai.com/news/rss.xml,OpenAI News,1341,True,True
+www.out.tv,out.tv,https://www.out.tv/nieuws/rss,Current month news,0,True,True
 רשות הטבע והגנים,parks.org.il,https://www.parks.org.il/feed,רשות הטבע והגנים,5,True,True
 Pars Today,parstoday.ir,https://parstoday.ir/rss,PARS TODAY,0,True,True
 אנשים ומחשבים,pc.co.il,https://www.pc.co.il/feed/,"אנשים ומחשבים – פורטל חדשות היי-טק, מיחשוב, טלקום, טכנולוגיות",30,True,True
 שלום עכשיו,peacenow.org.il,https://peacenow.org.il/feed,שלום עכשיו,10,True,True
 planetario.buenosaires.gob.ar,planetario.buenosaires.gob.ar,https://planetario.buenosaires.gob.ar/rss.xml,Drupal,3,True,True
+כל ישראל בעסקים,pnns.co.il,https://www.pnns.co.il/feed/,כל ישראל בעסקים,15,True,True
 פואנטה,poenta.co.il,https://www.poenta.co.il/feed/,פואנטה,10,True,True
+Port of Rotterdam,portofrotterdam.com,https://www.portofrotterdam.com/nl/rss.xml,Port of Rotterdam - Connecting the world. Building tomorrow's sustainable port.,10,True,True
 Portugal Resident,portugalresident.com,https://www.portugalresident.com/feed/,Portugal Resident,10,True,True
 פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,True
 פנאי פלוס,pplus.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss1854.xml,ynet - מבזקים,30,False,True
@@ -332,14 +356,21 @@ Portugal Resident,portugalresident.com,https://www.portugalresident.com/feed/,Po
 בית הנשיא,president.gov.il,https://www.president.gov.il/feed/,בית הנשיא,10,True,True
 מגזין פורטפוליו -,prtfl.co.il,https://www.prtfl.co.il/feed,מגזין פורטפוליו,15,True,True
 פתח תקווה NEWS,ptnews.co.il,https://www.ptnews.co.il/feed,פתח תקווה NEWS,10,True,True
+אתר עיריית רמת השרון,ramat-hasharon.muni.il,https://ramat-hasharon.muni.il/feed/,אתר עיריית רמת השרון,10,True,True
 rgg-news.co.il,rgg-news.co.il,https://www.rgg-news.co.il/feed/,| חדשות רמת גן גבעתיים NEWS,10,True,True
 ראשון ניוז,rishon.news,https://www.rishon.news/feed/,חדשות ראשון ניוז – פורטל החדשות של ראשון לציון,10,True,True
 وكالة صدى نيوز,sadanews.ps,https://www.sadanews.ps/rss,وكالة صدى للأنباء,50,True,True
 Safsal,safsal.co.il,https://www.safsal.co.il/blog-feed.xml,"ספסל, הבית של הכדורסל הישראלי",20,True,True
 Samsung Magazine,samsungmagazine.eu,https://samsungmagazine.eu/feed/,,10,True,True
+SBS,sbs.com.au,https://www.sbs.com.au/news/feed,Top Stories,25,True,True
+SBS,sbs.com.au,https://www.sbs.com.au/news/topic/latest/feed,Latest News,25,False,True
+SBS,sbs.com.au,https://www.sbs.com.au/news/videos/feed,Top Videos,25,False,True
+SBS,sbs.com.au,https://www.sbs.com.au/news/topic/australia/feed,Australian News,25,False,True
+SBS,sbs.com.au,https://www.sbs.com.au/news/topic/world/feed,World News,25,False,True
 shakuf.co.il,shakuf.co.il,https://shakuf.co.il/feed,שקוף,10,True,True
 שרון אונליין,sharonline.co.il,https://sharonline.co.il/feed/,שרון אונליין,10,True,True
 shavvim.co.il,shavvim.co.il,https://shavvim.co.il/feed/,שווים,12,True,True
+Showmetech,showmetech.com.br,https://www.showmetech.com.br/feed/,Showmetech,50,True,True
 shvoong.co.il,shvoong.co.il,https://www.shvoong.co.il/feed/,"ריצה, אופניים, טריאתלון, שחייה | שוונג",100,True,True
 סוכנות החלל,space.gov.il,https://www.space.gov.il/rss.xml,סוכנות החלל הישראלית - node/132309,10,True,True
 sponser.co.il,sponser.co.il,https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7,חדשות שוק ההון,15,True,True
@@ -406,6 +437,7 @@ TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskadorsal,maariv.co.il 
 TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedsanafimnosafim,maariv.co.il - ענפים נוספים,20,False,True
 TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedskalkalabaarez,maariv.co.il - כלכלה בארץ,20,False,True
 TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il - צרכנות,20,False,True
+TradingView,tradingview.com,https://www.tradingview.com/feed/,TradingView Ideas,30,True,True
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/world,חדשות בעולם,30,False,True
@@ -416,6 +448,9 @@ TMI,tmi.maariv.co.il,https://www.maariv.co.il/rss/rssfeedszarchanot,maariv.co.il
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/environment-science,מדע וסביבה,30,False,True
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/donotmiss,אסור לפספס,30,False,True
 וואלה תיירות,travel.walla.co.il,https://www.walla.co.il/rss/feed/news/opinions,דעות ופרשנויות,30,False,True
+Vantage Data Centers,vantage-dc.com,https://vantage-dc.com/feed/,Vantage Data Centers,0,True,True
+Vatican News,vaticannews.va,https://www.vaticannews.va/en.rss.xml,Vatican News - English,50,True,True
+Vgames.co.il,vgames.co.il,https://vgames.co.il/rss,Vgames.co.il - אתר משחקים הגדול בישראל,10,True,True
 וולה כדורגל ילדים ונוער,vole.one.co.il,https://www.one.co.il/rss,ONE,53,True,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news,חדשות,30,True,True
 וואלה,walla.co.il,https://www.walla.co.il/rss/feed/news/israel,חדשות בארץ,30,False,True
@@ -436,6 +471,7 @@ YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3487.xml,ynet - 
 YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss5363.xml,ynet - צרכנות,30,False,True
 YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss3.xml,ynet - ספורט,30,False,True
 YNET,xnet.ynet.co.il,https://www.ynet.co.il/Integration/StoryRss57.xml,ynet - כדורגל ישראלי,30,False,True
+Xpert.Digital - Konrad Wolfenstein,xpert.digital,https://xpert.digital/feed/,Xpert.Digital,30,True,True
 נמרוד ירון ושות,y-tax.co.il,https://y-tax.co.il/feed/,נמרוד ירון ושות׳,10,True,True
 شبكة يافا الإخبارية,yaffaps.com,https://yaffaps.com/rss,شبكة يافا الإخبارية,30,True,True
 YNET,ynet.co.il,https://www.ynet.co.il/Integration/StoryRss2.xml,ynet - חדשות,30,True,True
@@ -461,6 +497,7 @@ Yogonet,yogonet.com,https://www.yogonet.com/international/latin-america/rss.xml,
 Yogonet,yogonet.com,https://www.yogonet.com/international/europe/rss.xml,Yogonet International,10,False,True
 Yogonet,yogonet.com,https://www.yogonet.com/international/land-based-casinos/rss.xml,Yogonet International,10,False,True
 יוסמיוסיק,yosmusic.com,https://yosmusic.com/feed/,יוסמיוסיק,30,True,True
+זהר.נט,zhk.co.il,https://www.zhk.co.il/feed/,זהר.נט,10,True,True
 זמן ישראל,zman.co.il,https://www.zman.co.il/feed/513/,,0,True,False
 זמן ישראל,zman.co.il,https://www.zman.co.il/feed/12070/,,0,False,False
 זו הדרך,zoha.org.il,https://zoha.org.il/feed/,זו הדרך,10,True,True

@@ -142,6 +142,13 @@
     "v": 2,
     "verified": true
   },
+  "1062fm.co.il": {
+    "checked_at": "2026-11-01T10:31:10+00:00",
+    "homepage": "https://1062fm.co.il",
+    "name": "קול האוניברסיטה",
+    "status": "not_found",
+    "v": 2
+  },
   "1075.fm": {
     "checked_at": "2026-10-04T09:23:46+00:00",
     "homepage": "https://www.1075.fm",
@@ -186,6 +193,18 @@
     "name": "365Scores",
     "status": "not_found",
     "v": 2
+  },
+  "3druck.com": {
+    "checked_at": "2026-11-01T10:30:30+00:00",
+    "entries": 18,
+    "homepage": "https://3druck.com",
+    "method": "attempt1",
+    "name": "3Druck.com",
+    "status": "found",
+    "title": "3Druck.com – The Independent AM Magazine",
+    "url": "https://3druck.com/feed/",
+    "v": 2,
+    "verified": true
   },
   "4x4.co.il": {
     "checked_at": "2026-10-04T09:24:48+00:00",
@@ -532,6 +551,25 @@
     "status": "not_found",
     "v": 2
   },
+  "bat-yam.muni.il": {
+    "checked_at": "2026-11-01T10:30:50+00:00",
+    "homepage": "https://www.bat-yam.muni.il",
+    "name": "עיריית בת ים",
+    "status": "not_found",
+    "v": 2
+  },
+  "bat-yamamas.com": {
+    "checked_at": "2026-11-01T10:31:24+00:00",
+    "entries": 10,
+    "homepage": "https://www.bat-yamamas.com",
+    "method": "attempt1",
+    "name": "מגזין בת-ים",
+    "status": "found",
+    "title": "מגזין בת-ים",
+    "url": "https://www.bat-yamamas.com/feed/",
+    "v": 2,
+    "verified": true
+  },
   "be106.net": {
     "checked_at": "2026-10-04T09:21:54+00:00",
     "entries": 40,
@@ -873,6 +911,13 @@
     "v": 2,
     "verified": true
   },
+  "centcom.mil": {
+    "checked_at": "2026-11-01T10:31:23+00:00",
+    "homepage": "https://www.centcom.mil",
+    "name": "US Central Command (.mil)",
+    "status": "not_found",
+    "v": 2
+  },
   "ch10.co.il": {
     "checked_at": "2026-10-04T09:20:33+00:00",
     "entries": 10,
@@ -903,6 +948,13 @@
     "url": "https://www.chabad.org/tools/rss/magazine_rss.xml",
     "v": 2,
     "verified": true
+  },
+  "chamber.org.il": {
+    "checked_at": "2026-11-01T10:31:43+00:00",
+    "homepage": "https://www.chamber.org.il",
+    "name": "איגוד לשכות המסחר",
+    "status": "not_found",
+    "v": 2
   },
   "chiportal.co.il": {
     "checked_at": "2026-10-04T09:26:35+00:00",
@@ -1143,6 +1195,13 @@
     "v": 2,
     "verified": true
   },
+  "emekyizrael.org.il": {
+    "checked_at": "2026-11-01T10:30:58+00:00",
+    "homepage": "https://www.emekyizrael.org.il",
+    "name": "מועצה אזורית עמק יזרעאל",
+    "status": "not_found",
+    "v": 2
+  },
   "emess.co.il": {
     "checked_at": "2026-10-04T08:33:23+00:00",
     "entries": 50,
@@ -1160,6 +1219,18 @@
     "status": "found",
     "title": "אפוק – מגזין מרחיב דעת, מעורר מחשבה",
     "url": "https://epoch.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "es.tradingview.com": {
+    "checked_at": "2026-11-01T10:31:25+00:00",
+    "entries": 30,
+    "homepage": "https://es.tradingview.com",
+    "method": "attempt1",
+    "name": "TradingView",
+    "status": "found",
+    "title": "TradingView Ideas",
+    "url": "https://es.tradingview.com/feed/",
     "v": 2,
     "verified": true
   },
@@ -1205,6 +1276,18 @@
     "name": "מכון היצוא",
     "status": "not_found",
     "v": 2
+  },
+  "fabrykanorblina.pl": {
+    "checked_at": "2026-11-01T10:30:33+00:00",
+    "entries": 10,
+    "homepage": "https://fabrykanorblina.pl",
+    "method": "attempt1",
+    "name": "Fabryka Norblina",
+    "status": "found",
+    "title": "Fabryka Norblina",
+    "url": "https://fabrykanorblina.pl/feed/",
+    "v": 2,
+    "verified": true
   },
   "facebook.com": {
     "checked_at": "2026-10-04T09:24:31+00:00",
@@ -1449,6 +1532,18 @@
     "name": "פרוגי",
     "status": "not_found",
     "v": 2
+  },
+  "ftp.theportugalnews.com": {
+    "checked_at": "2026-11-01T10:31:19+00:00",
+    "entries": 54,
+    "homepage": "https://ftp.theportugalnews.com",
+    "method": "attempt1",
+    "name": "The Portugal News",
+    "status": "found",
+    "title": "The Portugal News",
+    "url": "https://ftp.theportugalnews.com/rss",
+    "v": 2,
+    "verified": true
   },
   "funder.co.il": {
     "checked_at": "2026-10-04T09:20:17+00:00",
@@ -1815,6 +1910,13 @@
     "v": 2,
     "verified": true
   },
+  "hashikma-batyam.co.il": {
+    "checked_at": "2026-11-01T10:30:55+00:00",
+    "homepage": "https://www.hashikma-batyam.co.il",
+    "name": "השקמה בת ים",
+    "status": "not_found",
+    "v": 2
+  },
   "hashikma-rishon.co.il": {
     "checked_at": "2026-10-04T09:27:44+00:00",
     "homepage": "https://www.hashikma-rishon.co.il",
@@ -2024,6 +2126,18 @@
     "v": 2,
     "verified": true
   },
+  "hwzone.co.il": {
+    "checked_at": "2026-11-01T10:30:30+00:00",
+    "entries": 50,
+    "homepage": "https://hwzone.co.il",
+    "method": "attempt1",
+    "name": "HWzone",
+    "status": "found",
+    "title": "HWzone",
+    "url": "https://hwzone.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
   "i-hls.com": {
     "checked_at": "2026-10-04T09:27:46+00:00",
     "entries": 10,
@@ -2088,6 +2202,13 @@
     "checked_at": "2026-10-04T09:21:23+00:00",
     "homepage": "https://www.idi.org.il",
     "name": "המכון הישראלי לדמוקרטיה",
+    "status": "not_found",
+    "v": 2
+  },
+  "ihaklai.org.il": {
+    "checked_at": "2026-11-01T10:31:24+00:00",
+    "homepage": "https://ihaklai.org.il",
+    "name": "ihaklai.org.il",
     "status": "not_found",
     "v": 2
   },
@@ -2164,6 +2285,13 @@
     "url": "https://www.investing.com/rss/121899.rss",
     "v": 2,
     "verified": true
+  },
+  "ima.org.il": {
+    "checked_at": "2026-11-01T10:31:08+00:00",
+    "homepage": "https://www.ima.org.il",
+    "name": "ההסתדרות הרפואית בישראל",
+    "status": "not_found",
+    "v": 2
   },
   "ing.org": {
     "checked_at": "2026-10-04T09:27:02+00:00",
@@ -2311,6 +2439,18 @@
     "status": "found",
     "title": "The Jewish Agency for Israel",
     "url": "https://www.jewishagency.org/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "jewishnews.com.ua": {
+    "checked_at": "2026-11-01T10:30:52+00:00",
+    "entries": 50,
+    "homepage": "https://jewishnews.com.ua",
+    "method": "attempt1",
+    "name": "Єврейські Новини",
+    "status": "found",
+    "title": "JewishNews — Єврейські новини",
+    "url": "https://jewishnews.com.ua/rss.xml",
     "v": 2,
     "verified": true
   },
@@ -2464,6 +2604,13 @@
     "checked_at": "2026-10-04T09:21:41+00:00",
     "homepage": "https://www.kolhair.co.il",
     "name": "כל העיר ירושלים",
+    "status": "not_found",
+    "v": 2
+  },
+  "krayot.mynet.co.il": {
+    "checked_at": "2026-11-01T10:30:52+00:00",
+    "homepage": "https://krayot.mynet.co.il",
+    "name": "מיינט קריות",
     "status": "not_found",
     "v": 2
   },
@@ -2914,6 +3061,18 @@
     "status": "not_found",
     "v": 2
   },
+  "microsoft.com": {
+    "checked_at": "2026-11-01T10:31:40+00:00",
+    "entries": 20,
+    "homepage": "https://www.microsoft.com",
+    "method": "attempt3",
+    "name": "Microsoft",
+    "status": "found",
+    "title": "rss.livelink.threads-in-node",
+    "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/Community",
+    "v": 2,
+    "verified": true
+  },
   "mida.org.il": {
     "checked_at": "2026-10-04T09:23:24+00:00",
     "entries": 100,
@@ -2923,6 +3082,18 @@
     "status": "found",
     "title": "מידה",
     "url": "https://mida.org.il/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "middleeasteye.net": {
+    "checked_at": "2026-11-01T10:31:00+00:00",
+    "entries": 20,
+    "homepage": "https://www.middleeasteye.net",
+    "method": "attempt1",
+    "name": "Middle East Eye",
+    "status": "found",
+    "title": "Section Feed",
+    "url": "https://www.middleeasteye.net/rss",
     "v": 2,
     "verified": true
   },
@@ -3111,6 +3282,81 @@
     "status": "not_found",
     "v": 2
   },
+  "myziona.co.il": {
+    "checked_at": "2026-11-01T10:31:21+00:00",
+    "homepage": "https://www.myziona.co.il",
+    "name": "פורטל נס ציונה שלי",
+    "status": "not_found",
+    "v": 2
+  },
+  "nadlan.walla.co.il": {
+    "checked_at": "2026-11-01T10:31:41+00:00",
+    "entries": 30,
+    "extra_feeds": [
+      {
+        "entries": 30,
+        "title": "אירוויזיון",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/eurovision",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ביקורת טלוויזיה",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/tvreview",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ביקורת סרטים",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/moviesreview",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "ריאליטי",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/reality-review",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "מוזיקה",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/music",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "קולנוע",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/cinema",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "סדרות מומלצות",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/series",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "הופעות",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/stage",
+        "verified": true
+      },
+      {
+        "entries": 30,
+        "title": "טלוויזיה",
+        "url": "https://www.walla.co.il/rss/feed/entertainment/tv",
+        "verified": true
+      }
+    ],
+    "homepage": "https://nadlan.walla.co.il",
+    "method": "attempt2",
+    "name": "וואלה נדל\"ן",
+    "status": "found",
+    "title": "תרבות",
+    "url": "https://www.walla.co.il/rss/feed/entertainment",
+    "v": 2,
+    "verified": true
+  },
   "nadlancenter.co.il": {
     "checked_at": "2026-10-04T09:21:03+00:00",
     "entries": 11,
@@ -3130,12 +3376,31 @@
     "status": "not_found",
     "v": 2
   },
+  "natgeotv.com": {
+    "checked_at": "2026-11-01T10:31:17+00:00",
+    "homepage": "https://www.natgeotv.com",
+    "name": "National Geographic",
+    "status": "not_found",
+    "v": 2
+  },
   "nba.sport5.co.il": {
     "checked_at": "2026-10-04T09:29:26+00:00",
     "homepage": "https://nba.sport5.co.il",
     "name": "Sport5",
     "status": "not_found",
     "v": 2
+  },
+  "nehzat.ir": {
+    "checked_at": "2026-11-01T10:31:22+00:00",
+    "entries": 50,
+    "homepage": "https://nehzat.ir",
+    "method": "attempt1",
+    "name": "nehzat.ir",
+    "status": "found",
+    "title": "جدیدترین اخبار",
+    "url": "https://nehzat.ir/news.rss",
+    "v": 2,
+    "verified": true
   },
   "nessziona.net": {
     "checked_at": "2026-10-04T09:22:11+00:00",
@@ -3360,6 +3625,13 @@
     "v": 2,
     "verified": true
   },
+  "ochaopt.org": {
+    "checked_at": "2026-11-01T10:31:28+00:00",
+    "homepage": "https://www.ochaopt.org",
+    "name": "www.ochaopt.org",
+    "status": "not_found",
+    "v": 2
+  },
   "one.co.il": {
     "checked_at": "2026-10-04T09:21:04+00:00",
     "entries": 53,
@@ -3384,12 +3656,43 @@
     "v": 2,
     "verified": true
   },
+  "openai.com": {
+    "checked_at": "2026-11-01T10:31:07+00:00",
+    "entries": 1341,
+    "homepage": "https://openai.com",
+    "method": "attempt2",
+    "name": "OpenAI",
+    "status": "found",
+    "title": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "orcarouter.ai": {
+    "checked_at": "2026-11-01T10:31:31+00:00",
+    "homepage": "https://www.orcarouter.ai",
+    "name": "OrcaRouter",
+    "status": "not_found",
+    "v": 2
+  },
   "ornews.co.il": {
     "checked_at": "2026-10-04T09:23:20+00:00",
     "homepage": "https://www.ornews.co.il",
     "name": "ornews.co.il",
     "status": "not_found",
     "v": 2
+  },
+  "out.tv": {
+    "checked_at": "2026-11-01T10:31:07+00:00",
+    "entries": 0,
+    "homepage": "https://www.out.tv",
+    "method": "attempt2",
+    "name": "www.out.tv",
+    "status": "found",
+    "title": "Current month news",
+    "url": "https://www.out.tv/nieuws/rss",
+    "v": 2,
+    "verified": true
   },
   "parks.org.il": {
     "checked_at": "2026-10-04T09:25:18+00:00",
@@ -3465,6 +3768,18 @@
     "status": "not_found",
     "v": 2
   },
+  "pnns.co.il": {
+    "checked_at": "2026-11-01T10:30:48+00:00",
+    "entries": 15,
+    "homepage": "https://www.pnns.co.il",
+    "method": "attempt1",
+    "name": "כל ישראל בעסקים",
+    "status": "found",
+    "title": "כל ישראל בעסקים",
+    "url": "https://www.pnns.co.il/feed/",
+    "v": 2,
+    "verified": true
+  },
   "poenta.co.il": {
     "checked_at": "2026-10-04T09:25:24+00:00",
     "entries": 10,
@@ -3483,6 +3798,18 @@
     "name": "PORT2PORT",
     "status": "not_found",
     "v": 2
+  },
+  "portofrotterdam.com": {
+    "checked_at": "2026-11-01T10:30:32+00:00",
+    "entries": 10,
+    "homepage": "https://www.portofrotterdam.com",
+    "method": "attempt1",
+    "name": "Port of Rotterdam",
+    "status": "found",
+    "title": "Port of Rotterdam - Connecting the world. Building tomorrow's sustainable port.",
+    "url": "https://www.portofrotterdam.com/nl/rss.xml",
+    "v": 2,
+    "verified": true
   },
   "portugalresident.com": {
     "checked_at": "2026-10-04T09:23:25+00:00",
@@ -3590,6 +3917,13 @@
     "v": 2,
     "verified": true
   },
+  "psakdin.co.il": {
+    "checked_at": "2026-11-01T10:30:50+00:00",
+    "homepage": "https://www.psakdin.co.il",
+    "name": "psakdin",
+    "status": "not_found",
+    "v": 2
+  },
   "ptnews.co.il": {
     "checked_at": "2026-10-04T09:23:37+00:00",
     "entries": 10,
@@ -3629,6 +3963,18 @@
     "name": "ramat-gan.muni.il",
     "status": "not_found",
     "v": 2
+  },
+  "ramat-hasharon.muni.il": {
+    "checked_at": "2026-11-01T10:30:30+00:00",
+    "entries": 10,
+    "homepage": "https://ramat-hasharon.muni.il",
+    "method": "attempt1",
+    "name": "אתר עיריית רמת השרון",
+    "status": "found",
+    "title": "אתר עיריית רמת השרון",
+    "url": "https://ramat-hasharon.muni.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "regthink.org": {
     "checked_at": "2026-10-04T09:24:35+00:00",
@@ -3675,6 +4021,13 @@
     "v": 2,
     "verified": true
   },
+  "roayahnews.com": {
+    "checked_at": "2026-11-01T10:31:11+00:00",
+    "homepage": "https://roayahnews.com",
+    "name": "شبكة رؤية الإخبارية",
+    "status": "not_found",
+    "v": 2
+  },
   "sadanews.ps": {
     "checked_at": "2026-10-04T09:21:48+00:00",
     "entries": 50,
@@ -3708,6 +4061,44 @@
     "status": "found",
     "title": "",
     "url": "https://samsungmagazine.eu/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "sbs.com.au": {
+    "checked_at": "2026-11-01T10:31:17+00:00",
+    "entries": 25,
+    "extra_feeds": [
+      {
+        "entries": 25,
+        "title": "Latest News",
+        "url": "https://www.sbs.com.au/news/topic/latest/feed",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "Top Videos",
+        "url": "https://www.sbs.com.au/news/videos/feed",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "Australian News",
+        "url": "https://www.sbs.com.au/news/topic/australia/feed",
+        "verified": true
+      },
+      {
+        "entries": 25,
+        "title": "World News",
+        "url": "https://www.sbs.com.au/news/topic/world/feed",
+        "verified": true
+      }
+    ],
+    "homepage": "https://www.sbs.com.au",
+    "method": "attempt3",
+    "name": "SBS",
+    "status": "found",
+    "title": "Top Stories",
+    "url": "https://www.sbs.com.au/news/feed",
     "v": 2,
     "verified": true
   },
@@ -3760,6 +4151,18 @@
     "name": "שומרים",
     "status": "not_found",
     "v": 2
+  },
+  "showmetech.com.br": {
+    "checked_at": "2026-11-01T10:31:25+00:00",
+    "entries": 50,
+    "homepage": "https://www.showmetech.com.br",
+    "method": "attempt1",
+    "name": "Showmetech",
+    "status": "found",
+    "title": "Showmetech",
+    "url": "https://www.showmetech.com.br/feed/",
+    "v": 2,
+    "verified": true
   },
   "shvoong.co.il": {
     "checked_at": "2026-10-04T09:21:30+00:00",
@@ -4328,12 +4731,31 @@
     "v": 2,
     "verified": true
   },
+  "town.shodoshima.lg.jp": {
+    "checked_at": "2026-11-01T10:30:45+00:00",
+    "homepage": "https://www.town.shodoshima.lg.jp",
+    "name": "小豆島町",
+    "status": "not_found",
+    "v": 2
+  },
   "tradersunion.com": {
     "checked_at": "2026-10-04T09:23:00+00:00",
     "homepage": "https://tradersunion.com",
     "name": "tradersunion.com",
     "status": "not_found",
     "v": 2
+  },
+  "tradingview.com": {
+    "checked_at": "2026-11-01T10:30:33+00:00",
+    "entries": 30,
+    "homepage": "https://www.tradingview.com",
+    "method": "attempt1",
+    "name": "TradingView",
+    "status": "found",
+    "title": "TradingView Ideas",
+    "url": "https://www.tradingview.com/feed/",
+    "v": 2,
+    "verified": true
   },
   "travel.walla.co.il": {
     "checked_at": "2026-10-04T09:29:24+00:00",
@@ -4403,6 +4825,13 @@
     "v": 2,
     "verified": true
   },
+  "twaslnews1.twaslnews.com": {
+    "checked_at": "2026-11-01T10:31:04+00:00",
+    "homepage": "https://twaslnews1.twaslnews.com",
+    "name": "شبكة تواصل الإخبارية",
+    "status": "not_found",
+    "v": 2
+  },
   "tzomet-hrz.co.il": {
     "checked_at": "2026-10-04T09:25:14+00:00",
     "homepage": "https://www.tzomet-hrz.co.il",
@@ -4423,6 +4852,49 @@
     "name": "צומת השרון רעננה",
     "status": "not_found",
     "v": 2
+  },
+  "uco.es": {
+    "checked_at": "2026-11-01T10:30:48+00:00",
+    "homepage": "https://www.uco.es",
+    "name": "Universidad de Córdoba (UCO)",
+    "status": "not_found",
+    "v": 2
+  },
+  "vantage-dc.com": {
+    "checked_at": "2026-11-01T10:30:31+00:00",
+    "entries": 0,
+    "homepage": "https://vantage-dc.com",
+    "method": "attempt1",
+    "name": "Vantage Data Centers",
+    "status": "found",
+    "title": "Vantage Data Centers",
+    "url": "https://vantage-dc.com/feed/",
+    "v": 2,
+    "verified": true
+  },
+  "vaticannews.va": {
+    "checked_at": "2026-11-01T10:30:46+00:00",
+    "entries": 50,
+    "homepage": "https://www.vaticannews.va",
+    "method": "attempt3",
+    "name": "Vatican News",
+    "status": "found",
+    "title": "Vatican News - English",
+    "url": "https://www.vaticannews.va/en.rss.xml",
+    "v": 2,
+    "verified": true
+  },
+  "vgames.co.il": {
+    "checked_at": "2026-11-01T10:30:29+00:00",
+    "entries": 10,
+    "homepage": "https://vgames.co.il",
+    "method": "attempt1",
+    "name": "Vgames.co.il",
+    "status": "found",
+    "title": "Vgames.co.il - אתר משחקים הגדול בישראל",
+    "url": "https://vgames.co.il/rss",
+    "v": 2,
+    "verified": true
   },
   "vietnam.vn": {
     "checked_at": "2026-10-04T09:20:14+00:00",
@@ -4528,6 +5000,20 @@
     "v": 2,
     "verified": true
   },
+  "www1.health.gov.il": {
+    "checked_at": "2026-11-01T10:31:49+00:00",
+    "homepage": "https://www1.health.gov.il",
+    "name": "Gov.il",
+    "status": "not_found",
+    "v": 2
+  },
+  "x.com": {
+    "checked_at": "2026-11-01T10:30:30+00:00",
+    "homepage": "https://x.com",
+    "name": "X",
+    "status": "not_found",
+    "v": 2
+  },
   "xn--4dbcyzi5a.com": {
     "checked_at": "2026-10-04T09:25:59+00:00",
     "homepage": "https://www.xn--4dbcyzi5a.com",
@@ -4591,6 +5077,18 @@
     "v": 2,
     "verified": true
   },
+  "xpert.digital": {
+    "checked_at": "2026-11-01T10:30:30+00:00",
+    "entries": 30,
+    "homepage": "https://xpert.digital",
+    "method": "attempt1",
+    "name": "Xpert.Digital - Konrad Wolfenstein",
+    "status": "found",
+    "title": "Xpert.Digital",
+    "url": "https://xpert.digital/feed/",
+    "v": 2,
+    "verified": true
+  },
   "y-tax.co.il": {
     "checked_at": "2026-10-04T09:24:31+00:00",
     "entries": 10,
@@ -4602,6 +5100,13 @@
     "url": "https://y-tax.co.il/feed/",
     "v": 2,
     "verified": true
+  },
+  "yadvashem.org": {
+    "checked_at": "2026-11-01T10:30:45+00:00",
+    "homepage": "https://www.yadvashem.org",
+    "name": "Yad Vashem – The World Holocaust Remembrance Center",
+    "status": "not_found",
+    "v": 2
   },
   "yaffaps.com": {
     "checked_at": "2026-10-04T09:20:46+00:00",
@@ -4814,6 +5319,18 @@
     "name": "הבלוג של יובל אראל",
     "status": "not_found",
     "v": 2
+  },
+  "zhk.co.il": {
+    "checked_at": "2026-11-01T10:31:24+00:00",
+    "entries": 10,
+    "homepage": "https://www.zhk.co.il",
+    "method": "attempt1",
+    "name": "זהר.נט",
+    "status": "found",
+    "title": "זהר.נט",
+    "url": "https://www.zhk.co.il/feed/",
+    "v": 2,
+    "verified": true
   },
   "zman.co.il": {
     "checked_at": "2026-10-04T09:20:09+00:00",
